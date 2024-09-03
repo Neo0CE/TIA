@@ -1,0 +1,2771 @@
+drug	drug_action	KDT	KDT_name	Drug_effect	drugKDT
+Vigabatrin	inhibitor	18	ABAT	Inhibitor	Vigabatrin18
+Probucol	inhibitor	19	ABCA1	Inhibitor	Probucol19
+Ponatinib	inhibitor	25	ABL1	Inhibitor	Ponatinib25
+Regorafenib	inhibitor	25	ABL1	Inhibitor	Regorafenib25
+Nilotinib	inhibitor	25	ABL1	Inhibitor	Nilotinib25
+Imatinib	inhibitor	25	ABL1	Inhibitor	Imatinib25
+Bosutinib	inhibitor	25	ABL1	Inhibitor	Bosutinib25
+Asciminib	inhibitor|allosteric modulator	25	ABL1	Inhibitor	Asciminib25
+Dasatinib	multitarget	25	ABL1	Other	Dasatinib25
+Sulfasalazine	inhibitor	38	ACAT1	Inhibitor	Sulfasalazine38
+Neostigmine	inhibitor	43	ACHE	Inhibitor	Neostigmine43
+Pyridostigmine	inhibitor	43	ACHE	Inhibitor	Pyridostigmine43
+Edrophonium	inhibitor	43	ACHE	Inhibitor	Edrophonium43
+Demecarium	inhibitor	43	ACHE	Inhibitor	Demecarium43
+Gallamine triethiodide	inhibitor	43	ACHE	Inhibitor	Gallamine triethiodide43
+Pralidoxime	activator	43	ACHE	Activator	Pralidoxime43
+Rivastigmine	inhibitor	43	ACHE	Inhibitor	Rivastigmine43
+Minaprine	inhibitor	43	ACHE	Inhibitor	Minaprine43
+Donepezil	inhibitor	43	ACHE	Inhibitor	Donepezil43
+Ambenonium	inhibitor	43	ACHE	Inhibitor	Ambenonium43
+Physostigmine	inhibitor	43	ACHE	Inhibitor	Physostigmine43
+Galantamine	inhibitor	43	ACHE	Inhibitor	Galantamine43
+Bempedoic acid	inhibitor	47	ACLY	Inhibitor	Bempedoic acid47
+Sipuleucel-T	other	55	ACP3	Other	Sipuleucel-T55
+Human calcitonin	incorporation into and destabilization	87	ACTN1	Other	Human calcitonin87
+Pentostatin	inhibitor	100	ADA	Inhibitor	Pentostatin100
+Dipyridamole	inhibitor	100	ADA	Inhibitor	Dipyridamole100
+Fomepizole	inhibitor	124	ADH1A	Inhibitor	Fomepizole124
+Fomepizole	inhibitor	125	ADH1B	Inhibitor	Fomepizole125
+Fomepizole	inhibitor	126	ADH1C	Inhibitor	Fomepizole126
+Adenosine	agonist	134	ADORA1	Activator	Adenosine134
+Theophylline	antagonist	134	ADORA1	Inhibitor	Theophylline134
+Aminophylline	antagonist	134	ADORA1	Inhibitor	Aminophylline134
+Tramadol	agonist	134	ADORA1	Activator	Tramadol134
+Oxtriphylline	antagonist	134	ADORA1	Inhibitor	Oxtriphylline134
+Caffeine	antagonist	134	ADORA1	Inhibitor	Caffeine134
+Dyphylline	antagonist	134	ADORA1	Inhibitor	Dyphylline134
+Pentoxifylline	agonist	135	ADORA2A	Activator	Pentoxifylline135
+Regadenoson	agonist	135	ADORA2A	Activator	Regadenoson135
+Istradefylline	antagonist	135	ADORA2A	Inhibitor	Istradefylline135
+Dyphylline	antagonist	135	ADORA2A	Inhibitor	Dyphylline135
+Caffeine	antagonist	135	ADORA2A	Inhibitor	Caffeine135
+Theophylline	antagonist	135	ADORA2A	Inhibitor	Theophylline135
+Oxtriphylline	antagonist	135	ADORA2A	Inhibitor	Oxtriphylline135
+Adenosine	agonist	135	ADORA2A	Activator	Adenosine135
+Adenosine	agonist	136	ADORA2B	Activator	Adenosine136
+Caffeine	antagonist	136	ADORA2B	Inhibitor	Caffeine136
+Enprofylline	antagonist	136	ADORA2B	Inhibitor	Enprofylline136
+Theophylline	antagonist	136	ADORA2B	Inhibitor	Theophylline136
+Aminophylline	antagonist	140	ADORA3	Inhibitor	Aminophylline140
+Adenosine	agonist	140	ADORA3	Activator	Adenosine140
+Caffeine	antagonist	140	ADORA3	Inhibitor	Caffeine140
+Olaparib	inhibitor	142	PARP1	Inhibitor	Olaparib142
+Niraparib	inhibitor	142	PARP1	Inhibitor	Niraparib142
+Rucaparib	inhibitor	142	PARP1	Inhibitor	Rucaparib142
+Talazoparib	inhibitor	142	PARP1	Inhibitor	Talazoparib142
+Silodosin	antagonist	146	ADRA1D	Inhibitor	Silodosin146
+Dronedarone	antagonist	146	ADRA1D	Inhibitor	Dronedarone146
+Alfuzosin	antagonist	146	ADRA1D	Inhibitor	Alfuzosin146
+Norepinephrine	agonist	146	ADRA1D	Activator	Norepinephrine146
+Terazosin	antagonist	146	ADRA1D	Inhibitor	Terazosin146
+Dapiprazole	antagonist	146	ADRA1D	Inhibitor	Dapiprazole146
+Racepinephrine	antagonist	146	ADRA1D	Inhibitor	Racepinephrine146
+Doxazosin	antagonist	146	ADRA1D	Inhibitor	Doxazosin146
+Droxidopa	agonist	146	ADRA1D	Activator	Droxidopa146
+Phenylephrine	agonist	146	ADRA1D	Activator	Phenylephrine146
+Prazosin	antagonist	146	ADRA1D	Inhibitor	Prazosin146
+Ergotamine	partial agonist	146	ADRA1D	Activator	Ergotamine146
+Ergotamine	partial agonist	147	ADRA1B	Activator	Ergotamine147
+Brexpiprazole	antagonist	147	ADRA1B	Inhibitor	Brexpiprazole147
+Midodrine	agonist	147	ADRA1B	Activator	Midodrine147
+Chlorpromazine	antagonist	147	ADRA1B	Inhibitor	Chlorpromazine147
+Terazosin	antagonist	147	ADRA1B	Inhibitor	Terazosin147
+Prazosin	antagonist	147	ADRA1B	Inhibitor	Prazosin147
+Alfuzosin	antagonist	147	ADRA1B	Inhibitor	Alfuzosin147
+Silodosin	antagonist	147	ADRA1B	Inhibitor	Silodosin147
+Dapiprazole	antagonist	147	ADRA1B	Inhibitor	Dapiprazole147
+Racepinephrine	agonist	147	ADRA1B	Activator	Racepinephrine147
+Droxidopa	agonist	147	ADRA1B	Activator	Droxidopa147
+Dronedarone	antagonist	147	ADRA1B	Inhibitor	Dronedarone147
+Phenylephrine	agonist	147	ADRA1B	Activator	Phenylephrine147
+Epinephrine	agonist	147	ADRA1B	Activator	Epinephrine147
+Norepinephrine	agonist	147	ADRA1B	Activator	Norepinephrine147
+Terazosin	antagonist	148	ADRA1A	Inhibitor	Terazosin148
+Racepinephrine	agonist	148	ADRA1A	Activator	Racepinephrine148
+Benzphetamine	agonist	148	ADRA1A	Activator	Benzphetamine148
+Chlorpromazine	antagonist	148	ADRA1A	Inhibitor	Chlorpromazine148
+Doxazosin	antagonist	148	ADRA1A	Inhibitor	Doxazosin148
+Oxymetazoline	partial agonist	148	ADRA1A	Activator	Oxymetazoline148
+Metaraminol	agonist	148	ADRA1A	Activator	Metaraminol148
+Isometheptene	agonist	148	ADRA1A	Activator	Isometheptene148
+Xylometazoline	agonist|partial agonist	148	ADRA1A	Activator	Xylometazoline148
+Epinephrine	agonist	148	ADRA1A	Activator	Epinephrine148
+Phenoxybenzamine	antagonist	148	ADRA1A	Inhibitor	Phenoxybenzamine148
+Dronedarone	antagonist	148	ADRA1A	Inhibitor	Dronedarone148
+Tolazoline	antagonist	148	ADRA1A	Inhibitor	Tolazoline148
+Prazosin	antagonist	148	ADRA1A	Inhibitor	Prazosin148
+Silodosin	antagonist	148	ADRA1A	Inhibitor	Silodosin148
+Phenylephrine	agonist	148	ADRA1A	Activator	Phenylephrine148
+Trifluoperazine	antagonist	148	ADRA1A	Inhibitor	Trifluoperazine148
+Dipivefrin	agonist	148	ADRA1A	Activator	Dipivefrin148
+Alfuzosin	antagonist	148	ADRA1A	Inhibitor	Alfuzosin148
+Nicergoline	antagonist	148	ADRA1A	Inhibitor	Nicergoline148
+Methoxamine	agonist	148	ADRA1A	Activator	Methoxamine148
+Naphazoline	agonist	148	ADRA1A	Activator	Naphazoline148
+Ergotamine	partial agonist	148	ADRA1A	Activator	Ergotamine148
+Apraclonidine	agonist	148	ADRA1A	Activator	Apraclonidine148
+Midodrine	agonist	148	ADRA1A	Activator	Midodrine148
+Carvedilol	antagonist|potentiator	148	ADRA1A	Inhibitor	Carvedilol148
+Phentolamine	antagonist	148	ADRA1A	Inhibitor	Phentolamine148
+Propiverine	antagonist	148	ADRA1A	Inhibitor	Propiverine148
+Phendimetrazine	agonist	148	ADRA1A	Activator	Phendimetrazine148
+Dapiprazole	antagonist	148	ADRA1A	Inhibitor	Dapiprazole148
+Droperidol	antagonist	148	ADRA1A	Inhibitor	Droperidol148
+Pseudoephedrine	agonist	148	ADRA1A	Activator	Pseudoephedrine148
+Ergometrine	agonist	148	ADRA1A	Activator	Ergometrine148
+Droxidopa	agonist	148	ADRA1A	Activator	Droxidopa148
+Tamsulosin	antagonist	148	ADRA1A	Inhibitor	Tamsulosin148
+Ephedrine	agonist	148	ADRA1A	Activator	Ephedrine148
+Norepinephrine	agonist	148	ADRA1A	Activator	Norepinephrine148
+Phentolamine	antagonist	150	ADRA2A	Inhibitor	Phentolamine150
+Pseudoephedrine	agonist	150	ADRA2A	Activator	Pseudoephedrine150
+Epinephrine	agonist	150	ADRA2A	Activator	Epinephrine150
+Apraclonidine	agonist	150	ADRA2A	Activator	Apraclonidine150
+Dexmedetomidine	agonist	150	ADRA2A	Activator	Dexmedetomidine150
+Clonidine	agonist	150	ADRA2A	Activator	Clonidine150
+DL-Methylephedrine	agonist	150	ADRA2A	Activator	DL-Methylephedrine150
+Lofexidine	agonist	150	ADRA2A	Activator	Lofexidine150
+Yohimbine	antagonist	150	ADRA2A	Inhibitor	Yohimbine150
+Periciazine	antagonist	150	ADRA2A	Inhibitor	Periciazine150
+Mirtazapine	antagonist	150	ADRA2A	Inhibitor	Mirtazapine150
+Dronedarone	antagonist	150	ADRA2A	Inhibitor	Dronedarone150
+Guanabenz	agonist	150	ADRA2A	Activator	Guanabenz150
+Dipivefrin	agonist	150	ADRA2A	Activator	Dipivefrin150
+Naphazoline	agonist	150	ADRA2A	Activator	Naphazoline150
+Brimonidine	agonist	150	ADRA2A	Activator	Brimonidine150
+Norepinephrine	agonist	150	ADRA2A	Activator	Norepinephrine150
+Xylometazoline	agonist	150	ADRA2A	Activator	Xylometazoline150
+Guanfacine	agonist	150	ADRA2A	Activator	Guanfacine150
+Methyldopa	agonist	150	ADRA2A	Activator	Methyldopa150
+Droxidopa	agonist	150	ADRA2A	Activator	Droxidopa150
+Benzphetamine	agonist	150	ADRA2A	Activator	Benzphetamine150
+Racepinephrine	agonist	150	ADRA2A	Activator	Racepinephrine150
+Oxymetazoline	agonist|partial agonist	150	ADRA2A	Activator	Oxymetazoline150
+Phenoxybenzamine	antagonist	150	ADRA2A	Inhibitor	Phenoxybenzamine150
+Moxonidine	agonist	150	ADRA2A	Activator	Moxonidine150
+Clonidine	agonist	151	ADRA2B	Activator	Clonidine151
+Racepinephrine	agonist	151	ADRA2B	Activator	Racepinephrine151
+Droxidopa	agonist	151	ADRA2B	Activator	Droxidopa151
+Norepinephrine	agonist	151	ADRA2B	Activator	Norepinephrine151
+Brimonidine	agonist	151	ADRA2B	Activator	Brimonidine151
+Xylometazoline	agonist	151	ADRA2B	Activator	Xylometazoline151
+Dronedarone	antagonist	151	ADRA2B	Inhibitor	Dronedarone151
+Yohimbine	antagonist	151	ADRA2B	Inhibitor	Yohimbine151
+Oxymetazoline	agonist	151	ADRA2B	Activator	Oxymetazoline151
+Etomidate	agonist	151	ADRA2B	Activator	Etomidate151
+Epinephrine	agonist	151	ADRA2B	Activator	Epinephrine151
+Norepinephrine	agonist	152	ADRA2C	Activator	Norepinephrine152
+Brimonidine	agonist	152	ADRA2C	Activator	Brimonidine152
+Dronedarone	antagonist	152	ADRA2C	Inhibitor	Dronedarone152
+Yohimbine	antagonist	152	ADRA2C	Inhibitor	Yohimbine152
+Droxidopa	agonist	152	ADRA2C	Activator	Droxidopa152
+Brexpiprazole	antagonist	152	ADRA2C	Inhibitor	Brexpiprazole152
+Clonidine	agonist	152	ADRA2C	Activator	Clonidine152
+Racepinephrine	agonist	152	ADRA2C	Activator	Racepinephrine152
+Pindolol	partial agonist	153	ADRB1	Activator	Pindolol153
+Propranolol	antagonist	153	ADRB1	Inhibitor	Propranolol153
+Carteolol	partial agonist	153	ADRB1	Activator	Carteolol153
+DL-Methylephedrine	agonist	153	ADRB1	Activator	DL-Methylephedrine153
+Epinephrine	agonist	153	ADRB1	Activator	Epinephrine153
+Labetalol	antagonist	153	ADRB1	Inhibitor	Labetalol153
+Dobutamine	agonist	153	ADRB1	Activator	Dobutamine153
+Levobunolol	antagonist	153	ADRB1	Inhibitor	Levobunolol153
+Racepinephrine	agonist	153	ADRB1	Activator	Racepinephrine153
+Isoetharine	agonist	153	ADRB1	Activator	Isoetharine153
+Nebivolol	antagonist	153	ADRB1	Inhibitor	Nebivolol153
+Atenolol	antagonist	153	ADRB1	Inhibitor	Atenolol153
+Levobetaxolol	antagonist	153	ADRB1	Inhibitor	Levobetaxolol153
+Sotalol	antagonist	153	ADRB1	Inhibitor	Sotalol153
+Isoprenaline	agonist	153	ADRB1	Activator	Isoprenaline153
+Metipranolol	antagonist	153	ADRB1	Inhibitor	Metipranolol153
+Nadolol	antagonist	153	ADRB1	Inhibitor	Nadolol153
+Acebutolol	partial agonist	153	ADRB1	Activator	Acebutolol153
+Oxprenolol	antagonist	153	ADRB1	Inhibitor	Oxprenolol153
+Metoprolol	antagonist	153	ADRB1	Inhibitor	Metoprolol153
+Arbutamine	agonist	153	ADRB1	Activator	Arbutamine153
+Droxidopa	agonist	153	ADRB1	Activator	Droxidopa153
+Timolol	antagonist	153	ADRB1	Inhibitor	Timolol153
+Practolol	antagonist	153	ADRB1	Inhibitor	Practolol153
+Penbutolol	antagonist|partial agonist	153	ADRB1	Inhibitor	Penbutolol153
+Bisoprolol	antagonist	153	ADRB1	Inhibitor	Bisoprolol153
+Betaxolol	antagonist	153	ADRB1	Inhibitor	Betaxolol153
+Xamoterol	partial agonist	153	ADRB1	Activator	Xamoterol153
+Norepinephrine	agonist	153	ADRB1	Activator	Norepinephrine153
+Celiprolol	antagonist	153	ADRB1	Inhibitor	Celiprolol153
+Ephedrine	agonist	153	ADRB1	Activator	Ephedrine153
+Carvedilol	antagonist	153	ADRB1	Inhibitor	Carvedilol153
+Celiprolol	agonist	154	ADRB2	Activator	Celiprolol154
+Labetalol	antagonist	154	ADRB2	Inhibitor	Labetalol154
+Orciprenaline	agonist	154	ADRB2	Activator	Orciprenaline154
+Vilanterol	agonist	154	ADRB2	Activator	Vilanterol154
+Norepinephrine	agonist	154	ADRB2	Activator	Norepinephrine154
+Epinephrine	agonist	154	ADRB2	Activator	Epinephrine154
+Terbutaline	agonist	154	ADRB2	Activator	Terbutaline154
+Arformoterol	agonist	154	ADRB2	Activator	Arformoterol154
+Pindolol	partial agonist	154	ADRB2	Activator	Pindolol154
+Isoprenaline	agonist|binder	154	ADRB2	Activator	Isoprenaline154
+Penbutolol	antagonist|partial agonist	154	ADRB2	Inhibitor	Penbutolol154
+Metipranolol	antagonist	154	ADRB2	Inhibitor	Metipranolol154
+Racepinephrine	agonist	154	ADRB2	Activator	Racepinephrine154
+Timolol	antagonist	154	ADRB2	Inhibitor	Timolol154
+Fenoterol	agonist	154	ADRB2	Activator	Fenoterol154
+Sotalol	antagonist	154	ADRB2	Inhibitor	Sotalol154
+Pirbuterol	agonist	154	ADRB2	Activator	Pirbuterol154
+Ritodrine	agonist	154	ADRB2	Activator	Ritodrine154
+Levosalbutamol	agonist	154	ADRB2	Activator	Levosalbutamol154
+Droxidopa	agonist	154	ADRB2	Activator	Droxidopa154
+Etafedrine	agonist	154	ADRB2	Activator	Etafedrine154
+Procaterol	agonist	154	ADRB2	Activator	Procaterol154
+Formoterol	agonist	154	ADRB2	Activator	Formoterol154
+Indacaterol	agonist	154	ADRB2	Activator	Indacaterol154
+Salmeterol	agonist	154	ADRB2	Activator	Salmeterol154
+Olodaterol	agonist	154	ADRB2	Activator	Olodaterol154
+Levobunolol	antagonist	154	ADRB2	Inhibitor	Levobunolol154
+Salbutamol	agonist	154	ADRB2	Activator	Salbutamol154
+Carteolol	antagonist	154	ADRB2	Inhibitor	Carteolol154
+Clenbuterol	agonist	154	ADRB2	Activator	Clenbuterol154
+Dipivefrin	agonist	154	ADRB2	Activator	Dipivefrin154
+Ephedrine	agonist	154	ADRB2	Activator	Ephedrine154
+Protokylol	agonist	154	ADRB2	Activator	Protokylol154
+Vibegron	agonist	155	ADRB3	Activator	Vibegron155
+Racepinephrine	agonist	155	ADRB3	Activator	Racepinephrine155
+Droxidopa	agonist	155	ADRB3	Activator	Droxidopa155
+Isoprenaline	agonist	155	ADRB3	Activator	Isoprenaline155
+Mirabegron	agonist	155	ADRB3	Activator	Mirabegron155
+Norepinephrine	agonist	155	ADRB3	Activator	Norepinephrine155
+Irbesartan	antagonist	185	AGTR1	Inhibitor	Irbesartan185
+Candesartan cilexetil	antagonist	185	AGTR1	Inhibitor	Candesartan cilexetil185
+Telmisartan	antagonist	185	AGTR1	Inhibitor	Telmisartan185
+Valsartan	antagonist	185	AGTR1	Inhibitor	Valsartan185
+Azilsartan medoxomil	antagonist	185	AGTR1	Inhibitor	Azilsartan medoxomil185
+Olmesartan	antagonist	185	AGTR1	Inhibitor	Olmesartan185
+Losartan	antagonist	185	AGTR1	Inhibitor	Losartan185
+Eprosartan	antagonist	185	AGTR1	Inhibitor	Eprosartan185
+Tapinarof	agonist	196	AHR	Activator	Tapinarof196
+Aminolevulinic acid	inducer	210	ALAD	Activator	Aminolevulinic acid210
+Patent Blue	binder	213	ALB	Ligand	Patent Blue213
+Guanidine	inhibitor	217	ALDH2	Inhibitor	Guanidine217
+Disulfiram	inhibitor	217	ALDH2	Inhibitor	Disulfiram217
+Citric acid	inhibitor	231	AKR1B1	Inhibitor	Citric acid231
+Ceritinib	antagonist	238	ALK	Inhibitor	Ceritinib238
+Brigatinib	inhibitor	238	ALK	Inhibitor	Brigatinib238
+Lorlatinib	inhibitor	238	ALK	Inhibitor	Lorlatinib238
+Alectinib	inhibitor	238	ALK	Inhibitor	Alectinib238
+Crizotinib	inhibitor	238	ALK	Inhibitor	Crizotinib238
+Gilteritinib	inhibitor	238	ALK	Inhibitor	Gilteritinib238
+Meclofenamic acid	inhibitor	240	ALOX5	Inhibitor	Meclofenamic acid240
+Balsalazide	inhibitor	240	ALOX5	Inhibitor	Balsalazide240
+Masoprocol	inhibitor	240	ALOX5	Inhibitor	Masoprocol240
+Diethylcarbamazine	inhibitor	240	ALOX5	Inhibitor	Diethylcarbamazine240
+Mesalazine	inhibitor	240	ALOX5	Inhibitor	Mesalazine240
+Sulfasalazine	inhibitor	240	ALOX5	Inhibitor	Sulfasalazine240
+Amifostine	inducer	251	ALPG	Activator	Amifostine251
+Acarbose	inhibitor	279	AMY2A	Inhibitor	Acarbose279
+Faricimab	antagonist	285	ANGPT2	Inhibitor	Faricimab285
+Clodronic acid	inhibitor	291	SLC25A4	Inhibitor	Clodronic acid291
+Clodronic acid	inhibitor	292	SLC25A5	Inhibitor	Clodronic acid292
+Clodronic acid	inhibitor	293	SLC25A6	Inhibitor	Clodronic acid293
+Hydrocortisone butyrate	other	301	ANXA1	Other	Hydrocortisone butyrate301
+Hydrocortisone probutate	other	301	ANXA1	Other	Hydrocortisone probutate301
+Fluocinolone acetonide	inducer	301	ANXA1	Activator	Fluocinolone acetonide301
+Hydrocortisone phosphate	other	301	ANXA1	Other	Hydrocortisone phosphate301
+Hydrocortisone acetate	other	301	ANXA1	Other	Hydrocortisone acetate301
+Hydrocortisone cypionate	other	301	ANXA1	Other	Hydrocortisone cypionate301
+Hydrocortisone	agonist	301	ANXA1	Activator	Hydrocortisone301
+Hydrocortisone valerate	other	301	ANXA1	Other	Hydrocortisone valerate301
+Fluocinolone acetonide	inducer	302	ANXA2	Activator	Fluocinolone acetonide302
+Fluocinolone acetonide	inducer	306	ANXA3	Activator	Fluocinolone acetonide306
+Fluocinolone acetonide	inducer	307	ANXA4	Activator	Fluocinolone acetonide307
+Fluocinolone acetonide	inducer	308	ANXA5	Activator	Fluocinolone acetonide308
+Dequalinium	antagonist|inhibitor	331	XIAP	Inhibitor	Dequalinium331
+Volanesorsen	inhibitor|antisense oligonucleotide	345	APOC3	Inhibitor	Volanesorsen345
+Florbetapir (18F)	binder	351	APP	Ligand	Florbetapir (18F)351
+Flutemetamol (18F)	binder	351	APP	Ligand	Flutemetamol (18F)351
+Florbetaben (18F)	binder	351	APP	Ligand	Florbetaben (18F)351
+Lutetium Lu-177 vipivotide tetraxetan	binder	354	KLK3	Ligand	Lutetium Lu-177 vipivotide tetraxetan354
+Gallium Ga-68 gozetotide	binder	354	KLK3	Ligand	Gallium Ga-68 gozetotide354
+Clascoterone	antagonist	367	AR	Inhibitor	Clascoterone367
+Testosterone cypionate	agonist	367	AR	Activator	Testosterone cypionate367
+Methyltestosterone	agonist	367	AR	Activator	Methyltestosterone367
+Testosterone undecanoate	agonist	367	AR	Activator	Testosterone undecanoate367
+Testosterone	agonist	367	AR	Activator	Testosterone367
+Flutamide	antagonist	367	AR	Inhibitor	Flutamide367
+Dienogest	antagonist	367	AR	Inhibitor	Dienogest367
+Enzalutamide	inhibitor	367	AR	Inhibitor	Enzalutamide367
+Testosterone enanthate	agonist	367	AR	Activator	Testosterone enanthate367
+Nilutamide	antagonist	367	AR	Inhibitor	Nilutamide367
+Darolutamide	antagonist	367	AR	Inhibitor	Darolutamide367
+Nandrolone decanoate	agonist	367	AR	Activator	Nandrolone decanoate367
+Danazol	agonist	367	AR	Activator	Danazol367
+Drospirenone	antagonist	367	AR	Inhibitor	Drospirenone367
+Cyproterone acetate	antagonist	367	AR	Inhibitor	Cyproterone acetate367
+Fluoxymesterone	agonist	367	AR	Activator	Fluoxymesterone367
+Apalutamide	antagonist	367	AR	Inhibitor	Apalutamide367
+Oxymetholone	agonist|activator	367	AR	Activator	Oxymetholone367
+Nandrolone phenpropionate	agonist	367	AR	Activator	Nandrolone phenpropionate367
+Stanozolol	agonist	367	AR	Activator	Stanozolol367
+Oxandrolone	agonist	367	AR	Activator	Oxandrolone367
+Bicalutamide	antagonist	367	AR	Inhibitor	Bicalutamide367
+Dalteparin	potentiator	462	SERPINC1	Activator	Dalteparin462
+Nadroparin	potentiator	462	SERPINC1	Activator	Nadroparin462
+Heparin	potentiator	462	SERPINC1	Activator	Heparin462
+Enoxaparin	potentiator	462	SERPINC1	Activator	Enoxaparin462
+Sulodexide	potentiator	462	SERPINC1	Activator	Sulodexide462
+Tinzaparin	potentiator	462	SERPINC1	Activator	Tinzaparin462
+Fondaparinux	potentiator	462	SERPINC1	Activator	Fondaparinux462
+Methotrexate	inhibitor	471	ATIC	Inhibitor	Methotrexate471
+Pemetrexed	inhibitor	471	ATIC	Inhibitor	Pemetrexed471
+Ciclopirox	binder	476	ATP1A1	Ligand	Ciclopirox476
+Acetyldigitoxin	inhibitor	476	ATP1A1	Inhibitor	Acetyldigitoxin476
+Almitrine	binder	476	ATP1A1	Ligand	Almitrine476
+Etacrynic acid	inhibitor	476	ATP1A1	Inhibitor	Etacrynic acid476
+Ouabain	inhibitor	476	ATP1A1	Inhibitor	Ouabain476
+Trichlormethiazide	inhibitor	476	ATP1A1	Inhibitor	Trichlormethiazide476
+Deslanoside	inhibitor	476	ATP1A1	Inhibitor	Deslanoside476
+Digoxin	inhibitor	476	ATP1A1	Inhibitor	Digoxin476
+Digitoxin	inhibitor	476	ATP1A1	Inhibitor	Digitoxin476
+Bretylium	inhibitor	476	ATP1A1	Inhibitor	Bretylium476
+Cyclothiazide	inhibitor	486	FXYD2	Inhibitor	Cyclothiazide486
+Esomeprazole	inhibitor	495	ATP4A	Inhibitor	Esomeprazole495
+Pantoprazole	inhibitor	495	ATP4A	Inhibitor	Pantoprazole495
+Lansoprazole	inhibitor	495	ATP4A	Inhibitor	Lansoprazole495
+Omeprazole	inhibitor	495	ATP4A	Inhibitor	Omeprazole495
+Rabeprazole	inhibitor	495	ATP4A	Inhibitor	Rabeprazole495
+Dexlansoprazole	inhibitor	495	ATP4A	Inhibitor	Dexlansoprazole495
+Dexlansoprazole	inhibitor	496	ATP4B	Inhibitor	Dexlansoprazole496
+Gallium nitrate	inhibitor	526	ATP6V1B2	Inhibitor	Gallium nitrate526
+Thonzonium	inhibitor	528	ATP6V1C1	Inhibitor	Thonzonium528
+Desmopressin	other	552	AVPR1A	Other	Desmopressin552
+Conivaptan	antagonist	552	AVPR1A	Inhibitor	Conivaptan552
+Terlipressin	agonist	552	AVPR1A	Activator	Terlipressin552
+Lypressin	other	552	AVPR1A	Other	Lypressin552
+Vasopressin	agonist|regulator	552	AVPR1A	Activator	Vasopressin552
+Lypressin	other	553	AVPR1B	Other	Lypressin553
+Terlipressin	agonist	553	AVPR1B	Activator	Terlipressin553
+Vasopressin	agonist	553	AVPR1B	Activator	Vasopressin553
+Desmopressin	other	553	AVPR1B	Other	Desmopressin553
+Vasopressin	agonist|regulator	554	AVPR2	Activator	Vasopressin554
+Terlipressin	agonist	554	AVPR2	Activator	Terlipressin554
+Desmopressin	agonist	554	AVPR2	Activator	Desmopressin554
+Lypressin	other	554	AVPR2	Other	Lypressin554
+Tolvaptan	antagonist	554	AVPR2	Inhibitor	Tolvaptan554
+Conivaptan	antagonist	554	AVPR2	Inhibitor	Conivaptan554
+Gilteritinib	inhibitor	558	AXL	Inhibitor	Gilteritinib558
+Edrophonium	inhibitor	590	BCHE	Inhibitor	Edrophonium590
+Hexafluronium	inhibitor	590	BCHE	Inhibitor	Hexafluronium590
+Echothiophate	inhibitor	590	BCHE	Inhibitor	Echothiophate590
+Ketamine	inhibitor	590	BCHE	Inhibitor	Ketamine590
+Dipivefrin	substrate	590	BCHE	Ligand	Dipivefrin590
+Pyridostigmine	inhibitor	590	BCHE	Inhibitor	Pyridostigmine590
+Malathion	inhibitor	590	BCHE	Inhibitor	Malathion590
+Pralidoxime	activator	590	BCHE	Activator	Pralidoxime590
+Rivastigmine	inhibitor	590	BCHE	Inhibitor	Rivastigmine590
+Encorafenib	inhibitor	595	CCND1	Inhibitor	Encorafenib595
+Arsenic trioxide	antagonist	595	CCND1	Inhibitor	Arsenic trioxide595
+Paclitaxel	inhibitor	596	BCL2	Inhibitor	Paclitaxel596
+Rasagiline	activator	596	BCL2	Activator	Rasagiline596
+Venetoclax	antagonist|inhibitor	596	BCL2	Inhibitor	Venetoclax596
+Idecabtagene vicleucel	binder	608	TNFRSF17	Ligand	Idecabtagene vicleucel608
+Ciltacabtagene autoleucel	binder	608	TNFRSF17	Ligand	Ciltacabtagene autoleucel608
+Teclistamab	antibody	608	TNFRSF17	Ligand	Teclistamab608
+Imatinib	inhibitor	613	BCR	Inhibitor	Imatinib613
+Ponatinib	inhibitor	613	BCR	Inhibitor	Ponatinib613
+Bosutinib	inhibitor	613	BCR	Inhibitor	Bosutinib613
+Icatibant	antagonist	624	BDKRB2	Inhibitor	Icatibant624
+Gallium nitrate	antagonist	632	BGLAP	Inhibitor	Gallium nitrate632
+Betaine	substrate	635	BHMT	Ligand	Betaine635
+Riboflavin	product of	645	BLVRB	Other	Riboflavin645
+Dibotermin alfa	ligand	657	BMPR1A	Ligand	Dibotermin alfa657
+Dibotermin alfa	ligand	659	BMPR2	Ligand	Dibotermin alfa659
+Regorafenib	inhibitor	673	BRAF	Inhibitor	Regorafenib673
+Ripretinib	inhibitor	673	BRAF	Inhibitor	Ripretinib673
+Sorafenib	inhibitor	673	BRAF	Inhibitor	Sorafenib673
+Dabrafenib	inhibitor	673	BRAF	Inhibitor	Dabrafenib673
+Vemurafenib	inhibitor	673	BRAF	Inhibitor	Vemurafenib673
+Encorafenib	inhibitor	673	BRAF	Inhibitor	Encorafenib673
+Nicotinamide	product of	683	BST1	Other	Nicotinamide683
+Zanubrutinib	inhibitor	695	BTK	Inhibitor	Zanubrutinib695
+Ibrutinib	inhibitor	695	BTK	Inhibitor	Ibrutinib695
+Acalabrutinib	inhibitor	695	BTK	Inhibitor	Acalabrutinib695
+Human C1-esterase inhibitor	inhibitor	715	C1R	Inhibitor	Human C1-esterase inhibitor715
+Conestat alfa	inhibitor	715	C1R	Inhibitor	Conestat alfa715
+Human C1-esterase inhibitor	inhibitor	716	C1S	Inhibitor	Human C1-esterase inhibitor716
+Sutimlimab	inhibitor|antibody	716	C1S	Inhibitor	Sutimlimab716
+Conestat alfa	inhibitor	716	C1S	Inhibitor	Conestat alfa716
+Pegcetacoplan	binder|regulator	718	C3	Ligand	Pegcetacoplan718
+Human immunoglobulin G	binder	718	C3	Ligand	Human immunoglobulin G718
+Human immunoglobulin G	binder	720	C4A	Ligand	Human immunoglobulin G720
+Human immunoglobulin G	binder	721	C4B	Ligand	Human immunoglobulin G721
+Human immunoglobulin G	binder	721	C4B	Ligand	Human immunoglobulin G721
+Eculizumab	antibody	727	C5	Ligand	Eculizumab727
+Human immunoglobulin G	binder	727	C5	Ligand	Human immunoglobulin G727
+Ravulizumab	inhibitor	727	C5	Inhibitor	Ravulizumab727
+Avacopan	antagonist	728	C5AR1	Inhibitor	Avacopan728
+Diclofenamide	inhibitor	759	CA1	Inhibitor	Diclofenamide759
+Acetazolamide	inhibitor	759	CA1	Inhibitor	Acetazolamide759
+Chlorothiazide	inhibitor	759	CA1	Inhibitor	Chlorothiazide759
+Dorzolamide	inhibitor	759	CA1	Inhibitor	Dorzolamide759
+Methazolamide	inhibitor	759	CA1	Inhibitor	Methazolamide759
+Chlorthalidone	inhibitor	759	CA1	Inhibitor	Chlorthalidone759
+Diazoxide	inhibitor	759	CA1	Inhibitor	Diazoxide759
+Sodium sulfate	inhibitor	759	CA1	Inhibitor	Sodium sulfate759
+Quinethazone	inhibitor	759	CA1	Inhibitor	Quinethazone759
+Methazolamide	inhibitor	760	CA2	Inhibitor	Methazolamide760
+Sodium sulfate	inhibitor	760	CA2	Inhibitor	Sodium sulfate760
+Quinethazone	inhibitor	760	CA2	Inhibitor	Quinethazone760
+Diazoxide	inhibitor	760	CA2	Inhibitor	Diazoxide760
+Topiramate	inhibitor	760	CA2	Inhibitor	Topiramate760
+Acetazolamide	inhibitor	760	CA2	Inhibitor	Acetazolamide760
+Dorzolamide	inhibitor	760	CA2	Inhibitor	Dorzolamide760
+Chlorothiazide	inhibitor	760	CA2	Inhibitor	Chlorothiazide760
+Diclofenamide	inhibitor	760	CA2	Inhibitor	Diclofenamide760
+Brinzolamide	inhibitor	760	CA2	Inhibitor	Brinzolamide760
+Acetazolamide	inhibitor	761	CA3	Inhibitor	Acetazolamide761
+Diclofenamide	inhibitor	762	CA4	Inhibitor	Diclofenamide762
+Methazolamide	inhibitor	762	CA4	Inhibitor	Methazolamide762
+Dorzolamide	inhibitor	762	CA4	Inhibitor	Dorzolamide762
+Acetazolamide	inhibitor	762	CA4	Inhibitor	Acetazolamide762
+Topiramate	inhibitor	762	CA4	Inhibitor	Topiramate762
+Diclofenamide	inhibitor	766	CA7	Inhibitor	Diclofenamide766
+Methazolamide	inhibitor	766	CA7	Inhibitor	Methazolamide766
+Acetazolamide	inhibitor	766	CA7	Inhibitor	Acetazolamide766
+Acetazolamide	inhibitor	771	CA12	Inhibitor	Acetazolamide771
+Levetiracetam	inhibitor	774	CACNA1B	Inhibitor	Levetiracetam774
+Ziconotide	inhibitor	774	CACNA1B	Inhibitor	Ziconotide774
+Nicardipine	inhibitor	775	CACNA1C	Inhibitor	Nicardipine775
+Isradipine	inhibitor	775	CACNA1C	Inhibitor	Isradipine775
+Nilvadipine	inhibitor	775	CACNA1C	Inhibitor	Nilvadipine775
+Verapamil	inhibitor	775	CACNA1C	Inhibitor	Verapamil775
+Cinnarizine	inhibitor	775	CACNA1C	Inhibitor	Cinnarizine775
+Felodipine	inhibitor	775	CACNA1C	Inhibitor	Felodipine775
+Amlodipine	inhibitor	775	CACNA1C	Inhibitor	Amlodipine775
+Dronedarone	inhibitor	775	CACNA1C	Inhibitor	Dronedarone775
+Diltiazem	blocker	775	CACNA1C	Inhibitor	Diltiazem775
+Propiverine	antagonist	775	CACNA1C	Inhibitor	Propiverine775
+Nifedipine	inhibitor	775	CACNA1C	Inhibitor	Nifedipine775
+Nitrendipine	inhibitor	775	CACNA1C	Inhibitor	Nitrendipine775
+Nimodipine	inhibitor	775	CACNA1C	Inhibitor	Nimodipine775
+Nisoldipine	inhibitor	775	CACNA1C	Inhibitor	Nisoldipine775
+Ibutilide	activator	775	CACNA1C	Activator	Ibutilide775
+Dronedarone	inhibitor	776	CACNA1D	Inhibitor	Dronedarone776
+Nifedipine	inhibitor	776	CACNA1D	Inhibitor	Nifedipine776
+Felodipine	inhibitor	776	CACNA1D	Inhibitor	Felodipine776
+Nimodipine	inhibitor	776	CACNA1D	Inhibitor	Nimodipine776
+Cinnarizine	inhibitor	776	CACNA1D	Inhibitor	Cinnarizine776
+Nitrendipine	inhibitor	776	CACNA1D	Inhibitor	Nitrendipine776
+Isradipine	inhibitor	776	CACNA1D	Inhibitor	Isradipine776
+Nisoldipine	inhibitor	776	CACNA1D	Inhibitor	Nisoldipine776
+Nicardipine	inhibitor	776	CACNA1D	Inhibitor	Nicardipine776
+Lamotrigine	inhibitor	777	CACNA1E	Inhibitor	Lamotrigine777
+Dronedarone	inhibitor	778	CACNA1F	Inhibitor	Dronedarone778
+Cinnarizine	inhibitor	778	CACNA1F	Inhibitor	Cinnarizine778
+Nimodipine	inhibitor	778	CACNA1F	Inhibitor	Nimodipine778
+Isradipine	inhibitor	779	CACNA1S	Inhibitor	Isradipine779
+Nimodipine	inhibitor	779	CACNA1S	Inhibitor	Nimodipine779
+Cinnarizine	inhibitor	779	CACNA1S	Inhibitor	Cinnarizine779
+Felodipine	inhibitor	779	CACNA1S	Inhibitor	Felodipine779
+Nitrendipine	inhibitor	779	CACNA1S	Inhibitor	Nitrendipine779
+Nisoldipine	inhibitor	779	CACNA1S	Inhibitor	Nisoldipine779
+Pinaverium	antagonist|inhibitor	779	CACNA1S	Inhibitor	Pinaverium779
+Dronedarone	inhibitor	779	CACNA1S	Inhibitor	Dronedarone779
+Nicardipine	inhibitor	781	CACNA2D1	Inhibitor	Nicardipine781
+Pregabalin	other	781	CACNA2D1	Other	Pregabalin781
+Isradipine	inhibitor	781	CACNA2D1	Inhibitor	Isradipine781
+Nilvadipine	inhibitor	781	CACNA2D1	Inhibitor	Nilvadipine781
+Felodipine	inhibitor	781	CACNA2D1	Inhibitor	Felodipine781
+Gabapentin	inhibitor	781	CACNA2D1	Inhibitor	Gabapentin781
+Nitrendipine	inhibitor	781	CACNA2D1	Inhibitor	Nitrendipine781
+Nisoldipine	inhibitor	781	CACNA2D1	Inhibitor	Nisoldipine781
+Nimodipine	inhibitor	782	CACNB1	Inhibitor	Nimodipine782
+Dronedarone	inhibitor	782	CACNB1	Inhibitor	Dronedarone782
+Ibutilide	activator	782	CACNB1	Activator	Ibutilide782
+Nifedipine	inhibitor	783	CACNB2	Inhibitor	Nifedipine783
+Nimodipine	inhibitor	783	CACNB2	Inhibitor	Nimodipine783
+Nilvadipine	inhibitor	783	CACNB2	Inhibitor	Nilvadipine783
+Nisoldipine	inhibitor	783	CACNB2	Inhibitor	Nisoldipine783
+Dronedarone	inhibitor	783	CACNB2	Inhibitor	Dronedarone783
+Felodipine	inhibitor	783	CACNB2	Inhibitor	Felodipine783
+Isradipine	inhibitor	783	CACNB2	Inhibitor	Isradipine783
+Nicardipine	inhibitor	783	CACNB2	Inhibitor	Nicardipine783
+Nitrendipine	inhibitor	783	CACNB2	Inhibitor	Nitrendipine783
+Nimodipine	inhibitor	784	CACNB3	Inhibitor	Nimodipine784
+Dronedarone	inhibitor	784	CACNB3	Inhibitor	Dronedarone784
+Dronedarone	inhibitor	785	CACNB4	Inhibitor	Dronedarone785
+Nimodipine	inhibitor	785	CACNB4	Inhibitor	Nimodipine785
+Lercanidipine	inhibitor	786	CACNG1	Inhibitor	Lercanidipine786
+Diltiazem	blocker	786	CACNG1	Inhibitor	Diltiazem786
+Eptinezumab	binder|antibody	796	CALCA	Ligand	Eptinezumab796
+Galcanezumab	antibody	796	CALCA	Ligand	Galcanezumab796
+Fremanezumab	binder|antibody	796	CALCA	Ligand	Fremanezumab796
+Fremanezumab	binder|antibody	797	CALCB	Ligand	Fremanezumab797
+Galcanezumab	antibody	797	CALCB	Ligand	Galcanezumab797
+Eptinezumab	binder|antibody	797	CALCB	Ligand	Eptinezumab797
+Pramlintide	agonist	799	CALCR	Activator	Pramlintide799
+Flunarizine	antagonist	801	CALM1	Inhibitor	Flunarizine801
+Flunarizine	antagonist	805	CALM2	Inhibitor	Flunarizine805
+Voclosporin	binder	819	CAMLG	Ligand	Voclosporin819
+Cyclosporine	binder	819	CAMLG	Ligand	Cyclosporine819
+Glycyrrhizic acid	antagonist	836	CASP3	Inhibitor	Glycyrrhizic acid836
+Calcium Phosphate	agonist	846	CASR	Activator	Calcium Phosphate846
+Calcium citrate	agonist	846	CASR	Activator	Calcium citrate846
+Cinacalcet	agonist	846	CASR	Activator	Cinacalcet846
+Calcium phosphate dihydrate	other	846	CASR	Other	Calcium phosphate dihydrate846
+Etelcalcetide	agonist	846	CASR	Activator	Etelcalcetide846
+Fomepizole	inhibitor	847	CAT	Inhibitor	Fomepizole847
+Ceruletide	inducer	886	CCKAR	Activator	Ceruletide886
+Pentagastrin	agonist	887	CCKBR	Activator	Pentagastrin887
+Muromonab	other	915	CD3D	Other	Muromonab915
+Blinatumomab	antibody|activator	915	CD3D	Activator	Blinatumomab915
+Mosunetuzumab	binder	916	CD3E	Ligand	Mosunetuzumab916
+Muromonab	binder	916	CD3E	Ligand	Muromonab916
+Teplizumab	antibody	916	CD3E	Ligand	Teplizumab916
+Muromonab	other	917	CD3G	Other	Muromonab917
+Muromonab	other	919	CD247	Other	Muromonab919
+Antithymocyte immunoglobulin (rabbit)	other	920	CD4	Other	Antithymocyte immunoglobulin (rabbit)920
+Tisagenlecleucel	antibody	930	CD19	Ligand	Tisagenlecleucel930
+Axicabtagene ciloleucel	antibody	930	CD19	Ligand	Axicabtagene ciloleucel930
+Inebilizumab	binder	930	CD19	Ligand	Inebilizumab930
+Brexucabtagene autoleucel	binder	930	CD19	Ligand	Brexucabtagene autoleucel930
+Blinatumomab	antibody|activator|regulator	930	CD19	Activator	Blinatumomab930
+Tositumomab	antibody	931	MS4A1	Ligand	Tositumomab931
+Ibritumomab tiuxetan	antibody|regulator	931	MS4A1	Ligand	Ibritumomab tiuxetan931
+Ublituximab	binder|antibody	931	MS4A1	Ligand	Ublituximab931
+Ofatumumab	antibody|regulator	931	MS4A1	Ligand	Ofatumumab931
+Obinutuzumab	antibody|regulator	931	MS4A1	Ligand	Obinutuzumab931
+Ocrelizumab	antagonist|antibody	931	MS4A1	Inhibitor	Ocrelizumab931
+Mosunetuzumab	binder	931	MS4A1	Ligand	Mosunetuzumab931
+Rituximab	antibody|regulator	931	MS4A1	Ligand	Rituximab931
+Inotuzumab ozogamicin	antibody|regulator	933	CD22	Ligand	Inotuzumab ozogamicin933
+Moxetumomab pasudotox	binder|antibody|regulator	933	CD22	Ligand	Moxetumomab pasudotox933
+Belatacept	antagonist	941	CD80	Inhibitor	Belatacept941
+Abatacept	antagonist	941	CD80	Inhibitor	Abatacept941
+Antithymocyte immunoglobulin (rabbit)	binder	942	CD86	Ligand	Antithymocyte immunoglobulin (rabbit)942
+Belatacept	antagonist	942	CD86	Inhibitor	Belatacept942
+Abatacept	antagonist	942	CD86	Inhibitor	Abatacept942
+Brentuximab vedotin	binder|antibody|regulator	943	TNFRSF8	Ligand	Brentuximab vedotin943
+Gemtuzumab ozogamicin	antibody|regulator	945	CD33	Ligand	Gemtuzumab ozogamicin945
+Hyaluronic acid	binder	960	CD44	Ligand	Hyaluronic acid960
+Polatuzumab vedotin	antibody	974	CD79B	Ligand	Polatuzumab vedotin974
+Cedazuridine	inhibitor	978	CDA	Inhibitor	Cedazuridine978
+Ribociclib	antagonist|inhibitor	1019	CDK4	Inhibitor	Ribociclib1019
+Palbociclib	inhibitor	1019	CDK4	Inhibitor	Palbociclib1019
+Abemaciclib	inhibitor	1019	CDK4	Inhibitor	Abemaciclib1019
+Trilaciclib	inhibitor	1019	CDK4	Inhibitor	Trilaciclib1019
+Trilaciclib	inhibitor	1021	CDK6	Inhibitor	Trilaciclib1021
+Palbociclib	inhibitor	1021	CDK6	Inhibitor	Palbociclib1021
+Ribociclib	antagonist|inhibitor	1021	CDK6	Inhibitor	Ribociclib1021
+Abemaciclib	inhibitor	1021	CDK6	Inhibitor	Abemaciclib1021
+Alemtuzumab	antibody	1043	CD52	Ligand	Alemtuzumab1043
+Lumacaftor	modulator	1080	CFTR	Modulator	Lumacaftor1080
+Tezacaftor	activator	1080	CFTR	Activator	Tezacaftor1080
+Ivacaftor	potentiator	1080	CFTR	Activator	Ivacaftor1080
+Elexacaftor	modulator	1080	CFTR	Modulator	Elexacaftor1080
+Crofelemer	antagonist	1080	CFTR	Inhibitor	Crofelemer1080
+Biperiden	antagonist	1128	CHRM1	Inhibitor	Biperiden1128
+Methscopolamine bromide	antagonist	1128	CHRM1	Inhibitor	Methscopolamine bromide1128
+Flavoxate	antagonist	1128	CHRM1	Inhibitor	Flavoxate1128
+Pirenzepine	antagonist	1128	CHRM1	Inhibitor	Pirenzepine1128
+Dicyclomine	antagonist	1128	CHRM1	Inhibitor	Dicyclomine1128
+Homatropine	antagonist	1128	CHRM1	Inhibitor	Homatropine1128
+Benzatropine	antagonist	1128	CHRM1	Inhibitor	Benzatropine1128
+Anisotropine methylbromide	antagonist	1128	CHRM1	Inhibitor	Anisotropine methylbromide1128
+Glycopyrronium	antagonist	1128	CHRM1	Inhibitor	Glycopyrronium1128
+Buclizine	antagonist	1128	CHRM1	Inhibitor	Buclizine1128
+Scopolamine	antagonist	1128	CHRM1	Inhibitor	Scopolamine1128
+Procyclidine	antagonist	1128	CHRM1	Inhibitor	Procyclidine1128
+Tropicamide	antagonist	1128	CHRM1	Inhibitor	Tropicamide1128
+Clidinium	antagonist	1128	CHRM1	Inhibitor	Clidinium1128
+Triflupromazine	antagonist	1128	CHRM1	Inhibitor	Triflupromazine1128
+Homatropine methylbromide	antagonist	1128	CHRM1	Inhibitor	Homatropine methylbromide1128
+Hyoscyamine	antagonist	1128	CHRM1	Inhibitor	Hyoscyamine1128
+Aclidinium	antagonist	1128	CHRM1	Inhibitor	Aclidinium1128
+Mepenzolate	antagonist	1128	CHRM1	Inhibitor	Mepenzolate1128
+Tolterodine	antagonist	1128	CHRM1	Inhibitor	Tolterodine1128
+Oxyphencyclimine	antagonist	1128	CHRM1	Inhibitor	Oxyphencyclimine1128
+Cyclopentolate	antagonist	1128	CHRM1	Inhibitor	Cyclopentolate1128
+Propantheline	antagonist	1128	CHRM1	Inhibitor	Propantheline1128
+Metoclopramide	agonist	1128	CHRM1	Activator	Metoclopramide1128
+Profenamine	antagonist	1128	CHRM1	Inhibitor	Profenamine1128
+Trihexyphenidyl	antagonist	1128	CHRM1	Inhibitor	Trihexyphenidyl1128
+Propiverine	antagonist	1128	CHRM1	Inhibitor	Propiverine1128
+Oxybutynin	antagonist	1128	CHRM1	Inhibitor	Oxybutynin1128
+Atropine	antagonist	1128	CHRM1	Inhibitor	Atropine1128
+Carbamoylcholine	agonist	1128	CHRM1	Activator	Carbamoylcholine1128
+Cycrimine	antagonist	1128	CHRM1	Inhibitor	Cycrimine1128
+Cevimeline	agonist	1128	CHRM1	Activator	Cevimeline1128
+Trimebutine	antagonist	1128	CHRM1	Inhibitor	Trimebutine1128
+Dosulepin	antagonist	1128	CHRM1	Inhibitor	Dosulepin1128
+Ipratropium	antagonist	1128	CHRM1	Inhibitor	Ipratropium1128
+Pilocarpine	agonist	1128	CHRM1	Activator	Pilocarpine1128
+Oxyphenonium	antagonist	1128	CHRM1	Inhibitor	Oxyphenonium1128
+Dimetindene	antagonist	1129	CHRM2	Inhibitor	Dimetindene1129
+Homatropine methylbromide	antagonist	1129	CHRM2	Inhibitor	Homatropine methylbromide1129
+Hyoscyamine	antagonist	1129	CHRM2	Inhibitor	Hyoscyamine1129
+Oxybutynin	antagonist	1129	CHRM2	Inhibitor	Oxybutynin1129
+Procyclidine	antagonist	1129	CHRM2	Inhibitor	Procyclidine1129
+Homatropine	antagonist	1129	CHRM2	Inhibitor	Homatropine1129
+Dosulepin	antagonist	1129	CHRM2	Inhibitor	Dosulepin1129
+Glycopyrronium	antagonist	1129	CHRM2	Inhibitor	Glycopyrronium1129
+Atropine	antagonist	1129	CHRM2	Inhibitor	Atropine1129
+Triflupromazine	antagonist	1129	CHRM2	Inhibitor	Triflupromazine1129
+Flavoxate	antagonist	1129	CHRM2	Inhibitor	Flavoxate1129
+Oxyphencyclimine	antagonist	1129	CHRM2	Inhibitor	Oxyphencyclimine1129
+Tropicamide	antagonist	1129	CHRM2	Inhibitor	Tropicamide1129
+Scopolamine	antagonist	1129	CHRM2	Inhibitor	Scopolamine1129
+Propiverine	antagonist	1129	CHRM2	Inhibitor	Propiverine1129
+Pilocarpine	agonist	1129	CHRM2	Activator	Pilocarpine1129
+Carbamoylcholine	agonist	1129	CHRM2	Activator	Carbamoylcholine1129
+Aclidinium	antagonist	1129	CHRM2	Inhibitor	Aclidinium1129
+Methscopolamine bromide	antagonist	1129	CHRM2	Inhibitor	Methscopolamine bromide1129
+Cryptenamine	antagonist	1129	CHRM2	Inhibitor	Cryptenamine1129
+Rocuronium	antagonist	1129	CHRM2	Inhibitor	Rocuronium1129
+Trimebutine	antagonist	1129	CHRM2	Inhibitor	Trimebutine1129
+Umeclidinium	antagonist	1129	CHRM2	Inhibitor	Umeclidinium1129
+Gallamine triethiodide	antagonist	1129	CHRM2	Inhibitor	Gallamine triethiodide1129
+Ipratropium	antagonist	1129	CHRM2	Inhibitor	Ipratropium1129
+Tolterodine	antagonist	1129	CHRM2	Inhibitor	Tolterodine1129
+Anisotropine methylbromide	antagonist	1129	CHRM2	Inhibitor	Anisotropine methylbromide1129
+Methacholine	agonist	1129	CHRM2	Activator	Methacholine1129
+Tiotropium	antagonist	1131	CHRM3	Inhibitor	Tiotropium1131
+Bethanechol	agonist	1131	CHRM3	Activator	Bethanechol1131
+Methacholine	agonist	1131	CHRM3	Activator	Methacholine1131
+Fesoterodine	antagonist	1131	CHRM3	Inhibitor	Fesoterodine1131
+Isopropamide	antagonist	1131	CHRM3	Inhibitor	Isopropamide1131
+Aclidinium	antagonist	1131	CHRM3	Inhibitor	Aclidinium1131
+Trimebutine	antagonist	1131	CHRM3	Inhibitor	Trimebutine1131
+Hexocyclium	antagonist	1131	CHRM3	Inhibitor	Hexocyclium1131
+Oxybutynin	antagonist	1131	CHRM3	Inhibitor	Oxybutynin1131
+Tolterodine	antagonist	1131	CHRM3	Inhibitor	Tolterodine1131
+Procyclidine	antagonist	1131	CHRM3	Inhibitor	Procyclidine1131
+Darifenacin	antagonist	1131	CHRM3	Inhibitor	Darifenacin1131
+Homatropine methylbromide	antagonist	1131	CHRM3	Inhibitor	Homatropine methylbromide1131
+Solifenacin	antagonist	1131	CHRM3	Inhibitor	Solifenacin1131
+Dosulepin	antagonist	1131	CHRM3	Inhibitor	Dosulepin1131
+Ipratropium	antagonist	1131	CHRM3	Inhibitor	Ipratropium1131
+Umeclidinium	antagonist	1131	CHRM3	Inhibitor	Umeclidinium1131
+Butylscopolamine	antagonist	1131	CHRM3	Inhibitor	Butylscopolamine1131
+Atropine	antagonist	1131	CHRM3	Inhibitor	Atropine1131
+Anisotropine methylbromide	antagonist	1131	CHRM3	Inhibitor	Anisotropine methylbromide1131
+Homatropine	antagonist	1131	CHRM3	Inhibitor	Homatropine1131
+Mepenzolate	antagonist	1131	CHRM3	Inhibitor	Mepenzolate1131
+Scopolamine	antagonist	1131	CHRM3	Inhibitor	Scopolamine1131
+Glycopyrronium	antagonist	1131	CHRM3	Inhibitor	Glycopyrronium1131
+Cevimeline	agonist	1131	CHRM3	Activator	Cevimeline1131
+Propiverine	antagonist	1131	CHRM3	Inhibitor	Propiverine1131
+Oxyphencyclimine	antagonist	1131	CHRM3	Inhibitor	Oxyphencyclimine1131
+Pilocarpine	agonist	1131	CHRM3	Activator	Pilocarpine1131
+Homatropine methylbromide	antagonist	1132	CHRM4	Inhibitor	Homatropine methylbromide1132
+Scopolamine	antagonist	1132	CHRM4	Inhibitor	Scopolamine1132
+Homatropine	antagonist	1132	CHRM4	Inhibitor	Homatropine1132
+Tropicamide	antagonist	1132	CHRM4	Inhibitor	Tropicamide1132
+Atropine	antagonist	1132	CHRM4	Inhibitor	Atropine1132
+Dosulepin	antagonist	1132	CHRM4	Inhibitor	Dosulepin1132
+Glycopyrronium	antagonist	1132	CHRM4	Inhibitor	Glycopyrronium1132
+Aclidinium	antagonist	1132	CHRM4	Inhibitor	Aclidinium1132
+Trimebutine	antagonist	1132	CHRM4	Inhibitor	Trimebutine1132
+Procyclidine	antagonist	1132	CHRM4	Inhibitor	Procyclidine1132
+Tolterodine	antagonist	1132	CHRM4	Inhibitor	Tolterodine1132
+Aclidinium	antagonist	1133	CHRM5	Inhibitor	Aclidinium1133
+Dosulepin	antagonist	1133	CHRM5	Inhibitor	Dosulepin1133
+Scopolamine	antagonist	1133	CHRM5	Inhibitor	Scopolamine1133
+Atropine	antagonist	1133	CHRM5	Inhibitor	Atropine1133
+Homatropine methylbromide	antagonist	1133	CHRM5	Inhibitor	Homatropine methylbromide1133
+Tolterodine	antagonist	1133	CHRM5	Inhibitor	Tolterodine1133
+Homatropine	antagonist	1133	CHRM5	Inhibitor	Homatropine1133
+Propiverine	other	1133	CHRM5	Other	Propiverine1133
+Pipecuronium	antagonist	1135	CHRNA2	Inhibitor	Pipecuronium1135
+Metocurine	antagonist	1135	CHRNA2	Inhibitor	Metocurine1135
+Tubocurarine	antagonist	1135	CHRNA2	Inhibitor	Tubocurarine1135
+Rocuronium	antagonist	1135	CHRNA2	Inhibitor	Rocuronium1135
+Carbamoylcholine	agonist	1135	CHRNA2	Activator	Carbamoylcholine1135
+Pancuronium	antagonist	1135	CHRNA2	Inhibitor	Pancuronium1135
+Atracurium besylate	antagonist	1135	CHRNA2	Inhibitor	Atracurium besylate1135
+Doxacurium	antagonist	1135	CHRNA2	Inhibitor	Doxacurium1135
+Vecuronium	antagonist	1135	CHRNA2	Inhibitor	Vecuronium1135
+Decamethonium	partial agonist	1135	CHRNA2	Activator	Decamethonium1135
+Mivacurium	antagonist	1135	CHRNA2	Inhibitor	Mivacurium1135
+Mecamylamine	antagonist	1135	CHRNA2	Inhibitor	Mecamylamine1135
+Pentolinium	antagonist	1136	CHRNA3	Inhibitor	Pentolinium1136
+Varenicline	partial agonist	1137	CHRNA4	Activator	Varenicline1137
+Nicotine	agonist	1137	CHRNA4	Activator	Nicotine1137
+Methadone	agonist	1139	CHRNA7	Activator	Methadone1139
+Galantamine	allosteric modulator	1139	CHRNA7	Modulator	Galantamine1139
+Nicotine	agonist	1139	CHRNA7	Activator	Nicotine1139
+Nicotine	agonist	1141	CHRNB2	Activator	Nicotine1141
+Pentolinium	antagonist	1143	CHRNB4	Inhibitor	Pentolinium1143
+Creatine	ligand	1152	CKB	Ligand	Creatine1152
+Creatine	ligand	1158	CKM	Ligand	Creatine1158
+Creatine	ligand	1159	CKMT1B	Ligand	Creatine1159
+Creatine	ligand	1160	CKMT2	Ligand	Creatine1160
+Lubiprostone	inducer	1181	CLCN2	Activator	Lubiprostone1181
+Mogamulizumab	antagonist	1233	CCR4	Inhibitor	Mogamulizumab1233
+Maraviroc	antagonist|inhibitor	1234	CCR5	Inhibitor	Maraviroc1234
+Sulfinpyrazone	inhibitor	1244	ABCC2	Inhibitor	Sulfinpyrazone1244
+Cannabidiol	antagonist|modulator	1268	CNR1	Inhibitor	Cannabidiol1268
+Dronabinol	agonist	1268	CNR1	Activator	Dronabinol1268
+Rimonabant	antagonist	1268	CNR1	Inhibitor	Rimonabant1268
+Nabilone	partial agonist	1268	CNR1	Activator	Nabilone1268
+Dronabinol	agonist	1269	CNR2	Activator	Dronabinol1269
+Nabilone	partial agonist	1269	CNR2	Activator	Nabilone1269
+Vonicog alfa	binder	1277	COL1A1	Ligand	Vonicog alfa1277
+Von Willebrand factor human	binder	1277	COL1A1	Ligand	Von Willebrand factor human1277
+Collagenase clostridium histolyticum	binder	1277	COL1A1	Ligand	Collagenase clostridium histolyticum1277
+Collagenase clostridium histolyticum	binder	1280	COL2A1	Ligand	Collagenase clostridium histolyticum1280
+Collagenase clostridium histolyticum	binder	1281	COL3A1	Ligand	Collagenase clostridium histolyticum1281
+Opicapone	inhibitor	1312	COMT	Inhibitor	Opicapone1312
+Entacapone	inhibitor	1312	COMT	Inhibitor	Entacapone1312
+Prothrombin	agonist	1361	CPB2	Activator	Prothrombin1361
+Carglumic acid	allosteric modulator	1373	CPS1	Modulator	Carglumic acid1373
+Perhexiline	inhibitor	1374	CPT1A	Inhibitor	Perhexiline1374
+Perhexiline	inhibitor	1376	CPT2	Inhibitor	Perhexiline1376
+Pexidartinib	inhibitor	1436	CSF1R	Inhibitor	Pexidartinib1436
+Sunitinib	inhibitor	1436	CSF1R	Inhibitor	Sunitinib1436
+Sargramostim	agonist	1438	CSF2RA	Activator	Sargramostim1438
+Foreskin keratinocyte (neonatal)	agonist	1438	CSF2RA	Activator	Foreskin keratinocyte (neonatal)1438
+Sargramostim	agonist	1439	CSF2RB	Activator	Sargramostim1439
+Lenograstim	agonist	1441	CSF3R	Activator	Lenograstim1441
+Eflapegrastim	ligand	1441	CSF3R	Ligand	Eflapegrastim1441
+Filgrastim	stimulator	1441	CSF3R	Activator	Filgrastim1441
+Pegfilgrastim	agonist	1441	CSF3R	Activator	Pegfilgrastim1441
+Lipegfilgrastim	agonist	1441	CSF3R	Activator	Lipegfilgrastim1441
+Ipilimumab	inhibitor|antibody	1493	CTLA4	Inhibitor	Ipilimumab1493
+Tremelimumab	inhibitor|antibody	1493	CTLA4	Inhibitor	Tremelimumab1493
+Cobicistat	substrate|inhibitor	1576	CYP3A4	Inhibitor	Cobicistat1576
+Aminoglutethimide	inhibitor	1583	CYP11A1	Inhibitor	Aminoglutethimide1583
+Levoketoconazole	inhibitor	1583	CYP11A1	Inhibitor	Levoketoconazole1583
+Osilodrostat	inhibitor	1584	CYP11B1	Inhibitor	Osilodrostat1584
+Levoketoconazole	inhibitor	1584	CYP11B1	Inhibitor	Levoketoconazole1584
+Mitotane	inducer	1584	CYP11B1	Activator	Mitotane1584
+Metyrapone	inhibitor	1584	CYP11B1	Inhibitor	Metyrapone1584
+Levoketoconazole	inhibitor	1585	CYP11B2	Inhibitor	Levoketoconazole1585
+Levoketoconazole	inhibitor	1586	CYP17A1	Inhibitor	Levoketoconazole1586
+Abiraterone	inhibitor	1586	CYP17A1	Inhibitor	Abiraterone1586
+Ketoconazole	inhibitor	1586	CYP17A1	Inhibitor	Ketoconazole1586
+Exemestane	inhibitor	1588	CYP19A1	Inhibitor	Exemestane1588
+Aminoglutethimide	inhibitor	1588	CYP19A1	Inhibitor	Aminoglutethimide1588
+Testolactone	inhibitor	1588	CYP19A1	Inhibitor	Testolactone1588
+Letrozole	antagonist	1588	CYP19A1	Inhibitor	Letrozole1588
+Anastrozole	inhibitor	1588	CYP19A1	Inhibitor	Anastrozole1588
+Itraconazole	inhibitor	1595	CYP51A1	Inhibitor	Itraconazole1595
+Dopamine	ligand	1621	DBH	Ligand	Dopamine1621
+Disulfiram	inhibitor	1621	DBH	Inhibitor	Disulfiram1621
+Fludarabine	agonist	1633	DCK	Activator	Fludarabine1633
+Perindopril	inhibitor	1636	ACE	Inhibitor	Perindopril1636
+Enalaprilat	inhibitor	1636	ACE	Inhibitor	Enalaprilat1636
+Lisinopril	inhibitor	1636	ACE	Inhibitor	Lisinopril1636
+Quinapril	inhibitor	1636	ACE	Inhibitor	Quinapril1636
+Zofenopril	inhibitor	1636	ACE	Inhibitor	Zofenopril1636
+Benazepril	inhibitor	1636	ACE	Inhibitor	Benazepril1636
+Fosinopril	inhibitor	1636	ACE	Inhibitor	Fosinopril1636
+Spirapril	inhibitor	1636	ACE	Inhibitor	Spirapril1636
+Rescinnamine	inhibitor	1636	ACE	Inhibitor	Rescinnamine1636
+Moexipril	inhibitor	1636	ACE	Inhibitor	Moexipril1636
+Trandolapril	inhibitor	1636	ACE	Inhibitor	Trandolapril1636
+Ramipril	inhibitor	1636	ACE	Inhibitor	Ramipril1636
+Cilazapril	inhibitor	1636	ACE	Inhibitor	Cilazapril1636
+Enalapril	inhibitor	1636	ACE	Inhibitor	Enalapril1636
+Captopril	inhibitor	1636	ACE	Inhibitor	Captopril1636
+Carbidopa	inhibitor	1644	DDC	Inhibitor	Carbidopa1644
+Methyldopa	inhibitor	1644	DDC	Inhibitor	Methyldopa1644
+Benserazide	inhibitor	1644	DDC	Inhibitor	Benserazide1644
+Ursodeoxycholic acid	inducer	1646	AKR1C2	Activator	Ursodeoxycholic acid1646
+Pralatrexate	substrate|inhibitor	1719	DHFR	Inhibitor	Pralatrexate1719
+Proguanil	inhibitor	1719	DHFR	Inhibitor	Proguanil1719
+Pemetrexed	inhibitor	1719	DHFR	Inhibitor	Pemetrexed1719
+Pyrimethamine	inhibitor	1719	DHFR	Inhibitor	Pyrimethamine1719
+Trimetrexate	inhibitor	1719	DHFR	Inhibitor	Trimetrexate1719
+Methotrexate	inhibitor	1719	DHFR	Inhibitor	Methotrexate1719
+Leflunomide	inhibitor	1723	DHODH	Inhibitor	Leflunomide1723
+Golodirsen	inducer	1756	DMD	Activator	Golodirsen1756
+Azacitidine	inhibitor	1786	DNMT1	Inhibitor	Azacitidine1786
+Decitabine	inhibitor	1786	DNMT1	Inhibitor	Decitabine1786
+Cilastatin	inhibitor	1800	DPEP1	Inhibitor	Cilastatin1800
+Sitagliptin	inhibitor	1803	DPP4	Inhibitor	Sitagliptin1803
+Saxagliptin	inhibitor	1803	DPP4	Inhibitor	Saxagliptin1803
+Alogliptin	inhibitor	1803	DPP4	Inhibitor	Alogliptin1803
+Linagliptin	inhibitor	1803	DPP4	Inhibitor	Linagliptin1803
+Vildagliptin	inhibitor	1803	DPP4	Inhibitor	Vildagliptin1803
+Tegafur-uracil	antagonist	1806	DPYD	Inhibitor	Tegafur-uracil1806
+Fenoldopam	agonist	1812	DRD1	Activator	Fenoldopam1812
+Perphenazine	antagonist	1812	DRD1	Inhibitor	Perphenazine1812
+Pipotiazine	antagonist	1812	DRD1	Inhibitor	Pipotiazine1812
+Chlorpromazine	antagonist	1812	DRD1	Inhibitor	Chlorpromazine1812
+Levodopa	agonist	1812	DRD1	Activator	Levodopa1812
+Dopamine	agonist	1812	DRD1	Activator	Dopamine1812
+Methylergometrine	antagonist	1812	DRD1	Inhibitor	Methylergometrine1812
+Fluphenazine	antagonist	1812	DRD1	Inhibitor	Fluphenazine1812
+Thiothixene	antagonist	1812	DRD1	Inhibitor	Thiothixene1812
+Triflupromazine	antagonist	1812	DRD1	Inhibitor	Triflupromazine1812
+Zuclopenthixol	antagonist	1812	DRD1	Inhibitor	Zuclopenthixol1812
+Periciazine	antagonist	1812	DRD1	Inhibitor	Periciazine1812
+Lisuride	agonist	1813	DRD2	Activator	Lisuride1813
+Aripiprazole	antagonist|partial agonist	1813	DRD2	Inhibitor	Aripiprazole1813
+Trifluoperazine	antagonist	1813	DRD2	Inhibitor	Trifluoperazine1813
+Quetiapine	antagonist	1813	DRD2	Inhibitor	Quetiapine1813
+Pipotiazine	antagonist	1813	DRD2	Inhibitor	Pipotiazine1813
+Amantadine	agonist	1813	DRD2	Activator	Amantadine1813
+Iloperidone	antagonist	1813	DRD2	Inhibitor	Iloperidone1813
+Ropinirole	agonist	1813	DRD2	Activator	Ropinirole1813
+Buspirone	antagonist	1813	DRD2	Inhibitor	Buspirone1813
+Risperidone	antagonist	1813	DRD2	Inhibitor	Risperidone1813
+Asenapine	antagonist	1813	DRD2	Inhibitor	Asenapine1813
+Methotrimeprazine	antagonist	1813	DRD2	Inhibitor	Methotrimeprazine1813
+Fluspirilene	antagonist	1813	DRD2	Inhibitor	Fluspirilene1813
+Metoclopramide	antagonist	1813	DRD2	Inhibitor	Metoclopramide1813
+Levodopa	agonist	1813	DRD2	Activator	Levodopa1813
+Cabergoline	agonist	1813	DRD2	Activator	Cabergoline1813
+Mesoridazine	antagonist	1813	DRD2	Inhibitor	Mesoridazine1813
+Promazine	antagonist	1813	DRD2	Inhibitor	Promazine1813
+Dopamine	agonist	1813	DRD2	Activator	Dopamine1813
+Brexpiprazole	agonist|partial agonist	1813	DRD2	Activator	Brexpiprazole1813
+Pramipexole	agonist	1813	DRD2	Activator	Pramipexole1813
+Pimozide	antagonist	1813	DRD2	Inhibitor	Pimozide1813
+Dihydro-alpha-ergocryptine	agonist	1813	DRD2	Activator	Dihydro-alpha-ergocryptine1813
+Sulpiride	antagonist	1813	DRD2	Inhibitor	Sulpiride1813
+Apomorphine	agonist	1813	DRD2	Activator	Apomorphine1813
+Lumateperone	partial agonist	1813	DRD2	Activator	Lumateperone1813
+Fluphenazine	antagonist	1813	DRD2	Inhibitor	Fluphenazine1813
+Aripiprazole lauroxil	partial agonist	1813	DRD2	Activator	Aripiprazole lauroxil1813
+Rotigotine	agonist	1813	DRD2	Activator	Rotigotine1813
+Loxapine	antagonist	1813	DRD2	Inhibitor	Loxapine1813
+Zuclopenthixol	antagonist	1813	DRD2	Inhibitor	Zuclopenthixol1813
+Prochlorperazine	antagonist	1813	DRD2	Inhibitor	Prochlorperazine1813
+Triflupromazine	antagonist	1813	DRD2	Inhibitor	Triflupromazine1813
+Haloperidol	antagonist	1813	DRD2	Inhibitor	Haloperidol1813
+Clozapine	antagonist	1813	DRD2	Inhibitor	Clozapine1813
+Lurasidone	antagonist	1813	DRD2	Inhibitor	Lurasidone1813
+Domperidone	antagonist	1813	DRD2	Inhibitor	Domperidone1813
+Amisulpride	antagonist	1813	DRD2	Inhibitor	Amisulpride1813
+Paliperidone	antagonist	1813	DRD2	Inhibitor	Paliperidone1813
+Acetophenazine	antagonist	1813	DRD2	Inhibitor	Acetophenazine1813
+Ziprasidone	antagonist	1813	DRD2	Inhibitor	Ziprasidone1813
+Molindone	antagonist	1813	DRD2	Inhibitor	Molindone1813
+Thiothixene	antagonist	1813	DRD2	Inhibitor	Thiothixene1813
+Perphenazine	antagonist	1813	DRD2	Inhibitor	Perphenazine1813
+Droperidol	antagonist	1813	DRD2	Inhibitor	Droperidol1813
+Chlorpromazine	antagonist	1813	DRD2	Inhibitor	Chlorpromazine1813
+Olanzapine	antagonist	1813	DRD2	Inhibitor	Olanzapine1813
+Levodopa	agonist	1814	DRD3	Activator	Levodopa1814
+Pimozide	antagonist	1814	DRD3	Inhibitor	Pimozide1814
+Dopamine	agonist	1814	DRD3	Activator	Dopamine1814
+Apomorphine	agonist	1814	DRD3	Activator	Apomorphine1814
+Amisulpride	antagonist	1814	DRD3	Inhibitor	Amisulpride1814
+Ropinirole	agonist	1814	DRD3	Activator	Ropinirole1814
+Lisuride	agonist	1814	DRD3	Activator	Lisuride1814
+Rotigotine	agonist	1814	DRD3	Activator	Rotigotine1814
+Domperidone	antagonist	1814	DRD3	Inhibitor	Domperidone1814
+Pramipexole	agonist	1814	DRD3	Activator	Pramipexole1814
+Paliperidone	antagonist	1814	DRD3	Inhibitor	Paliperidone1814
+Dihydro-alpha-ergocryptine	partial agonist	1814	DRD3	Activator	Dihydro-alpha-ergocryptine1814
+Pramipexole	agonist	1815	DRD4	Activator	Pramipexole1815
+Paliperidone	antagonist	1815	DRD4	Inhibitor	Paliperidone1815
+Levodopa	agonist	1815	DRD4	Activator	Levodopa1815
+Lisuride	agonist	1815	DRD4	Activator	Lisuride1815
+Dopamine	agonist	1815	DRD4	Activator	Dopamine1815
+Apomorphine	agonist	1815	DRD4	Activator	Apomorphine1815
+Rotigotine	agonist	1815	DRD4	Activator	Rotigotine1815
+Flibanserin	antagonist|agonist	1815	DRD4	Modulator	Flibanserin1815
+Zuclopenthixol	antagonist	1816	DRD5	Inhibitor	Zuclopenthixol1816
+Fenoldopam	agonist	1816	DRD5	Activator	Fenoldopam1816
+Levodopa	agonist	1816	DRD5	Activator	Levodopa1816
+Dopamine	agonist	1816	DRD5	Activator	Dopamine1816
+Tipiracil	inhibitor	1890	TYMP	Inhibitor	Tipiracil1890
+Omega-3-carboxylic acids	potentiator	1892	ECHS1	Activator	Omega-3-carboxylic acids1892
+Ponesimod	agonist|modulator|regulator	1901	S1PR1	Activator	Ponesimod1901
+Ozanimod	agonist	1901	S1PR1	Activator	Ozanimod1901
+Fingolimod	modulator	1901	S1PR1	Modulator	Fingolimod1901
+Fingolimod	modulator	1903	S1PR3	Modulator	Fingolimod1903
+Bosentan	antagonist	1909	EDNRA	Inhibitor	Bosentan1909
+Macitentan	antagonist	1909	EDNRA	Inhibitor	Macitentan1909
+Ambrisentan	antagonist	1909	EDNRA	Inhibitor	Ambrisentan1909
+Bosentan	antagonist	1910	EDNRB	Inhibitor	Bosentan1910
+Moxetumomab pasudotox	inactivator	1938	EEF2	Inhibitor	Moxetumomab pasudotox1938
+Sucralfate	inducer	1950	EGF	Activator	Sucralfate1950
+Cetuximab	binder	1956	EGFR	Ligand	Cetuximab1956
+Brigatinib	inhibitor	1956	EGFR	Inhibitor	Brigatinib1956
+Neratinib	inhibitor	1956	EGFR	Inhibitor	Neratinib1956
+Afatinib	inhibitor	1956	EGFR	Inhibitor	Afatinib1956
+Mobocertinib	inhibitor	1956	EGFR	Inhibitor	Mobocertinib1956
+Osimertinib	inhibitor|regulator	1956	EGFR	Inhibitor	Osimertinib1956
+Gefitinib	antagonist	1956	EGFR	Inhibitor	Gefitinib1956
+Erlotinib	antagonist	1956	EGFR	Inhibitor	Erlotinib1956
+Foreskin keratinocyte (neonatal)	agonist	1956	EGFR	Activator	Foreskin keratinocyte (neonatal)1956
+Necitumumab	antagonist	1956	EGFR	Inhibitor	Necitumumab1956
+Panitumumab	suppressor	1956	EGFR	Inhibitor	Panitumumab1956
+Amivantamab	antibody|downregulator	1956	EGFR	Inhibitor	Amivantamab1956
+Lapatinib	antagonist	1956	EGFR	Inhibitor	Lapatinib1956
+Dacomitinib	inhibitor	1956	EGFR	Inhibitor	Dacomitinib1956
+Regorafenib	inhibitor	1969	EPHA2	Inhibitor	Regorafenib1969
+Dasatinib	antagonist	1969	EPHA2	Inhibitor	Dasatinib1969
+Alpha-1-proteinase inhibitor	inhibitor	1991	ELANE	Inhibitor	Alpha-1-proteinase inhibitor1991
+Belzutifan	inhibitor	2034	EPAS1	Inhibitor	Belzutifan2034
+Darbepoetin alfa	agonist	2057	EPOR	Activator	Darbepoetin alfa2057
+Methoxy polyethylene glycol-epoetin beta	stimulator	2057	EPOR	Activator	Methoxy polyethylene glycol-epoetin beta2057
+Peginesatide	stimulator	2057	EPOR	Activator	Peginesatide2057
+Erythropoietin	agonist	2057	EPOR	Activator	Erythropoietin2057
+Pertuzumab	binder|antibody	2064	ERBB2	Ligand	Pertuzumab2064
+Margetuximab	antagonist	2064	ERBB2	Inhibitor	Margetuximab2064
+Lapatinib	antagonist	2064	ERBB2	Inhibitor	Lapatinib2064
+Trastuzumab	binder|antibody	2064	ERBB2	Ligand	Trastuzumab2064
+Trastuzumab emtansine	antibody	2064	ERBB2	Ligand	Trastuzumab emtansine2064
+Afatinib	inhibitor	2064	ERBB2	Inhibitor	Afatinib2064
+Tucatinib	inhibitor	2064	ERBB2	Inhibitor	Tucatinib2064
+Afatinib	inhibitor	2066	ERBB4	Inhibitor	Afatinib2066
+Estradiol benzoate	agonist	2099	ESR1	Activator	Estradiol benzoate2099
+Raloxifene	agonist	2099	ESR1	Activator	Raloxifene2099
+Synthetic Conjugated Estrogens, A	ligand	2099	ESR1	Ligand	Synthetic Conjugated Estrogens, A2099
+Desogestrel	agonist	2099	ESR1	Activator	Desogestrel2099
+Fluoxymesterone	antagonist	2099	ESR1	Inhibitor	Fluoxymesterone2099
+Toremifene	modulator	2099	ESR1	Modulator	Toremifene2099
+Clomifene	antagonist|agonist	2099	ESR1	Modulator	Clomifene2099
+Conjugated estrogens	agonist	2099	ESR1	Activator	Conjugated estrogens2099
+Estradiol dienanthate	agonist	2099	ESR1	Activator	Estradiol dienanthate2099
+Ethynodiol diacetate	agonist	2099	ESR1	Activator	Ethynodiol diacetate2099
+Quinestrol	agonist|modulator	2099	ESR1	Activator	Quinestrol2099
+Bazedoxifene	antagonist|agonist	2099	ESR1	Modulator	Bazedoxifene2099
+Fulvestrant	antagonist	2099	ESR1	Inhibitor	Fulvestrant2099
+Estradiol valerate	agonist	2099	ESR1	Activator	Estradiol valerate2099
+Estradiol acetate	agonist	2099	ESR1	Activator	Estradiol acetate2099
+Medroxyprogesterone acetate	agonist	2099	ESR1	Activator	Medroxyprogesterone acetate2099
+Estrone	agonist	2099	ESR1	Activator	Estrone2099
+Lasofoxifene	antagonist|agonist|negative modulator	2099	ESR1	Modulator	Lasofoxifene2099
+Norgestimate	agonist	2099	ESR1	Activator	Norgestimate2099
+Levonorgestrel	other	2099	ESR1	Other	Levonorgestrel2099
+Estrone sulfate	agonist	2099	ESR1	Activator	Estrone sulfate2099
+Ospemifene	antagonist|agonist	2099	ESR1	Modulator	Ospemifene2099
+Synthetic Conjugated Estrogens, B	ligand	2099	ESR1	Ligand	Synthetic Conjugated Estrogens, B2099
+Estramustine	agonist	2099	ESR1	Activator	Estramustine2099
+Danazol	agonist	2099	ESR1	Activator	Danazol2099
+Dienestrol	agonist	2099	ESR1	Activator	Dienestrol2099
+Tibolone	antagonist|agonist	2099	ESR1	Modulator	Tibolone2099
+Tamoxifen	antagonist|agonist	2099	ESR1	Modulator	Tamoxifen2099
+Ethinylestradiol	agonist	2099	ESR1	Activator	Ethinylestradiol2099
+Estradiol cypionate	agonist	2099	ESR1	Activator	Estradiol cypionate2099
+Estradiol	agonist	2099	ESR1	Activator	Estradiol2099
+Estriol	agonist	2099	ESR1	Activator	Estriol2099
+Mestranol	agonist	2099	ESR1	Activator	Mestranol2099
+Polyestradiol phosphate	agonist	2099	ESR1	Activator	Polyestradiol phosphate2099
+Lasofoxifene	agonist	2100	ESR2	Activator	Lasofoxifene2100
+Estradiol benzoate	agonist	2100	ESR2	Activator	Estradiol benzoate2100
+Estradiol	agonist	2100	ESR2	Activator	Estradiol2100
+Estradiol dienanthate	agonist	2100	ESR2	Activator	Estradiol dienanthate2100
+Estradiol valerate	agonist	2100	ESR2	Activator	Estradiol valerate2100
+Estramustine	other	2100	ESR2	Other	Estramustine2100
+Conjugated estrogens	agonist	2100	ESR2	Activator	Conjugated estrogens2100
+Estradiol cypionate	agonist	2100	ESR2	Activator	Estradiol cypionate2100
+Estradiol acetate	agonist	2100	ESR2	Activator	Estradiol acetate2100
+Raloxifene	agonist	2100	ESR2	Activator	Raloxifene2100
+Tamoxifen	antagonist|agonist	2100	ESR2	Modulator	Tamoxifen2100
+Metformin	inhibitor	2110	ETFDH	Inhibitor	Metformin2110
+Tazemetostat	inhibitor	2146	EZH2	Inhibitor	Tazemetostat2146
+Anti-inhibitor coagulant complex	agonist	2147	F2	Activator	Anti-inhibitor coagulant complex2147
+Dabigatran etexilate	inhibitor	2147	F2	Inhibitor	Dabigatran etexilate2147
+Turoctocog alfa	binder	2147	F2	Ligand	Turoctocog alfa2147
+Argatroban	inhibitor	2147	F2	Inhibitor	Argatroban2147
+Conestat alfa	inhibitor	2147	F2	Inhibitor	Conestat alfa2147
+Turoctocog alfa pegol	binder	2147	F2	Ligand	Turoctocog alfa pegol2147
+Thrombomodulin Alfa	inhibitor	2147	F2	Inhibitor	Thrombomodulin Alfa2147
+Antithrombin Alfa	inhibitor	2147	F2	Inhibitor	Antithrombin Alfa2147
+Bivalirudin	inhibitor	2147	F2	Inhibitor	Bivalirudin2147
+Vorapaxar	antagonist	2149	F2R	Inhibitor	Vorapaxar2149
+Tisotumab vedotin	antibody	2152	F3	Ligand	Tisotumab vedotin2152
+Coagulation factor VII human	activator	2152	F3	Activator	Coagulation factor VII human2152
+Protein C	inactivator	2153	F5	Inhibitor	Protein C2153
+Protein S human	antagonist	2153	F5	Inhibitor	Protein S human2153
+Thrombin alfa	activator	2153	F5	Activator	Thrombin alfa2153
+Anti-inhibitor coagulant complex	agonist	2153	F5	Activator	Anti-inhibitor coagulant complex2153
+Human thrombin	activator	2153	F5	Activator	Human thrombin2153
+Thrombin	activator	2153	F5	Activator	Thrombin2153
+Coagulation Factor IX Human	ligand	2155	F7	Ligand	Coagulation Factor IX Human2155
+Anti-inhibitor coagulant complex	agonist	2155	F7	Activator	Anti-inhibitor coagulant complex2155
+Coagulation Factor IX (Recombinant)	ligand	2155	F7	Ligand	Coagulation Factor IX (Recombinant)2155
+Nonacog beta pegol	cofactor	2155	F7	Other	Nonacog beta pegol2155
+Nonacog beta pegol	cofactor	2157	F8	Other	Nonacog beta pegol2157
+Human thrombin	activator	2157	F8	Activator	Human thrombin2157
+Protein C	inactivator	2157	F8	Inhibitor	Protein C2157
+Damoctocog alfa pegol	binder	2157	F8	Ligand	Damoctocog alfa pegol2157
+Thrombin alfa	activator	2157	F8	Activator	Thrombin alfa2157
+Vonicog alfa	stabilization	2157	F8	Other	Vonicog alfa2157
+Coagulation Factor IX (Recombinant)	cofactor	2157	F8	Other	Coagulation Factor IX (Recombinant)2157
+Anti-inhibitor coagulant complex	agonist	2157	F8	Activator	Anti-inhibitor coagulant complex2157
+Von Willebrand factor human	carrier|stabilization	2157	F8	Other	Von Willebrand factor human2157
+Coagulation Factor IX Human	cofactor	2157	F8	Other	Coagulation Factor IX Human2157
+Thrombin	activator	2157	F8	Activator	Thrombin2157
+Emicizumab	cofactor	2158	F9	Other	Emicizumab2158
+Turoctocog alfa	activator	2158	F9	Activator	Turoctocog alfa2158
+Antihemophilic factor human	activator	2158	F9	Activator	Antihemophilic factor human2158
+Coagulation factor VII human	activator	2158	F9	Activator	Coagulation factor VII human2158
+Turoctocog alfa pegol	activator	2158	F9	Activator	Turoctocog alfa pegol2158
+Lonoctocog alfa	cofactor	2158	F9	Other	Lonoctocog alfa2158
+Antihemophilic factor, human recombinant	cofactor	2158	F9	Other	Antihemophilic factor, human recombinant2158
+Moroctocog alfa	cofactor	2158	F9	Other	Moroctocog alfa2158
+Emicizumab	activator	2159	F10	Activator	Emicizumab2159
+Nonacog beta pegol	agonist	2159	F10	Activator	Nonacog beta pegol2159
+Edoxaban	inhibitor	2159	F10	Inhibitor	Edoxaban2159
+Bemiparin	antagonist	2159	F10	Inhibitor	Bemiparin2159
+Coagulation factor VII human	activator	2159	F10	Activator	Coagulation factor VII human2159
+Turoctocog alfa pegol	activator	2159	F10	Activator	Turoctocog alfa pegol2159
+Coagulation Factor IX (Recombinant)	activator	2159	F10	Activator	Coagulation Factor IX (Recombinant)2159
+Moroctocog alfa	activator	2159	F10	Activator	Moroctocog alfa2159
+Lonoctocog alfa	activator	2159	F10	Activator	Lonoctocog alfa2159
+Antihemophilic factor human	activator	2159	F10	Activator	Antihemophilic factor human2159
+Rivaroxaban	antagonist	2159	F10	Inhibitor	Rivaroxaban2159
+Anti-inhibitor coagulant complex	agonist	2159	F10	Activator	Anti-inhibitor coagulant complex2159
+Antithrombin Alfa	inhibitor	2159	F10	Inhibitor	Antithrombin Alfa2159
+Coagulation Factor IX Human	activator	2159	F10	Activator	Coagulation Factor IX Human2159
+Heparin	inhibitor	2159	F10	Inhibitor	Heparin2159
+Enoxaparin	inhibitor	2159	F10	Inhibitor	Enoxaparin2159
+Apixaban	inhibitor	2159	F10	Inhibitor	Apixaban2159
+Antihemophilic factor, human recombinant	activator	2159	F10	Activator	Antihemophilic factor, human recombinant2159
+Fondaparinux	inhibitor	2159	F10	Inhibitor	Fondaparinux2159
+Albutrepenonacog alfa	activator	2159	F10	Activator	Albutrepenonacog alfa2159
+Turoctocog alfa	activator	2159	F10	Activator	Turoctocog alfa2159
+Betrixaban	inhibitor	2159	F10	Inhibitor	Betrixaban2159
+Protein S human	antagonist	2159	F10	Inhibitor	Protein S human2159
+Human C1-esterase inhibitor	inhibitor	2160	F11	Inhibitor	Human C1-esterase inhibitor2160
+Human thrombin	activator	2160	F11	Activator	Human thrombin2160
+Coagulation Factor IX Human	ligand	2160	F11	Ligand	Coagulation Factor IX Human2160
+Thrombin	activator	2160	F11	Activator	Thrombin2160
+Conestat alfa	inhibitor	2160	F11	Inhibitor	Conestat alfa2160
+Coagulation Factor IX (Recombinant)	ligand	2160	F11	Ligand	Coagulation Factor IX (Recombinant)2160
+Human C1-esterase inhibitor	inhibitor	2161	F12	Inhibitor	Human C1-esterase inhibitor2161
+Conestat alfa	inhibitor	2161	F12	Inhibitor	Conestat alfa2161
+Thrombin	activator	2162	F13A1	Activator	Thrombin2162
+Anti-inhibitor coagulant complex	agonist	2162	F13A1	Activator	Anti-inhibitor coagulant complex2162
+Prothrombin	agonist	2162	F13A1	Activator	Prothrombin2162
+Human thrombin	activator	2162	F13A1	Activator	Human thrombin2162
+Thrombin	activator	2165	F13B	Activator	Thrombin2165
+Human thrombin	activator	2165	F13B	Activator	Human thrombin2165
+Catridecacog	other	2165	F13B	Other	Catridecacog2165
+Icosapent	agonist	2173	FABP7	Activator	Icosapent2173
+Benzylpenicilloyl polylysine	agonist	2205	FCER1A	Activator	Benzylpenicilloyl polylysine2205
+Omalizumab	inhibitor	2205	FCER1A	Inhibitor	Omalizumab2205
+Omalizumab	inhibitor	2206	MS4A2	Inhibitor	Omalizumab2206
+Benzylpenicilloyl polylysine	agonist	2207	FCER1G	Activator	Benzylpenicilloyl polylysine2207
+Trastuzumab deruxtecan	antibody	2209	FCGR1A	Ligand	Trastuzumab deruxtecan2209
+Human immunoglobulin G	antagonist	2209	FCGR1A	Inhibitor	Human immunoglobulin G2209
+Human immunoglobulin G	antagonist	2212	FCGR2A	Inhibitor	Human immunoglobulin G2212
+Antithymocyte immunoglobulin (rabbit)	other	2213	FCGR2B	Other	Antithymocyte immunoglobulin (rabbit)2213
+Human immunoglobulin G	antagonist	2213	FCGR2B	Inhibitor	Human immunoglobulin G2213
+Amivantamab	inducer	2214	FCGR3A	Activator	Amivantamab2214
+Benralizumab	binding	2214	FCGR3A	Ligand	Benralizumab2214
+Human immunoglobulin G	antagonist	2214	FCGR3A	Inhibitor	Human immunoglobulin G2214
+Human immunoglobulin G	antagonist	2215	FCGR3B	Inhibitor	Human immunoglobulin G2215
+Efgartigimod alfa	binder	2217	FCGRT	Ligand	Efgartigimod alfa2217
+Zoledronic acid	inhibitor	2224	FDPS	Inhibitor	Zoledronic acid2224
+Ibandronate	inhibitor	2224	FDPS	Inhibitor	Ibandronate2224
+Pamidronic acid	inhibitor	2224	FDPS	Inhibitor	Pamidronic acid2224
+Alendronic acid	inhibitor	2224	FDPS	Inhibitor	Alendronic acid2224
+Risedronic acid	inhibitor	2224	FDPS	Inhibitor	Risedronic acid2224
+Alteplase	binder	2243	FGA	Ligand	Alteplase2243
+Anti-inhibitor coagulant complex	cleavage	2243	FGA	Other	Anti-inhibitor coagulant complex2243
+Prothrombin	cleavage	2243	FGA	Other	Prothrombin2243
+Thrombin	activator	2243	FGA	Activator	Thrombin2243
+Human thrombin	activator	2243	FGA	Activator	Human thrombin2243
+Reteplase	other	2243	FGA	Other	Reteplase2243
+Thrombin alfa	activator	2243	FGA	Activator	Thrombin alfa2243
+Tenecteplase	other	2243	FGA	Other	Tenecteplase2243
+Anistreplase	other	2243	FGA	Other	Anistreplase2243
+Prothrombin	cleavage	2244	FGB	Other	Prothrombin2244
+Human thrombin	activator	2244	FGB	Activator	Human thrombin2244
+Thrombin	activator	2244	FGB	Activator	Thrombin2244
+Thrombin alfa	activator	2244	FGB	Activator	Thrombin alfa2244
+Anti-inhibitor coagulant complex	cleavage	2244	FGB	Other	Anti-inhibitor coagulant complex2244
+Pentosan polysulfate	antagonist	2246	FGF1	Inhibitor	Pentosan polysulfate2246
+Foreskin keratinocyte (neonatal)	agonist	2246	FGF1	Activator	Foreskin keratinocyte (neonatal)2246
+Sucralfate	agonist|inducer	2247	FGF2	Activator	Sucralfate2247
+Pentosan polysulfate	antagonist	2247	FGF2	Inhibitor	Pentosan polysulfate2247
+Pemigatinib	inhibitor	2260	FGFR1	Inhibitor	Pemigatinib2260
+Erdafitinib	inhibitor	2260	FGFR1	Inhibitor	Erdafitinib2260
+Lenvatinib	inhibitor	2260	FGFR1	Inhibitor	Lenvatinib2260
+Regorafenib	inhibitor	2260	FGFR1	Inhibitor	Regorafenib2260
+Sorafenib	inhibitor	2260	FGFR1	Inhibitor	Sorafenib2260
+Futibatinib	inhibitor	2260	FGFR1	Inhibitor	Futibatinib2260
+Nintedanib	inhibitor	2260	FGFR1	Inhibitor	Nintedanib2260
+Infigratinib	inhibitor	2260	FGFR1	Inhibitor	Infigratinib2260
+Infigratinib	inhibitor	2261	FGFR3	Inhibitor	Infigratinib2261
+Erdafitinib	inhibitor	2261	FGFR3	Inhibitor	Erdafitinib2261
+Lenvatinib	inhibitor	2261	FGFR3	Inhibitor	Lenvatinib2261
+Futibatinib	inhibitor	2261	FGFR3	Inhibitor	Futibatinib2261
+Pemigatinib	inhibitor	2261	FGFR3	Inhibitor	Pemigatinib2261
+Nintedanib	inhibitor	2261	FGFR3	Inhibitor	Nintedanib2261
+Infigratinib	inhibitor	2263	FGFR2	Inhibitor	Infigratinib2263
+Regorafenib	inhibitor	2263	FGFR2	Inhibitor	Regorafenib2263
+Futibatinib	inhibitor	2263	FGFR2	Inhibitor	Futibatinib2263
+Nintedanib	inhibitor	2263	FGFR2	Inhibitor	Nintedanib2263
+Lenvatinib	inhibitor	2263	FGFR2	Inhibitor	Lenvatinib2263
+Pemigatinib	inhibitor	2263	FGFR2	Inhibitor	Pemigatinib2263
+Erdafitinib	inhibitor	2263	FGFR2	Inhibitor	Erdafitinib2263
+Palifermin	agonist|binder	2263	FGFR2	Activator	Palifermin2263
+Lenvatinib	inhibitor	2264	FGFR4	Inhibitor	Lenvatinib2264
+Infigratinib	inhibitor	2264	FGFR4	Inhibitor	Infigratinib2264
+Erdafitinib	inhibitor	2264	FGFR4	Inhibitor	Erdafitinib2264
+Futibatinib	inhibitor	2264	FGFR4	Inhibitor	Futibatinib2264
+Alteplase	binder	2266	FGG	Ligand	Alteplase2266
+Thrombin	activator	2266	FGG	Activator	Thrombin2266
+Human thrombin	activator	2266	FGG	Activator	Human thrombin2266
+Thrombin alfa	activator	2266	FGG	Activator	Thrombin alfa2266
+Tacrolimus	inhibitor	2280	FKBP1A	Inhibitor	Tacrolimus2280
+Sunitinib	inhibitor	2321	FLT1	Inhibitor	Sunitinib2321
+Axitinib	inhibitor	2321	FLT1	Inhibitor	Axitinib2321
+Regorafenib	inhibitor	2321	FLT1	Inhibitor	Regorafenib2321
+Pazopanib	inhibitor	2321	FLT1	Inhibitor	Pazopanib2321
+Sorafenib	inhibitor	2321	FLT1	Inhibitor	Sorafenib2321
+Nintedanib	inhibitor	2321	FLT1	Inhibitor	Nintedanib2321
+Lenvatinib	inhibitor	2321	FLT1	Inhibitor	Lenvatinib2321
+Tivozanib	inhibitor	2321	FLT1	Inhibitor	Tivozanib2321
+Foreskin fibroblast (neonatal)	agonist	2321	FLT1	Activator	Foreskin fibroblast (neonatal)2321
+Sorafenib	antagonist	2322	FLT3	Inhibitor	Sorafenib2322
+Midostaurin	antagonist|inhibitor	2322	FLT3	Inhibitor	Midostaurin2322
+Gilteritinib	inhibitor	2322	FLT3	Inhibitor	Gilteritinib2322
+Pacritinib	inhibitor	2322	FLT3	Inhibitor	Pacritinib2322
+Sunitinib	inhibitor	2322	FLT3	Inhibitor	Sunitinib2322
+Fedratinib	inhibitor	2322	FLT3	Inhibitor	Fedratinib2322
+Lenvatinib	inhibitor	2324	FLT4	Inhibitor	Lenvatinib2324
+Sorafenib	antagonist	2324	FLT4	Inhibitor	Sorafenib2324
+Axitinib	inhibitor	2324	FLT4	Inhibitor	Axitinib2324
+Tivozanib	inhibitor	2324	FLT4	Inhibitor	Tivozanib2324
+Regorafenib	inhibitor	2324	FLT4	Inhibitor	Regorafenib2324
+Pazopanib	other	2324	FLT4	Other	Pazopanib2324
+Nintedanib	inhibitor	2324	FLT4	Inhibitor	Nintedanib2324
+Sunitinib	inhibitor	2324	FLT4	Inhibitor	Sunitinib2324
+Ocriplasmin	cleavage	2335	FN1	Other	Ocriplasmin2335
+Lonafarnib	inhibitor	2339	FNTA	Inhibitor	Lonafarnib2339
+Lonafarnib	inhibitor	2342	FNTB	Inhibitor	Lonafarnib2342
+Capromab pendetide	other	2346	FOLH1	Other	Capromab pendetide2346
+Piflufolastat F 18	binder	2346	FOLH1	Ligand	Piflufolastat F 182346
+Mirvetuximab soravtansine	binder	2348	FOLR1	Ligand	Mirvetuximab soravtansine2348
+Pafolacianine	ligand	2348	FOLR1	Ligand	Pafolacianine2348
+Pralatrexate	substrate	2356	FPGS	Ligand	Pralatrexate2356
+Regorafenib	inhibitor	2444	FRK	Inhibitor	Regorafenib2444
+Sirolimus	inhibitor	2475	MTOR	Inhibitor	Sirolimus2475
+Temsirolimus	inhibitor	2475	MTOR	Inhibitor	Temsirolimus2475
+Pimecrolimus	potentiator	2475	MTOR	Activator	Pimecrolimus2475
+Everolimus	inhibitor	2475	MTOR	Inhibitor	Everolimus2475
+Corifollitropin alfa	agonist	2492	FSHR	Activator	Corifollitropin alfa2492
+Urofollitropin	agonist	2492	FSHR	Activator	Urofollitropin2492
+Follitropin	agonist	2492	FSHR	Activator	Follitropin2492
+Choriogonadotropin alfa	binder	2492	FSHR	Ligand	Choriogonadotropin alfa2492
+Menotropins	binder	2492	FSHR	Ligand	Menotropins2492
+Iron Dextran	other	2495	FTH1	Other	Iron Dextran2495
+Ferric pyrophosphate citrate	binder	2495	FTH1	Ligand	Ferric pyrophosphate citrate2495
+Iron Dextran	other	2512	FTL	Other	Iron Dextran2512
+Sodium ferric gluconate complex	binding	2512	FTL	Ligand	Sodium ferric gluconate complex2512
+Ferric pyrophosphate citrate	binder	2512	FTL	Ligand	Ferric pyrophosphate citrate2512
+Oxetacaine	inhibition of synthesis	2520	GAST	Inhibitor	Oxetacaine2520
+Miglitol	antagonist	2548	GAA	Inhibitor	Miglitol2548
+Taurine	agonist	2550	GABBR1	Activator	Taurine2550
+Acamprosate	inhibitor	2550	GABBR1	Inhibitor	Acamprosate2550
+Methohexital	antagonist	2554	GABRA1	Inhibitor	Methohexital2554
+Butalbital	potentiator	2554	GABRA1	Activator	Butalbital2554
+Meprobamate	agonist	2554	GABRA1	Activator	Meprobamate2554
+Etomidate	agonist	2554	GABRA1	Activator	Etomidate2554
+Isoflurane	agonist	2554	GABRA1	Activator	Isoflurane2554
+Secobarbital	potentiator	2554	GABRA1	Activator	Secobarbital2554
+Zaleplon	potentiator	2554	GABRA1	Activator	Zaleplon2554
+Ethanol	agonist	2554	GABRA1	Activator	Ethanol2554
+Primidone	potentiator	2554	GABRA1	Activator	Primidone2554
+Pentobarbital	potentiator	2554	GABRA1	Activator	Pentobarbital2554
+Zolpidem	agonist	2554	GABRA1	Activator	Zolpidem2554
+Butobarbital	potentiator	2554	GABRA1	Activator	Butobarbital2554
+Talbutal	potentiator	2554	GABRA1	Activator	Talbutal2554
+Quinidine barbiturate	potentiator	2554	GABRA1	Activator	Quinidine barbiturate2554
+Flumazenil	antagonist	2554	GABRA1	Inhibitor	Flumazenil2554
+Methylphenobarbital	potentiator	2554	GABRA1	Activator	Methylphenobarbital2554
+Phenobarbital	potentiator	2554	GABRA1	Activator	Phenobarbital2554
+Thiamylal	agonist	2554	GABRA1	Activator	Thiamylal2554
+Zopiclone	potentiator	2554	GABRA1	Activator	Zopiclone2554
+Eszopiclone	potentiator	2554	GABRA1	Activator	Eszopiclone2554
+Glutethimide	agonist	2554	GABRA1	Activator	Glutethimide2554
+Topiramate	agonist	2554	GABRA1	Activator	Topiramate2554
+Thiopental	potentiator	2554	GABRA1	Activator	Thiopental2554
+Amobarbital	potentiator	2554	GABRA1	Activator	Amobarbital2554
+Methylphenobarbital	potentiator	2555	GABRA2	Activator	Methylphenobarbital2555
+Meprobamate	agonist	2555	GABRA2	Activator	Meprobamate2555
+Butobarbital	potentiator	2555	GABRA2	Activator	Butobarbital2555
+Thiopental	potentiator	2555	GABRA2	Activator	Thiopental2555
+Quinidine barbiturate	potentiator	2555	GABRA2	Activator	Quinidine barbiturate2555
+Secobarbital	potentiator	2555	GABRA2	Activator	Secobarbital2555
+Primidone	potentiator	2555	GABRA2	Activator	Primidone2555
+Zopiclone	potentiator	2555	GABRA2	Activator	Zopiclone2555
+Amobarbital	potentiator	2555	GABRA2	Activator	Amobarbital2555
+Butalbital	potentiator	2555	GABRA2	Activator	Butalbital2555
+Talbutal	potentiator	2555	GABRA2	Activator	Talbutal2555
+Pentobarbital	potentiator	2555	GABRA2	Activator	Pentobarbital2555
+Thiopental	potentiator	2556	GABRA3	Activator	Thiopental2556
+Methylphenobarbital	potentiator	2556	GABRA3	Activator	Methylphenobarbital2556
+Secobarbital	potentiator	2556	GABRA3	Activator	Secobarbital2556
+Butalbital	potentiator	2556	GABRA3	Activator	Butalbital2556
+Meprobamate	agonist	2556	GABRA3	Activator	Meprobamate2556
+Butobarbital	potentiator	2556	GABRA3	Activator	Butobarbital2556
+Amobarbital	potentiator	2556	GABRA3	Activator	Amobarbital2556
+Pentobarbital	potentiator	2556	GABRA3	Activator	Pentobarbital2556
+Primidone	potentiator	2556	GABRA3	Activator	Primidone2556
+Zopiclone	potentiator	2556	GABRA3	Activator	Zopiclone2556
+Talbutal	potentiator	2556	GABRA3	Activator	Talbutal2556
+Butalbital	potentiator	2557	GABRA4	Activator	Butalbital2557
+Amobarbital	potentiator	2557	GABRA4	Activator	Amobarbital2557
+Meprobamate	agonist	2557	GABRA4	Activator	Meprobamate2557
+Methylphenobarbital	potentiator	2557	GABRA4	Activator	Methylphenobarbital2557
+Pentobarbital	potentiator	2557	GABRA4	Activator	Pentobarbital2557
+Secobarbital	potentiator	2557	GABRA4	Activator	Secobarbital2557
+Primidone	potentiator	2557	GABRA4	Activator	Primidone2557
+Butobarbital	potentiator	2557	GABRA4	Activator	Butobarbital2557
+Thiopental	potentiator	2557	GABRA4	Activator	Thiopental2557
+Talbutal	potentiator	2557	GABRA4	Activator	Talbutal2557
+Flumazenil	antagonist	2558	GABRA5	Inhibitor	Flumazenil2558
+Butalbital	potentiator	2558	GABRA5	Activator	Butalbital2558
+Secobarbital	potentiator	2558	GABRA5	Activator	Secobarbital2558
+Meprobamate	agonist	2558	GABRA5	Activator	Meprobamate2558
+Primidone	potentiator	2558	GABRA5	Activator	Primidone2558
+Butobarbital	potentiator	2558	GABRA5	Activator	Butobarbital2558
+Methylphenobarbital	potentiator	2558	GABRA5	Activator	Methylphenobarbital2558
+Pentobarbital	potentiator	2558	GABRA5	Activator	Pentobarbital2558
+Talbutal	potentiator	2558	GABRA5	Activator	Talbutal2558
+Thiopental	potentiator	2558	GABRA5	Activator	Thiopental2558
+Zopiclone	potentiator	2558	GABRA5	Activator	Zopiclone2558
+Amobarbital	potentiator	2558	GABRA5	Activator	Amobarbital2558
+Methylphenobarbital	potentiator	2559	GABRA6	Activator	Methylphenobarbital2559
+Butalbital	potentiator	2559	GABRA6	Activator	Butalbital2559
+Secobarbital	potentiator	2559	GABRA6	Activator	Secobarbital2559
+Meprobamate	agonist	2559	GABRA6	Activator	Meprobamate2559
+Amobarbital	potentiator	2559	GABRA6	Activator	Amobarbital2559
+Butobarbital	potentiator	2559	GABRA6	Activator	Butobarbital2559
+Pentobarbital	potentiator	2559	GABRA6	Activator	Pentobarbital2559
+Primidone	potentiator	2559	GABRA6	Activator	Primidone2559
+Thiopental	potentiator	2559	GABRA6	Activator	Thiopental2559
+Talbutal	potentiator	2559	GABRA6	Activator	Talbutal2559
+gamma-Hydroxybutyric acid	agonist	2560	GABRB1	Activator	gamma-Hydroxybutyric acid2560
+Propofol	potentiator	2561	GABRB2	Activator	Propofol2561
+Fospropofol	potentiator	2561	GABRB2	Activator	Fospropofol2561
+Piperazine	agonist	2562	GABRB3	Activator	Piperazine2562
+Propofol	potentiator	2562	GABRB3	Activator	Propofol2562
+Fospropofol	potentiator	2562	GABRB3	Activator	Fospropofol2562
+Flumazenil	antagonist	2566	GABRG2	Inhibitor	Flumazenil2566
+Creatine	product of	2593	GAMT	Other	Creatine2593
+Miglitol	antagonist	2595	GANC	Inhibitor	Miglitol2595
+Pemetrexed	inhibitor	2618	GART	Inhibitor	Pemetrexed2618
+Glucagon	agonist	2642	GCGR	Activator	Glucagon2642
+Dasiglucagon	agonist	2642	GCGR	Activator	Dasiglucagon2642
+Menadione	cofactor	2677	GGCX	Other	Menadione2677
+Phylloquinone	substrate|inducer|cofactor	2677	GGCX	Ligand	Phylloquinone2677
+Anisindione	inhibitor	2677	GGCX	Inhibitor	Anisindione2677
+Pegvisomant	antagonist	2690	GHR	Inhibitor	Pegvisomant2690
+Lonapegsomatropin	ligand	2690	GHR	Ligand	Lonapegsomatropin2690
+Somatotropin	ligand	2690	GHR	Ligand	Somatotropin2690
+Tesamorelin	binder	2692	GHRHR	Ligand	Tesamorelin2692
+Tirzepatide	agonist	2695	GIP	Activator	Tirzepatide2695
+Tirzepatide	agonist	2740	GLP1R	Activator	Tirzepatide2740
+Dulaglutide	agonist	2740	GLP1R	Activator	Dulaglutide2740
+Albiglutide	agonist	2740	GLP1R	Activator	Albiglutide2740
+Liraglutide	agonist	2740	GLP1R	Activator	Liraglutide2740
+Semaglutide	agonist	2740	GLP1R	Activator	Semaglutide2740
+Lixisenatide	agonist	2740	GLP1R	Activator	Lixisenatide2740
+Exenatide	agonist	2740	GLP1R	Activator	Exenatide2740
+Ethanol	agonist	2741	GLRA1	Activator	Ethanol2741
+Desflurane	agonist	2741	GLRA1	Activator	Desflurane2741
+Isoflurane	agonist	2741	GLRA1	Activator	Isoflurane2741
+Enflurane	potentiator	2741	GLRA1	Activator	Enflurane2741
+Sevoflurane	agonist	2741	GLRA1	Activator	Sevoflurane2741
+Taurine	agonist	2742	GLRA2	Activator	Taurine2742
+Ethanol	agonist	2742	GLRA2	Activator	Ethanol2742
+Nafarelin	agonist	2798	GNRHR	Activator	Nafarelin2798
+Leuprolide	agonist	2798	GNRHR	Activator	Leuprolide2798
+Buserelin	other	2798	GNRHR	Other	Buserelin2798
+Cetrorelix	antagonist	2798	GNRHR	Inhibitor	Cetrorelix2798
+Gonadorelin	agonist	2798	GNRHR	Activator	Gonadorelin2798
+Relugolix	antagonist	2798	GNRHR	Inhibitor	Relugolix2798
+Triptorelin	agonist	2798	GNRHR	Activator	Triptorelin2798
+Ganirelix	antagonist	2798	GNRHR	Inhibitor	Ganirelix2798
+Degarelix	antagonist	2798	GNRHR	Inhibitor	Degarelix2798
+Goserelin	agonist	2798	GNRHR	Activator	Goserelin2798
+Danazol	negative modulator	2798	GNRHR	Inhibitor	Danazol2798
+Linzagolix	antagonist	2798	GNRHR	Inhibitor	Linzagolix2798
+Icosapent	agonist	2864	FFAR1	Activator	Icosapent2864
+Sevoflurane	antagonist	2890	GRIA1	Inhibitor	Sevoflurane2890
+Isoflurane	antagonist	2890	GRIA1	Inhibitor	Isoflurane2890
+Perampanel	antagonist	2890	GRIA1	Inhibitor	Perampanel2890
+Desflurane	antagonist	2890	GRIA1	Inhibitor	Desflurane2890
+Orphenadrine	antagonist	2902	GRIN1	Inhibitor	Orphenadrine2902
+Felbamate	antagonist	2903	GRIN2A	Inhibitor	Felbamate2903
+Lumateperone	other	2904	GRIN2B	Other	Lumateperone2904
+Taurine	inhibitor	2904	GRIN2B	Inhibitor	Taurine2904
+Felbamate	antagonist	2904	GRIN2B	Inhibitor	Felbamate2904
+Orphenadrine	antagonist	2906	GRIN2D	Inhibitor	Orphenadrine2906
+Prednicarbate	agonist	2908	NR3C1	Activator	Prednicarbate2908
+Flumethasone	agonist	2908	NR3C1	Activator	Flumethasone2908
+Amcinonide	agonist	2908	NR3C1	Activator	Amcinonide2908
+Mometasone furoate	other	2908	NR3C1	Other	Mometasone furoate2908
+Ciclesonide	agonist	2908	NR3C1	Activator	Ciclesonide2908
+Dexamethasone acetate	agonist	2908	NR3C1	Activator	Dexamethasone acetate2908
+Ulobetasol	agonist	2908	NR3C1	Activator	Ulobetasol2908
+Hydrocortisone phosphate	other	2908	NR3C1	Other	Hydrocortisone phosphate2908
+Flunisolide	agonist	2908	NR3C1	Activator	Flunisolide2908
+Prednisone	agonist	2908	NR3C1	Activator	Prednisone2908
+Betamethasone	agonist	2908	NR3C1	Activator	Betamethasone2908
+Hydrocortisone valerate	other	2908	NR3C1	Other	Hydrocortisone valerate2908
+Hydrocortisone	agonist	2908	NR3C1	Activator	Hydrocortisone2908
+Clocortolone	agonist	2908	NR3C1	Activator	Clocortolone2908
+Beclomethasone dipropionate	agonist	2908	NR3C1	Activator	Beclomethasone dipropionate2908
+Hydrocortisone butyrate	other	2908	NR3C1	Other	Hydrocortisone butyrate2908
+Clobetasol propionate	agonist	2908	NR3C1	Activator	Clobetasol propionate2908
+Fluticasone propionate	agonist	2908	NR3C1	Activator	Fluticasone propionate2908
+Hydrocortamate	agonist	2908	NR3C1	Activator	Hydrocortamate2908
+Desonide	agonist	2908	NR3C1	Activator	Desonide2908
+Cortisone acetate	agonist	2908	NR3C1	Activator	Cortisone acetate2908
+Fluocinolone acetonide	agonist	2908	NR3C1	Activator	Fluocinolone acetonide2908
+Desoximetasone	agonist	2908	NR3C1	Activator	Desoximetasone2908
+Clobetasone	agonist	2908	NR3C1	Activator	Clobetasone2908
+Budesonide	agonist	2908	NR3C1	Activator	Budesonide2908
+Hydrocortisone acetate	other	2908	NR3C1	Other	Hydrocortisone acetate2908
+Alclometasone	agonist	2908	NR3C1	Activator	Alclometasone2908
+Fluorometholone	agonist	2908	NR3C1	Activator	Fluorometholone2908
+Diflorasone	agonist	2908	NR3C1	Activator	Diflorasone2908
+Methylprednisolone	agonist	2908	NR3C1	Activator	Methylprednisolone2908
+Loteprednol etabonate	agonist	2908	NR3C1	Activator	Loteprednol etabonate2908
+Ulipristal	antagonist	2908	NR3C1	Inhibitor	Ulipristal2908
+Medrysone	agonist	2908	NR3C1	Activator	Medrysone2908
+Fluticasone	agonist	2908	NR3C1	Activator	Fluticasone2908
+Dexamethasone	agonist	2908	NR3C1	Activator	Dexamethasone2908
+Prednisolone	agonist	2908	NR3C1	Activator	Prednisolone2908
+Mifepristone	antagonist	2908	NR3C1	Inhibitor	Mifepristone2908
+Fluocinonide	agonist	2908	NR3C1	Activator	Fluocinonide2908
+Difluprednate	agonist	2908	NR3C1	Activator	Difluprednate2908
+Hydrocortisone cypionate	other	2908	NR3C1	Other	Hydrocortisone cypionate2908
+Flurandrenolide	agonist	2908	NR3C1	Activator	Flurandrenolide2908
+Rimexolone	agonist	2908	NR3C1	Activator	Rimexolone2908
+Fluticasone furoate	agonist	2908	NR3C1	Activator	Fluticasone furoate2908
+Hydrocortisone probutate	other	2908	NR3C1	Other	Hydrocortisone probutate2908
+Triamcinolone	agonist	2908	NR3C1	Activator	Triamcinolone2908
+Prednisolone acetate	agonist	2908	NR3C1	Activator	Prednisolone acetate2908
+Acamprosate	antagonist	2915	GRM5	Inhibitor	Acamprosate2915
+Carmustine	inhibitor	2936	GSR	Inhibitor	Carmustine2936
+Acetylcysteine	stimulator	2937	GSS	Activator	Acetylcysteine2937
+Isosorbide mononitrate	activator	2977	GUCY1A2	Activator	Isosorbide mononitrate2977
+Nitric Oxide	inducer	2977	GUCY1A2	Activator	Nitric Oxide2977
+Riociguat	agonist|stimulator	2977	GUCY1A2	Activator	Riociguat2977
+Methylene blue	inhibitor	2977	GUCY1A2	Inhibitor	Methylene blue2977
+Plecanatide	agonist	2977	GUCY1A2	Activator	Plecanatide2977
+Vericiguat	stimulator	2983	GUCY1B1	Activator	Vericiguat2983
+Linaclotide	agonist	2984	GUCY2C	Activator	Linaclotide2984
+Omega-3-carboxylic acids	potentiator	3028	HSD17B10	Activator	Omega-3-carboxylic acids3028
+Omega-3-carboxylic acids	potentiator	3033	HADH	Activator	Omega-3-carboxylic acids3033
+Ferric pyrophosphate citrate	binder	3039	HBA1	Ligand	Ferric pyrophosphate citrate3039
+Ferrous sulfate anhydrous	binder	3039	HBA1	Ligand	Ferrous sulfate anhydrous3039
+Pentaerythritol tetranitrate	agonist	3039	HBA1	Activator	Pentaerythritol tetranitrate3039
+Voxelotor	binder	3039	HBA1	Ligand	Voxelotor3039
+Nitrous acid	oxidizer	3039	HBA1	Other	Nitrous acid3039
+Iron Dextran	activator	3039	HBA1	Activator	Iron Dextran3039
+Ferric pyrophosphate citrate	binder	3040	HBA2	Ligand	Ferric pyrophosphate citrate3040
+Ferrous sulfate anhydrous	binder	3040	HBA2	Ligand	Ferrous sulfate anhydrous3040
+Pentaerythritol tetranitrate	agonist	3040	HBA2	Activator	Pentaerythritol tetranitrate3040
+Voxelotor	binder	3040	HBA2	Ligand	Voxelotor3040
+Nitrous acid	oxidizer	3040	HBA2	Other	Nitrous acid3040
+Iron Dextran	activator	3040	HBA2	Activator	Iron Dextran3040
+Ferric pyrophosphate citrate	binder	3043	HBB	Ligand	Ferric pyrophosphate citrate3043
+Iron Dextran	activator	3043	HBB	Activator	Iron Dextran3043
+Pentaerythritol tetranitrate	agonist	3043	HBB	Activator	Pentaerythritol tetranitrate3043
+Nitrous acid	oxidizer	3043	HBB	Other	Nitrous acid3043
+Sodium ferric gluconate complex	binding	3043	HBB	Ligand	Sodium ferric gluconate complex3043
+Sulodexide	agonist	3053	SERPIND1	Activator	Sulodexide3053
+Lemborexant	antagonist	3061	HCRTR1	Inhibitor	Lemborexant3061
+Suvorexant	antagonist	3061	HCRTR1	Inhibitor	Suvorexant3061
+Daridorexant	antagonist	3061	HCRTR1	Inhibitor	Daridorexant3061
+Daridorexant	antagonist	3062	HCRTR2	Inhibitor	Daridorexant3062
+Suvorexant	antagonist	3062	HCRTR2	Inhibitor	Suvorexant3062
+Lemborexant	antagonist	3062	HCRTR2	Inhibitor	Lemborexant3062
+Romidepsin	antagonist|inhibitor	3065	HDAC1	Inhibitor	Romidepsin3065
+Vorinostat	inhibitor	3065	HDAC1	Inhibitor	Vorinostat3065
+Aminophylline	activator	3066	HDAC2	Activator	Aminophylline3066
+Romidepsin	antagonist|inhibitor	3066	HDAC2	Inhibitor	Romidepsin3066
+Vorinostat	inhibitor	3066	HDAC2	Inhibitor	Vorinostat3066
+Oxtriphylline	activator	3066	HDAC2	Activator	Oxtriphylline3066
+Theophylline	activator	3066	HDAC2	Activator	Theophylline3066
+Antithymocyte immunoglobulin (rabbit)	antagonist	3140	MR1	Inhibitor	Antithymocyte immunoglobulin (rabbit)3140
+Fluvastatin	inhibitor	3156	HMGCR	Inhibitor	Fluvastatin3156
+Simvastatin	inhibitor	3156	HMGCR	Inhibitor	Simvastatin3156
+Lovastatin	inhibitor	3156	HMGCR	Inhibitor	Lovastatin3156
+Rosuvastatin	inhibitor	3156	HMGCR	Inhibitor	Rosuvastatin3156
+Atorvastatin	inhibitor	3156	HMGCR	Inhibitor	Atorvastatin3156
+Pravastatin	inhibitor	3156	HMGCR	Inhibitor	Pravastatin3156
+Pitavastatin	inhibitor	3156	HMGCR	Inhibitor	Pitavastatin3156
+Hyaluronic acid	binder	3161	HMMR	Ligand	Hyaluronic acid3161
+Nitisinone	inhibitor	3242	HPD	Inhibitor	Nitisinone3242
+Mercaptopurine	inhibitor	3251	HPRT1	Inhibitor	Mercaptopurine3251
+Azelastine	antagonist	3269	HRH1	Inhibitor	Azelastine3269
+Levocetirizine	antagonist|inhibitor	3269	HRH1	Inhibitor	Levocetirizine3269
+Mepyramine	antagonist	3269	HRH1	Inhibitor	Mepyramine3269
+Bilastine	antagonist	3269	HRH1	Inhibitor	Bilastine3269
+Betahistine	agonist	3269	HRH1	Activator	Betahistine3269
+Dimetindene	antagonist	3269	HRH1	Inhibitor	Dimetindene3269
+Dosulepin	antagonist	3269	HRH1	Inhibitor	Dosulepin3269
+Pheniramine	inverse agonist	3269	HRH1	Inhibitor	Pheniramine3269
+Olopatadine	antagonist	3269	HRH1	Inhibitor	Olopatadine3269
+Diphenylpyraline	antagonist	3269	HRH1	Inhibitor	Diphenylpyraline3269
+Ketotifen	antagonist	3269	HRH1	Inhibitor	Ketotifen3269
+Doxylamine	antagonist	3269	HRH1	Inhibitor	Doxylamine3269
+Cetirizine	antagonist	3269	HRH1	Inhibitor	Cetirizine3269
+Histamine	agonist	3269	HRH1	Activator	Histamine3269
+Diphenhydramine	antagonist	3269	HRH1	Inhibitor	Diphenhydramine3269
+Phenindamine	antagonist	3269	HRH1	Inhibitor	Phenindamine3269
+Alimemazine	antagonist	3269	HRH1	Inhibitor	Alimemazine3269
+Dexbrompheniramine	antagonist	3269	HRH1	Inhibitor	Dexbrompheniramine3269
+Cyclizine	antagonist	3269	HRH1	Inhibitor	Cyclizine3269
+Fexofenadine	antagonist	3269	HRH1	Inhibitor	Fexofenadine3269
+Orphenadrine	antagonist	3269	HRH1	Inhibitor	Orphenadrine3269
+Chlorpromazine	antagonist	3269	HRH1	Inhibitor	Chlorpromazine3269
+Epinastine	antagonist	3269	HRH1	Inhibitor	Epinastine3269
+Methdilazine	antagonist	3269	HRH1	Inhibitor	Methdilazine3269
+Levocabastine	antagonist	3269	HRH1	Inhibitor	Levocabastine3269
+Emedastine	antagonist	3269	HRH1	Inhibitor	Emedastine3269
+Cyproheptadine	antagonist	3269	HRH1	Inhibitor	Cyproheptadine3269
+Chlorcyclizine	antagonist	3269	HRH1	Inhibitor	Chlorcyclizine3269
+Bromodiphenhydramine	antagonist	3269	HRH1	Inhibitor	Bromodiphenhydramine3269
+Dimenhydrinate	antagonist	3269	HRH1	Inhibitor	Dimenhydrinate3269
+Desloratadine	antagonist	3269	HRH1	Inhibitor	Desloratadine3269
+Dexchlorpheniramine maleate	antagonist	3269	HRH1	Inhibitor	Dexchlorpheniramine maleate3269
+Buclizine	antagonist	3269	HRH1	Inhibitor	Buclizine3269
+Promethazine	antagonist	3269	HRH1	Inhibitor	Promethazine3269
+Triprolidine	antagonist	3269	HRH1	Inhibitor	Triprolidine3269
+Antazoline	antagonist	3269	HRH1	Inhibitor	Antazoline3269
+Brompheniramine	antagonist	3269	HRH1	Inhibitor	Brompheniramine3269
+Cinnarizine	antagonist	3269	HRH1	Inhibitor	Cinnarizine3269
+Propiomazine	antagonist	3269	HRH1	Inhibitor	Propiomazine3269
+Repaglinide	antagonist	3269	HRH1	Inhibitor	Repaglinide3269
+Bepotastine	antagonist	3269	HRH1	Inhibitor	Bepotastine3269
+Carbinoxamine	antagonist	3269	HRH1	Inhibitor	Carbinoxamine3269
+Chlorpheniramine	antagonist	3269	HRH1	Inhibitor	Chlorpheniramine3269
+Acrivastine	antagonist	3269	HRH1	Inhibitor	Acrivastine3269
+Lorpiprazole	antagonist	3269	HRH1	Inhibitor	Lorpiprazole3269
+Thonzylamine	antagonist	3269	HRH1	Inhibitor	Thonzylamine3269
+Azatadine	antagonist	3269	HRH1	Inhibitor	Azatadine3269
+Hydroxyzine	inverse agonist	3269	HRH1	Inhibitor	Hydroxyzine3269
+Loratadine	antagonist	3269	HRH1	Inhibitor	Loratadine3269
+Rupatadine	antagonist	3269	HRH1	Inhibitor	Rupatadine3269
+Tripelennamine	antagonist	3269	HRH1	Inhibitor	Tripelennamine3269
+Clemastine	antagonist	3269	HRH1	Inhibitor	Clemastine3269
+Doxepin	antagonist	3269	HRH1	Inhibitor	Doxepin3269
+Meclizine	antagonist	3269	HRH1	Inhibitor	Meclizine3269
+Methantheline	antagonist	3274	HRH2	Inhibitor	Methantheline3274
+Betazole	agonist	3274	HRH2	Activator	Betazole3274
+Cimetidine	antagonist	3274	HRH2	Inhibitor	Cimetidine3274
+Epinastine	antagonist	3274	HRH2	Inhibitor	Epinastine3274
+Histamine	agonist	3274	HRH2	Activator	Histamine3274
+Doxepin	antagonist	3274	HRH2	Inhibitor	Doxepin3274
+Famotidine	antagonist	3274	HRH2	Inhibitor	Famotidine3274
+Nizatidine	antagonist	3274	HRH2	Inhibitor	Nizatidine3274
+Glycyrrhizic acid	antagonist	3290	HSD11B1	Inhibitor	Glycyrrhizic acid3290
+Buspirone	partial agonist	3350	HTR1A	Activator	Buspirone3350
+Alverine	antagonist	3350	HTR1A	Inhibitor	Alverine3350
+Methysergide	agonist	3350	HTR1A	Activator	Methysergide3350
+Trazodone	antagonist|partial agonist	3350	HTR1A	Inhibitor	Trazodone3350
+Naratriptan	agonist	3350	HTR1A	Activator	Naratriptan3350
+Flibanserin	agonist	3350	HTR1A	Activator	Flibanserin3350
+Sumatriptan	agonist	3350	HTR1A	Activator	Sumatriptan3350
+Aripiprazole lauroxil	partial agonist	3350	HTR1A	Activator	Aripiprazole lauroxil3350
+Vortioxetine	agonist	3350	HTR1A	Activator	Vortioxetine3350
+Ziprasidone	agonist	3350	HTR1A	Activator	Ziprasidone3350
+Penbutolol	antagonist	3350	HTR1A	Inhibitor	Penbutolol3350
+Dosulepin	antagonist	3350	HTR1A	Inhibitor	Dosulepin3350
+Pipotiazine	antagonist	3350	HTR1A	Inhibitor	Pipotiazine3350
+Brexpiprazole	agonist|partial agonist	3350	HTR1A	Activator	Brexpiprazole3350
+Chlorpromazine	antagonist	3350	HTR1A	Inhibitor	Chlorpromazine3350
+Vortioxetine	partial agonist	3351	HTR1B	Activator	Vortioxetine3351
+Zolmitriptan	agonist	3351	HTR1B	Activator	Zolmitriptan3351
+Naratriptan	agonist	3351	HTR1B	Activator	Naratriptan3351
+Rizatriptan	agonist	3351	HTR1B	Activator	Rizatriptan3351
+Eletriptan	agonist	3351	HTR1B	Activator	Eletriptan3351
+Frovatriptan	agonist	3351	HTR1B	Activator	Frovatriptan3351
+Sumatriptan	agonist	3351	HTR1B	Activator	Sumatriptan3351
+Dihydroergotamine	agonist	3351	HTR1B	Activator	Dihydroergotamine3351
+Ergotamine	agonist	3351	HTR1B	Activator	Ergotamine3351
+Naratriptan	agonist	3352	HTR1D	Activator	Naratriptan3352
+Frovatriptan	agonist	3352	HTR1D	Activator	Frovatriptan3352
+Ziprasidone	antagonist	3352	HTR1D	Inhibitor	Ziprasidone3352
+Dihydroergotamine	agonist	3352	HTR1D	Activator	Dihydroergotamine3352
+Eletriptan	agonist	3352	HTR1D	Activator	Eletriptan3352
+Sumatriptan	agonist	3352	HTR1D	Activator	Sumatriptan3352
+Ergotamine	agonist	3352	HTR1D	Activator	Ergotamine3352
+Zolmitriptan	agonist	3352	HTR1D	Activator	Zolmitriptan3352
+Rizatriptan	agonist	3352	HTR1D	Activator	Rizatriptan3352
+Eletriptan	agonist	3355	HTR1F	Activator	Eletriptan3355
+Naratriptan	agonist	3355	HTR1F	Activator	Naratriptan3355
+Dihydroergotamine	agonist	3355	HTR1F	Activator	Dihydroergotamine3355
+Sumatriptan	agonist	3355	HTR1F	Activator	Sumatriptan3355
+Zolmitriptan	agonist	3355	HTR1F	Activator	Zolmitriptan3355
+Lasmiditan	agonist	3355	HTR1F	Activator	Lasmiditan3355
+Rizatriptan	agonist	3355	HTR1F	Activator	Rizatriptan3355
+Dosulepin	antagonist	3356	HTR2A	Inhibitor	Dosulepin3356
+Mesoridazine	antagonist	3356	HTR2A	Inhibitor	Mesoridazine3356
+Amisulpride	antagonist	3356	HTR2A	Inhibitor	Amisulpride3356
+Nortriptyline	antagonist	3356	HTR2A	Inhibitor	Nortriptyline3356
+Ergotamine	agonist	3356	HTR2A	Activator	Ergotamine3356
+Minaprine	antagonist	3356	HTR2A	Inhibitor	Minaprine3356
+Aripiprazole lauroxil	antagonist	3356	HTR2A	Inhibitor	Aripiprazole lauroxil3356
+Lurasidone	antagonist	3356	HTR2A	Inhibitor	Lurasidone3356
+Quetiapine	antagonist	3356	HTR2A	Inhibitor	Quetiapine3356
+Methysergide	antagonist	3356	HTR2A	Inhibitor	Methysergide3356
+Desipramine	antagonist	3356	HTR2A	Inhibitor	Desipramine3356
+Risperidone	antagonist	3356	HTR2A	Inhibitor	Risperidone3356
+Cyclobenzaprine	antagonist	3356	HTR2A	Inhibitor	Cyclobenzaprine3356
+Cyproheptadine	antagonist	3356	HTR2A	Inhibitor	Cyproheptadine3356
+Lorpiprazole	antagonist	3356	HTR2A	Inhibitor	Lorpiprazole3356
+Aripiprazole	antagonist|partial agonist	3356	HTR2A	Inhibitor	Aripiprazole3356
+Mirtazapine	antagonist	3356	HTR2A	Inhibitor	Mirtazapine3356
+Ziprasidone	antagonist	3356	HTR2A	Inhibitor	Ziprasidone3356
+Chlorpromazine	antagonist	3356	HTR2A	Inhibitor	Chlorpromazine3356
+Clomipramine	antagonist	3356	HTR2A	Inhibitor	Clomipramine3356
+Paliperidone	antagonist	3356	HTR2A	Inhibitor	Paliperidone3356
+Amitriptyline	antagonist	3356	HTR2A	Inhibitor	Amitriptyline3356
+Olanzapine	antagonist	3356	HTR2A	Inhibitor	Olanzapine3356
+Lumateperone	antagonist	3356	HTR2A	Inhibitor	Lumateperone3356
+Trazodone	antagonist	3356	HTR2A	Inhibitor	Trazodone3356
+Clozapine	antagonist	3356	HTR2A	Inhibitor	Clozapine3356
+Flibanserin	antagonist	3356	HTR2A	Inhibitor	Flibanserin3356
+Brexpiprazole	antagonist	3356	HTR2A	Inhibitor	Brexpiprazole3356
+Pipotiazine	antagonist	3356	HTR2A	Inhibitor	Pipotiazine3356
+Iloperidone	antagonist	3356	HTR2A	Inhibitor	Iloperidone3356
+Lisuride	agonist	3356	HTR2A	Activator	Lisuride3356
+Pimavanserin	inverse agonist	3356	HTR2A	Inhibitor	Pimavanserin3356
+Asenapine	antagonist	3356	HTR2A	Inhibitor	Asenapine3356
+Loxapine	antagonist	3356	HTR2A	Inhibitor	Loxapine3356
+Clomipramine	antagonist	3357	HTR2B	Inhibitor	Clomipramine3357
+Triflupromazine	antagonist	3357	HTR2B	Inhibitor	Triflupromazine3357
+Methysergide	antagonist	3357	HTR2B	Inhibitor	Methysergide3357
+Minaprine	antagonist	3357	HTR2B	Inhibitor	Minaprine3357
+Clomipramine	antagonist	3358	HTR2C	Inhibitor	Clomipramine3358
+Methysergide	antagonist	3358	HTR2C	Inhibitor	Methysergide3358
+Ziprasidone	antagonist	3358	HTR2C	Inhibitor	Ziprasidone3358
+Paliperidone	antagonist	3358	HTR2C	Inhibitor	Paliperidone3358
+Trazodone	agonist	3358	HTR2C	Activator	Trazodone3358
+Cyproheptadine	antagonist	3358	HTR2C	Inhibitor	Cyproheptadine3358
+Lisuride	agonist	3358	HTR2C	Activator	Lisuride3358
+Agomelatine	antagonist	3358	HTR2C	Inhibitor	Agomelatine3358
+Lorpiprazole	antagonist	3358	HTR2C	Inhibitor	Lorpiprazole3358
+Minaprine	antagonist	3358	HTR2C	Inhibitor	Minaprine3358
+Haloperidol	other	3358	HTR2C	Other	Haloperidol3358
+Ketamine	potentiator	3359	HTR3A	Activator	Ketamine3359
+Vortioxetine	antagonist	3359	HTR3A	Inhibitor	Vortioxetine3359
+Granisetron	antagonist	3359	HTR3A	Inhibitor	Granisetron3359
+Palonosetron	antagonist	3359	HTR3A	Inhibitor	Palonosetron3359
+Tubocurarine	antagonist	3359	HTR3A	Inhibitor	Tubocurarine3359
+Procaine	antagonist	3359	HTR3A	Inhibitor	Procaine3359
+Tropisetron	antagonist	3359	HTR3A	Inhibitor	Tropisetron3359
+Metoclopramide	antagonist	3359	HTR3A	Inhibitor	Metoclopramide3359
+Dolasetron	antagonist	3359	HTR3A	Inhibitor	Dolasetron3359
+Metoclopramide	agonist	3360	HTR4	Activator	Metoclopramide3360
+Prucalopride	agonist	3360	HTR4	Activator	Prucalopride3360
+Amisulpride	antagonist	3363	HTR7	Inhibitor	Amisulpride3363
+Vortioxetine	antagonist	3363	HTR7	Inhibitor	Vortioxetine3363
+Methysergide	antagonist	3363	HTR7	Inhibitor	Methysergide3363
+Hyaluronic acid	inhibitor|binder	3383	ICAM1	Inhibitor	Hyaluronic acid3383
+Bacitracin	inhibitor	3416	IDE	Inhibitor	Bacitracin3416
+Olutasidenib	inhibitor	3417	IDH1	Inhibitor	Olutasidenib3417
+Ivosidenib	inhibitor	3417	IDH1	Inhibitor	Ivosidenib3417
+Enasidenib	inhibitor	3418	IDH2	Inhibitor	Enasidenib3418
+Interferon beta-1a	agonist	3454	IFNAR1	Activator	Interferon beta-1a3454
+Peginterferon alfa-2a	agonist	3454	IFNAR1	Activator	Peginterferon alfa-2a3454
+Anifrolumab	inhibitor	3454	IFNAR1	Inhibitor	Anifrolumab3454
+Interferon beta-1b	agonist	3454	IFNAR1	Activator	Interferon beta-1b3454
+Interferon alfa-n3	agonist	3454	IFNAR1	Activator	Interferon alfa-n33454
+Interferon alfa-n1	agonist	3454	IFNAR1	Activator	Interferon alfa-n13454
+Peginterferon alfa-2b	agonist	3454	IFNAR1	Activator	Peginterferon alfa-2b3454
+Interferon alfa-2b	binder	3454	IFNAR1	Ligand	Interferon alfa-2b3454
+Interferon alfacon-1	binder	3454	IFNAR1	Ligand	Interferon alfacon-13454
+Human interferon beta	binder	3454	IFNAR1	Ligand	Human interferon beta3454
+Interferon alfa-2a	other	3454	IFNAR1	Other	Interferon alfa-2a3454
+Interferon alfa-2b	binder	3455	IFNAR2	Ligand	Interferon alfa-2b3455
+Interferon beta-1a	other	3455	IFNAR2	Other	Interferon beta-1a3455
+Peginterferon alfa-2a	agonist	3455	IFNAR2	Activator	Peginterferon alfa-2a3455
+Interferon alfa-n1	agonist	3455	IFNAR2	Activator	Interferon alfa-n13455
+Interferon alfacon-1	binder	3455	IFNAR2	Ligand	Interferon alfacon-13455
+Interferon alfa-2a	other	3455	IFNAR2	Other	Interferon alfa-2a3455
+Interferon beta-1b	agonist	3455	IFNAR2	Activator	Interferon beta-1b3455
+Nylidrin	agonist	3455	IFNAR2	Activator	Nylidrin3455
+Interferon alfa-n3	agonist	3455	IFNAR2	Activator	Interferon alfa-n33455
+Peginterferon alfa-2b	agonist	3455	IFNAR2	Activator	Peginterferon alfa-2b3455
+Emapalumab	neutralizer	3458	IFNG	Other	Emapalumab3458
+Foreskin keratinocyte (neonatal)	agonist	3458	IFNG	Activator	Foreskin keratinocyte (neonatal)3458
+Olsalazine	other	3458	IFNG	Other	Olsalazine3458
+Interferon gamma-1b	binder	3459	IFNGR1	Ligand	Interferon gamma-1b3459
+Interferon gamma-1b	binder	3460	IFNGR2	Ligand	Interferon gamma-1b3460
+Mecasermin	agonist	3480	IGF1R	Activator	Mecasermin3480
+Mecasermin rinfabate	agonist	3480	IGF1R	Activator	Mecasermin rinfabate3480
+Arsenic trioxide	inducer	3551	IKBKB	Activator	Arsenic trioxide3551
+Auranofin	inhibitor	3551	IKBKB	Inhibitor	Auranofin3551
+Gallium nitrate	antagonist	3553	IL1B	Inhibitor	Gallium nitrate3553
+Foreskin keratinocyte (neonatal)	agonist	3553	IL1B	Activator	Foreskin keratinocyte (neonatal)3553
+Canakinumab	binder	3553	IL1B	Ligand	Canakinumab3553
+Anakinra	antagonist	3554	IL1R1	Inhibitor	Anakinra3554
+Basiliximab	antibody	3559	IL2RA	Ligand	Basiliximab3559
+Denileukin diftitox	binder	3559	IL2RA	Ligand	Denileukin diftitox3559
+Aldesleukin	agonist|modulator	3559	IL2RA	Activator	Aldesleukin3559
+Aldesleukin	agonist|modulator	3560	IL2RB	Activator	Aldesleukin3560
+Denileukin diftitox	agonist	3560	IL2RB	Activator	Denileukin diftitox3560
+Aldesleukin	agonist	3561	IL2RG	Activator	Aldesleukin3561
+Tagraxofusp	ligand	3563	IL3RA	Ligand	Tagraxofusp3563
+Sargramostim	agonist	3563	IL3RA	Activator	Sargramostim3563
+Dupilumab	inhibitor|antibody	3565	IL4	Inhibitor	Dupilumab3565
+Dupilumab	inhibitor|antibody	3566	IL4R	Inhibitor	Dupilumab3566
+Reslizumab	antagonist|regulator	3567	IL5	Inhibitor	Reslizumab3567
+Mepolizumab	antagonist|regulator	3567	IL5	Inhibitor	Mepolizumab3567
+Benralizumab	antibody	3568	IL5RA	Ligand	Benralizumab3568
+Foreskin keratinocyte (neonatal)	agonist	3569	IL6	Activator	Foreskin keratinocyte (neonatal)3569
+Siltuximab	antagonist|antibody	3569	IL6	Inhibitor	Siltuximab3569
+Tocilizumab	inhibitor|antibody	3570	IL6R	Inhibitor	Tocilizumab3570
+Satralizumab	binder|antibody	3570	IL6R	Ligand	Satralizumab3570
+Sarilumab	antagonist|antibody	3570	IL6R	Inhibitor	Sarilumab3570
+Oprelvekin	agonist	3590	IL11RA	Activator	Oprelvekin3590
+Ustekinumab	inhibitor	3593	IL12B	Inhibitor	Ustekinumab3593
+Dupilumab	inhibitor|antibody	3596	IL13	Inhibitor	Dupilumab3596
+Tralokinumab	antibody	3596	IL13	Ligand	Tralokinumab3596
+Bimekizumab	antibody	3605	IL17A	Ligand	Bimekizumab3605
+Secukinumab	inhibitor	3605	IL17A	Inhibitor	Secukinumab3605
+Ixekizumab	antibody	3605	IL17A	Ligand	Ixekizumab3605
+Ribavirin	inhibitor	3614	IMPDH1	Inhibitor	Ribavirin3614
+Mycophenolic acid	inhibitor	3614	IMPDH1	Inhibitor	Mycophenolic acid3614
+Mycophenolate mofetil	inhibitor|inducer	3614	IMPDH1	Inhibitor	Mycophenolate mofetil3614
+Mycophenolate mofetil	inhibitor	3615	IMPDH2	Inhibitor	Mycophenolate mofetil3615
+Mycophenolic acid	inhibitor	3615	IMPDH2	Inhibitor	Mycophenolic acid3615
+Insulin pork	binder	3643	INSR	Ligand	Insulin pork3643
+Insulin beef	agonist	3643	INSR	Activator	Insulin beef3643
+Insulin degludec	agonist	3643	INSR	Activator	Insulin degludec3643
+Insulin detemir	agonist	3643	INSR	Activator	Insulin detemir3643
+Insulin lispro	agonist	3643	INSR	Activator	Insulin lispro3643
+Chromic chloride	activator	3643	INSR	Activator	Chromic chloride3643
+Insulin glargine	agonist	3643	INSR	Activator	Insulin glargine3643
+Insulin glulisine	agonist	3643	INSR	Activator	Insulin glulisine3643
+Insulin human	agonist	3643	INSR	Activator	Insulin human3643
+Insulin aspart	agonist	3643	INSR	Activator	Insulin aspart3643
+Tirofiban	antagonist	3674	ITGA2B	Inhibitor	Tirofiban3674
+Abciximab	antagonist	3674	ITGA2B	Inhibitor	Abciximab3674
+Natalizumab	antibody	3676	ITGA4	Ligand	Natalizumab3676
+Vedolizumab	antibody	3676	ITGA4	Ligand	Vedolizumab3676
+Lifitegrast	antagonist	3683	ITGAL	Inhibitor	Lifitegrast3683
+Antithymocyte immunoglobulin (rabbit)	other	3683	ITGAL	Other	Antithymocyte immunoglobulin (rabbit)3683
+Levothyroxine	other	3685	ITGAV	Other	Levothyroxine3685
+Antithymocyte immunoglobulin (rabbit)	other	3685	ITGAV	Other	Antithymocyte immunoglobulin (rabbit)3685
+Antithymocyte immunoglobulin (rabbit)	other	3688	ITGB1	Other	Antithymocyte immunoglobulin (rabbit)3688
+Tirofiban	antagonist	3690	ITGB3	Inhibitor	Tirofiban3690
+Abciximab	antagonist	3690	ITGB3	Inhibitor	Abciximab3690
+Eptifibatide	other	3690	ITGB3	Other	Eptifibatide3690
+Antithymocyte immunoglobulin (rabbit)	other	3690	ITGB3	Other	Antithymocyte immunoglobulin (rabbit)3690
+Levothyroxine	other	3690	ITGB3	Other	Levothyroxine3690
+Vedolizumab	antibody	3695	ITGB7	Ligand	Vedolizumab3695
+Tofacitinib	inhibitor	3716	JAK1	Inhibitor	Tofacitinib3716
+Baricitinib	inhibitor	3716	JAK1	Inhibitor	Baricitinib3716
+Abrocitinib	inhibitor	3716	JAK1	Inhibitor	Abrocitinib3716
+Upadacitinib	inhibitor	3716	JAK1	Inhibitor	Upadacitinib3716
+Ruxolitinib	inhibitor	3716	JAK1	Inhibitor	Ruxolitinib3716
+Filgotinib	inhibitor	3716	JAK1	Inhibitor	Filgotinib3716
+Pacritinib	inhibitor	3717	JAK2	Inhibitor	Pacritinib3717
+Fedratinib	inhibitor	3717	JAK2	Inhibitor	Fedratinib3717
+Baricitinib	inhibitor	3717	JAK2	Inhibitor	Baricitinib3717
+Ruxolitinib	inhibitor	3717	JAK2	Inhibitor	Ruxolitinib3717
+Tofacitinib	antagonist|inhibitor	3717	JAK2	Inhibitor	Tofacitinib3717
+Tofacitinib	inhibitor	3718	JAK3	Inhibitor	Tofacitinib3718
+Ruxolitinib	inhibitor	3718	JAK3	Inhibitor	Ruxolitinib3718
+Baricitinib	inhibitor	3718	JAK3	Inhibitor	Baricitinib3718
+Adapalene	antagonist	3725	JUN	Inhibitor	Adapalene3725
+Arsenic trioxide	inducer	3725	JUN	Activator	Arsenic trioxide3725
+Isoflurane	inducer	3736	KCNA1	Activator	Isoflurane3736
+Amifampridine	blocker	3736	KCNA1	Inhibitor	Amifampridine3736
+Desflurane	inducer	3736	KCNA1	Activator	Desflurane3736
+Dalfampridine	antagonist	3736	KCNA1	Inhibitor	Dalfampridine3736
+Dalfampridine	antagonist	3737	KCNA2	Inhibitor	Dalfampridine3737
+Dalfampridine	antagonist	3738	KCNA3	Inhibitor	Dalfampridine3738
+Dalfampridine	antagonist	3739	KCNA4	Inhibitor	Dalfampridine3739
+Vernakalant	blocker	3741	KCNA5	Inhibitor	Vernakalant3741
+Dalfampridine	antagonist	3741	KCNA5	Inhibitor	Dalfampridine3741
+Dalfampridine	antagonist	3742	KCNA6	Inhibitor	Dalfampridine3742
+Dalfampridine	antagonist	3743	KCNA7	Inhibitor	Dalfampridine3743
+Dalfampridine	antagonist	3744	KCNA10	Inhibitor	Dalfampridine3744
+Dalfampridine	antagonist	3745	KCNB1	Inhibitor	Dalfampridine3745
+Dalfampridine	antagonist	3746	KCNC1	Inhibitor	Dalfampridine3746
+Dalfampridine	antagonist	3747	KCNC2	Inhibitor	Dalfampridine3747
+Dalfampridine	antagonist	3748	KCNC3	Inhibitor	Dalfampridine3748
+Dalfampridine	antagonist	3750	KCND1	Inhibitor	Dalfampridine3750
+Dalfampridine	antagonist	3751	KCND2	Inhibitor	Dalfampridine3751
+Dronedarone	inhibitor	3752	KCND3	Inhibitor	Dronedarone3752
+Vernakalant	blocker	3752	KCND3	Inhibitor	Vernakalant3752
+Dalfampridine	antagonist	3752	KCND3	Inhibitor	Dalfampridine3752
+Ibutilide	inhibitor	3757	KCNH2	Inhibitor	Ibutilide3757
+Propafenone	inhibitor	3757	KCNH2	Inhibitor	Propafenone3757
+Halofantrine	inhibitor	3757	KCNH2	Inhibitor	Halofantrine3757
+Phenytoin	inhibitor	3757	KCNH2	Inhibitor	Phenytoin3757
+Dronedarone	inhibitor	3757	KCNH2	Inhibitor	Dronedarone3757
+Pimozide	inhibitor	3757	KCNH2	Inhibitor	Pimozide3757
+Dofetilide	inhibitor	3757	KCNH2	Inhibitor	Dofetilide3757
+Sotalol	inhibitor	3757	KCNH2	Inhibitor	Sotalol3757
+Minoxidil	inducer	3758	KCNJ1	Activator	Minoxidil3758
+Glymidine	other	3758	KCNJ1	Other	Glymidine3758
+Bethanidine	inhibitor	3758	KCNJ1	Inhibitor	Bethanidine3758
+Glimepiride	inhibitor	3758	KCNJ1	Inhibitor	Glimepiride3758
+Dronedarone	inhibitor	3760	KCNJ3	Inhibitor	Dronedarone3760
+Gliquidone	inhibitor	3764	KCNJ8	Inhibitor	Gliquidone3764
+Levosimendan	inducer	3764	KCNJ8	Activator	Levosimendan3764
+Thiamylal	inhibitor	3764	KCNJ8	Inhibitor	Thiamylal3764
+Levosimendan	inducer	3767	KCNJ11	Activator	Levosimendan3767
+Thiamylal	inhibitor	3767	KCNJ11	Inhibitor	Thiamylal3767
+Glimepiride	inhibitor	3767	KCNJ11	Inhibitor	Glimepiride3767
+Diazoxide	inducer	3767	KCNJ11	Activator	Diazoxide3767
+Dofetilide	inhibitor	3768	KCNJ12	Inhibitor	Dofetilide3768
+Dofetilide	inhibitor	3776	KCNK2	Inhibitor	Dofetilide3776
+Dronedarone	inhibitor	3776	KCNK2	Inhibitor	Dronedarone3776
+Doxapram	inhibitor	3777	KCNK3	Inhibitor	Doxapram3777
+Halothane	binder	3777	KCNK3	Ligand	Halothane3777
+Hydrochlorothiazide	inhibitor	3778	KCNMA1	Inhibitor	Hydrochlorothiazide3778
+Bendroflumethiazide	inducer	3778	KCNMA1	Activator	Bendroflumethiazide3778
+Chlorzoxazone	other	3778	KCNMA1	Other	Chlorzoxazone3778
+Clotrimazole	inhibitor	3783	KCNN4	Inhibitor	Clotrimazole3783
+Dronedarone	inhibitor	3784	KCNQ1	Inhibitor	Dronedarone3784
+Pazopanib	inhibitor	3791	KDR	Inhibitor	Pazopanib3791
+Ramucirumab	antagonist	3791	KDR	Inhibitor	Ramucirumab3791
+Cabozantinib	antagonist	3791	KDR	Inhibitor	Cabozantinib3791
+Regorafenib	inhibitor	3791	KDR	Inhibitor	Regorafenib3791
+Midostaurin	antagonist|inhibitor	3791	KDR	Inhibitor	Midostaurin3791
+Nintedanib	inhibitor	3791	KDR	Inhibitor	Nintedanib3791
+Ripretinib	inhibitor	3791	KDR	Inhibitor	Ripretinib3791
+Lenvatinib	inhibitor	3791	KDR	Inhibitor	Lenvatinib3791
+Tivozanib	inhibitor	3791	KDR	Inhibitor	Tivozanib3791
+Axitinib	inhibitor	3791	KDR	Inhibitor	Axitinib3791
+Sunitinib	inhibitor	3791	KDR	Inhibitor	Sunitinib3791
+Sorafenib	antagonist	3791	KDR	Inhibitor	Sorafenib3791
+Lenvatinib	inhibitor	3815	KIT	Inhibitor	Lenvatinib3815
+Sorafenib	antagonist	3815	KIT	Inhibitor	Sorafenib3815
+Tivozanib	inhibitor	3815	KIT	Inhibitor	Tivozanib3815
+Pazopanib	inhibitor	3815	KIT	Inhibitor	Pazopanib3815
+Regorafenib	inhibitor	3815	KIT	Inhibitor	Regorafenib3815
+Imatinib	antagonist	3815	KIT	Inhibitor	Imatinib3815
+Sunitinib	inhibitor	3815	KIT	Inhibitor	Sunitinib3815
+Ripretinib	inhibitor	3815	KIT	Inhibitor	Ripretinib3815
+Conestat alfa	inhibitor	3818	KLKB1	Inhibitor	Conestat alfa3818
+Ecallantide	inhibitor	3818	KLKB1	Inhibitor	Ecallantide3818
+Human C1-esterase inhibitor	inhibitor	3818	KLKB1	Inhibitor	Human C1-esterase inhibitor3818
+Lanadelumab	inhibitor|regulator	3818	KLKB1	Inhibitor	Lanadelumab3818
+Berotralstat	inhibitor	3818	KLKB1	Inhibitor	Berotralstat3818
+Sotorasib	inhibitor	3845	KRAS	Inhibitor	Sotorasib3845
+Adagrasib	inhibitor	3845	KRAS	Inhibitor	Adagrasib3845
+Anthralin	antagonist	3849	KRT2	Inhibitor	Anthralin3849
+Anthralin	antagonist	3859	KRT12	Inhibitor	Anthralin3859
+Relatlimab	antibody	3902	LAG3	Ligand	Relatlimab3902
+Dasatinib	multitarget	3932	LCK	Other	Dasatinib3932
+Stiripentol	inhibitor	3939	LDHA	Inhibitor	Stiripentol3939
+Stiripentol	inhibitor	3945	LDHB	Inhibitor	Stiripentol3945
+Metreleptin	agonist	3953	LEPR	Activator	Metreleptin3953
+Choriogonadotropin alfa	other	3973	LHCGR	Other	Choriogonadotropin alfa3973
+Chorionic Gonadotropin (Human)	ligand	3973	LHCGR	Ligand	Chorionic Gonadotropin (Human)3973
+Goserelin	agonist	3973	LHCGR	Activator	Goserelin3973
+Menotropins	other	3973	LHCGR	Other	Menotropins3973
+Buserelin	other	3973	LHCGR	Other	Buserelin3973
+Lutropin alfa	agonist	3973	LHCGR	Activator	Lutropin alfa3973
+alpha-Linolenic acid	ligand	3992	FADS1	Ligand	alpha-Linolenic acid3992
+Omega-3-carboxylic acids	stimulator	4023	LPL	Activator	Omega-3-carboxylic acids4023
+Tyloxapol	inhibitor	4023	LPL	Inhibitor	Tyloxapol4023
+Glycyrrhizic acid	inducer	4023	LPL	Activator	Glycyrrhizic acid4023
+Etanercept	antibody	4049	LTA	Ligand	Etanercept4049
+Sacituzumab govitecan	antibody	4070	TACSTD2	Ligand	Sacituzumab govitecan4070
+Alglucosidase alfa	binder	4074	M6PR	Ligand	Alglucosidase alfa4074
+Isocarboxazid	inhibitor	4128	MAOA	Inhibitor	Isocarboxazid4128
+Minaprine	inhibitor	4128	MAOA	Inhibitor	Minaprine4128
+Moclobemide	antagonist|inhibitor	4128	MAOA	Inhibitor	Moclobemide4128
+Phenelzine	antagonist	4128	MAOA	Inhibitor	Phenelzine4128
+Tranylcypromine	inhibitor	4128	MAOA	Inhibitor	Tranylcypromine4128
+Phentermine	antagonist	4128	MAOA	Inhibitor	Phentermine4128
+Selegiline	inhibitor	4129	MAOB	Inhibitor	Selegiline4129
+Rasagiline	inhibitor	4129	MAOB	Inhibitor	Rasagiline4129
+Isocarboxazid	inhibitor	4129	MAOB	Inhibitor	Isocarboxazid4129
+Tranylcypromine	inhibitor	4129	MAOB	Inhibitor	Tranylcypromine4129
+Phentermine	antagonist	4129	MAOB	Inhibitor	Phentermine4129
+Safinamide	antagonist	4129	MAOB	Inhibitor	Safinamide4129
+Pargyline	inhibitor	4129	MAOB	Inhibitor	Pargyline4129
+Phenelzine	antagonist	4129	MAOB	Inhibitor	Phenelzine4129
+Estramustine	antagonist	4130	MAP1A	Inhibitor	Estramustine4130
+Estramustine	antagonist	4133	MAP2	Inhibitor	Estramustine4133
+Docetaxel	other	4133	MAP2	Other	Docetaxel4133
+Paclitaxel	other	4133	MAP2	Other	Paclitaxel4133
+Paclitaxel	other	4134	MAP4	Other	Paclitaxel4134
+Docetaxel	other	4134	MAP4	Other	Docetaxel4134
+Paclitaxel	other	4137	MAPT	Other	Paclitaxel4137
+Flortaucipir F-18	binder	4137	MAPT	Ligand	Flortaucipir F-184137
+Docetaxel	other	4137	MAPT	Other	Docetaxel4137
+Carbon monoxide	inhibitor	4151	MB	Inhibitor	Carbon monoxide4151
+Afamelanotide	agonist	4157	MC1R	Activator	Afamelanotide4157
+Seractide acetate	agonist	4158	MC2R	Activator	Seractide acetate4158
+Corticotropin	agonist	4158	MC2R	Activator	Corticotropin4158
+Tetracosactide	agonist	4158	MC2R	Activator	Tetracosactide4158
+Setmelanotide	agonist	4160	MC4R	Activator	Setmelanotide4160
+Binimetinib	inhibitor	4214	MAP3K1	Inhibitor	Binimetinib4214
+Tepotinib	inhibitor	4233	MET	Inhibitor	Tepotinib4233
+Cabozantinib	antagonist	4233	MET	Inhibitor	Cabozantinib4233
+Amivantamab	antagonist|antibody	4233	MET	Inhibitor	Amivantamab4233
+Crizotinib	inhibitor	4233	MET	Inhibitor	Crizotinib4233
+Capmatinib	inhibitor	4233	MET	Inhibitor	Capmatinib4233
+Progesterone	antagonist|agonist	4306	NR3C2	Modulator	Progesterone4306
+Eplerenone	antagonist	4306	NR3C2	Inhibitor	Eplerenone4306
+Spironolactone	antagonist	4306	NR3C2	Inhibitor	Spironolactone4306
+Drospirenone	antagonist	4306	NR3C2	Inhibitor	Drospirenone4306
+Fludrocortisone	agonist	4306	NR3C2	Activator	Fludrocortisone4306
+Finerenone	antagonist	4306	NR3C2	Inhibitor	Finerenone4306
+Sacubitril	antagonist|inhibitor	4311	MME	Inhibitor	Sacubitril4311
+Fosdenopterin	substrate	4338	MOCS2	Ligand	Fosdenopterin4338
+Lusutrombopag	agonist	4352	MPL	Activator	Lusutrombopag4352
+Romiplostim	agonist	4352	MPL	Activator	Romiplostim4352
+Avatrombopag	agonist	4352	MPL	Activator	Avatrombopag4352
+Technetium Tc-99m tilmanocept	ligand	4360	MRC1	Ligand	Technetium Tc-99m tilmanocept4360
+Sulfinpyrazone	inhibitor	4363	ABCC1	Inhibitor	Sulfinpyrazone4363
+Crizotinib	inhibitor	4486	MST1R	Inhibitor	Crizotinib4486
+Desflurane	inhibitor	4535	ND1	Inhibitor	Desflurane4535
+Melatonin	agonist	4543	MTNR1A	Activator	Melatonin4543
+Tasimelteon	agonist	4543	MTNR1A	Activator	Tasimelteon4543
+Agomelatine	agonist	4543	MTNR1A	Activator	Agomelatine4543
+Ramelteon	multitarget	4543	MTNR1A	Other	Ramelteon4543
+Agomelatine	agonist	4544	MTNR1B	Activator	Agomelatine4544
+Tasimelteon	agonist	4544	MTNR1B	Activator	Tasimelteon4544
+Ramelteon	multitarget	4544	MTNR1B	Other	Ramelteon4544
+Melatonin	agonist	4544	MTNR1B	Activator	Melatonin4544
+Lomitapide	antagonist	4547	MTTP	Inhibitor	Lomitapide4547
+Cyanocobalamin	cofactor	4548	MTR	Other	Cyanocobalamin4548
+Hydroxocobalamin	cofactor	4548	MTR	Other	Hydroxocobalamin4548
+Mecobalamin	cofactor	4548	MTR	Other	Mecobalamin4548
+Cyanocobalamin	cofactor	4594	MMUT	Other	Cyanocobalamin4594
+Hydroxocobalamin	cofactor	4594	MMUT	Other	Hydroxocobalamin4594
+Mavacamten	inhibitory allosteric modulator	4625	MYH7	Inhibitor	Mavacamten4625
+Ubidecarenone	cofactor	4731	NDUFV3	Other	Ubidecarenone4731
+Celecoxib	inhibitor	4758	NEU1	Inhibitor	Celecoxib4758
+Triflusal	antagonist	4790	NFKB1	Inhibitor	Triflusal4790
+Niacin	binder	4837	NNMT	Ligand	Niacin4837
+Methylene blue	inhibitor	4842	NOS1	Inhibitor	Methylene blue4842
+Ketamine	inhibitor	4842	NOS1	Inhibitor	Ketamine4842
+Triflusal	agonist	4843	NOS2	Activator	Triflusal4843
+Sapropterin	cofactor	4846	NOS3	Other	Sapropterin4846
+Phentermine	inhibitor	4852	NPY	Inhibitor	Phentermine4852
+Cladribine	inducer	4860	PNP	Activator	Cladribine4860
+Nitroprusside	agonist	4881	NPR1	Activator	Nitroprusside4881
+Erythrityl tetranitrate	agonist	4881	NPR1	Activator	Erythrityl tetranitrate4881
+Amyl Nitrite	agonist	4881	NPR1	Activator	Amyl Nitrite4881
+Isosorbide dinitrate	agonist	4881	NPR1	Activator	Isosorbide dinitrate4881
+Erythrityl tetranitrate	agonist	4882	NPR2	Activator	Erythrityl tetranitrate4882
+Vosoritide	agonist	4882	NPR2	Activator	Vosoritide4882
+Larotrectinib	inhibitor	4914	NTRK1	Inhibitor	Larotrectinib4914
+Regorafenib	inhibitor	4914	NTRK1	Inhibitor	Regorafenib4914
+Entrectinib	inhibitor	4914	NTRK1	Inhibitor	Entrectinib4914
+Larotrectinib	inhibitor	4915	NTRK2	Inhibitor	Larotrectinib4915
+Entrectinib	inhibitor	4916	NTRK3	Inhibitor	Entrectinib4916
+Larotrectinib	inhibitor	4916	NTRK3	Inhibitor	Larotrectinib4916
+Regorafenib	inhibitor	4921	DDR2	Inhibitor	Regorafenib4921
+Opium	agonist	4985	OPRD1	Activator	Opium4985
+Oxycodone	agonist	4985	OPRD1	Activator	Oxycodone4985
+Butorphanol	agonist	4985	OPRD1	Activator	Butorphanol4985
+Hydromorphone	partial agonist	4985	OPRD1	Activator	Hydromorphone4985
+Naltrexone	antagonist	4985	OPRD1	Inhibitor	Naltrexone4985
+Codeine	agonist	4985	OPRD1	Activator	Codeine4985
+Naldemedine	antagonist	4985	OPRD1	Inhibitor	Naldemedine4985
+Fentanyl	agonist	4985	OPRD1	Activator	Fentanyl4985
+Methadone	agonist	4985	OPRD1	Activator	Methadone4985
+Nalbuphine	antagonist	4985	OPRD1	Inhibitor	Nalbuphine4985
+Naloxone	antagonist	4985	OPRD1	Inhibitor	Naloxone4985
+Morphine	agonist	4985	OPRD1	Activator	Morphine4985
+Eluxadoline	antagonist	4985	OPRD1	Inhibitor	Eluxadoline4985
+Hydrocodone	agonist	4985	OPRD1	Activator	Hydrocodone4985
+Dezocine	antagonist	4986	OPRK1	Inhibitor	Dezocine4986
+Nalbuphine	agonist	4986	OPRK1	Activator	Nalbuphine4986
+Pentazocine	agonist	4986	OPRK1	Activator	Pentazocine4986
+Naltrexone	antagonist	4986	OPRK1	Inhibitor	Naltrexone4986
+Butorphanol	agonist	4986	OPRK1	Activator	Butorphanol4986
+Buprenorphine	antagonist	4986	OPRK1	Inhibitor	Buprenorphine4986
+Naloxone	antagonist	4986	OPRK1	Inhibitor	Naloxone4986
+Difelikefalin	agonist	4986	OPRK1	Activator	Difelikefalin4986
+Eluxadoline	agonist	4986	OPRK1	Activator	Eluxadoline4986
+Meperidine	other	4986	OPRK1	Other	Meperidine4986
+Hydromorphone	agonist	4986	OPRK1	Activator	Hydromorphone4986
+Codeine	agonist	4986	OPRK1	Activator	Codeine4986
+Naldemedine	antagonist	4986	OPRK1	Inhibitor	Naldemedine4986
+Oxycodone	agonist	4986	OPRK1	Activator	Oxycodone4986
+Opium	agonist	4986	OPRK1	Activator	Opium4986
+Morphine	agonist	4986	OPRK1	Activator	Morphine4986
+Pholcodine	antagonist	4986	OPRK1	Inhibitor	Pholcodine4986
+Oxycodone	agonist	4988	OPRM1	Activator	Oxycodone4988
+Levorphanol	agonist	4988	OPRM1	Activator	Levorphanol4988
+Remifentanil	agonist	4988	OPRM1	Activator	Remifentanil4988
+Oliceridine	agonist	4988	OPRM1	Activator	Oliceridine4988
+Methylnaltrexone	antagonist	4988	OPRM1	Inhibitor	Methylnaltrexone4988
+Alfentanil	agonist	4988	OPRM1	Activator	Alfentanil4988
+Diamorphine	agonist	4988	OPRM1	Activator	Diamorphine4988
+Naloxone	antagonist	4988	OPRM1	Inhibitor	Naloxone4988
+Hydromorphone	agonist	4988	OPRM1	Activator	Hydromorphone4988
+Buprenorphine	partial agonist	4988	OPRM1	Activator	Buprenorphine4988
+Samidorphan	antagonist	4988	OPRM1	Inhibitor	Samidorphan4988
+Levallorphan	partial agonist	4988	OPRM1	Activator	Levallorphan4988
+Loperamide	agonist	4988	OPRM1	Activator	Loperamide4988
+Oxymorphone	agonist	4988	OPRM1	Activator	Oxymorphone4988
+Morphine	agonist|regulator	4988	OPRM1	Activator	Morphine4988
+Dezocine	agonist	4988	OPRM1	Activator	Dezocine4988
+Naloxegol	antagonist	4988	OPRM1	Inhibitor	Naloxegol4988
+Alvimopan	antagonist	4988	OPRM1	Inhibitor	Alvimopan4988
+Pholcodine	antagonist	4988	OPRM1	Inhibitor	Pholcodine4988
+Hydrocodone	agonist	4988	OPRM1	Activator	Hydrocodone4988
+Naldemedine	antagonist	4988	OPRM1	Inhibitor	Naldemedine4988
+Eluxadoline	agonist	4988	OPRM1	Activator	Eluxadoline4988
+Pentazocine	antagonist	4988	OPRM1	Inhibitor	Pentazocine4988
+Butorphanol	antagonist	4988	OPRM1	Inhibitor	Butorphanol4988
+Methadone	agonist	4988	OPRM1	Activator	Methadone4988
+Trimebutine	agonist	4988	OPRM1	Activator	Trimebutine4988
+Opium	agonist	4988	OPRM1	Activator	Opium4988
+Tramadol	agonist	4988	OPRM1	Activator	Tramadol4988
+Nalbuphine	antagonist	4988	OPRM1	Inhibitor	Nalbuphine4988
+Sufentanil	agonist	4988	OPRM1	Activator	Sufentanil4988
+Codeine	agonist|regulator	4988	OPRM1	Activator	Codeine4988
+Diphenoxylate	agonist	4988	OPRM1	Activator	Diphenoxylate4988
+Anileridine	agonist	4988	OPRM1	Activator	Anileridine4988
+Naltrexone	antagonist	4988	OPRM1	Inhibitor	Naltrexone4988
+Fentanyl	agonist	4988	OPRM1	Activator	Fentanyl4988
+Tapentadol	agonist	4988	OPRM1	Activator	Tapentadol4988
+Vasopressin	agonist	5021	OXTR	Activator	Vasopressin5021
+Carbetocin	agonist	5021	OXTR	Activator	Carbetocin5021
+Oxytocin	agonist	5021	OXTR	Activator	Oxytocin5021
+Atosiban	antagonist	5021	OXTR	Inhibitor	Atosiban5021
+Eslicarbazepine	other	5025	P2RX4	Other	Eslicarbazepine5025
+Eslicarbazepine acetate	antagonist	5025	P2RX4	Inhibitor	Eslicarbazepine acetate5025
+Sapropterin	cofactor	5053	PAH	Other	Sapropterin5053
+Avelumab	inhibitor|antibody	5133	PDCD1	Inhibitor	Avelumab5133
+Atezolizumab	inhibitor	5133	PDCD1	Inhibitor	Atezolizumab5133
+Dostarlimab	binder|antibody	5133	PDCD1	Ligand	Dostarlimab5133
+Nivolumab	inhibitor|antibody	5133	PDCD1	Inhibitor	Nivolumab5133
+Pembrolizumab	inhibitor|antibody	5133	PDCD1	Inhibitor	Pembrolizumab5133
+Cemiplimab	inhibitor|antibody	5133	PDCD1	Inhibitor	Cemiplimab5133
+Cilostazol	inhibitor	5139	PDE3A	Inhibitor	Cilostazol5139
+Theophylline	inhibitor	5139	PDE3A	Inhibitor	Theophylline5139
+Anagrelide	inhibitor	5139	PDE3A	Inhibitor	Anagrelide5139
+Enoximone	inhibitor	5139	PDE3A	Inhibitor	Enoximone5139
+Oxtriphylline	inhibitor	5139	PDE3A	Inhibitor	Oxtriphylline5139
+Amrinone	inhibitor	5139	PDE3A	Inhibitor	Amrinone5139
+Aminophylline	inhibitor	5139	PDE3A	Inhibitor	Aminophylline5139
+Milrinone	inhibitor	5139	PDE3A	Inhibitor	Milrinone5139
+Drotaverine	inhibitor	5141	PDE4A	Inhibitor	Drotaverine5141
+Theophylline	inhibitor	5141	PDE4A	Inhibitor	Theophylline5141
+Enprofylline	inhibitor	5141	PDE4A	Inhibitor	Enprofylline5141
+Dipyridamole	inhibitor	5141	PDE4A	Inhibitor	Dipyridamole5141
+Dyphylline	inhibitor	5141	PDE4A	Inhibitor	Dyphylline5141
+Oxtriphylline	inhibitor	5141	PDE4A	Inhibitor	Oxtriphylline5141
+Enprofylline	inhibitor	5142	PDE4B	Inhibitor	Enprofylline5142
+Dyphylline	inhibitor	5142	PDE4B	Inhibitor	Dyphylline5142
+Papaverine	inhibitor	5142	PDE4B	Inhibitor	Papaverine5142
+Theophylline	inhibitor	5142	PDE4B	Inhibitor	Theophylline5142
+Dyphylline	inhibitor	5143	PDE4C	Inhibitor	Dyphylline5143
+Dyphylline	inhibitor	5144	PDE4D	Inhibitor	Dyphylline5144
+Foreskin keratinocyte (neonatal)	agonist	5156	PDGFRA	Activator	Foreskin keratinocyte (neonatal)5156
+Midostaurin	antagonist|inhibitor	5156	PDGFRA	Inhibitor	Midostaurin5156
+Regorafenib	inhibitor	5156	PDGFRA	Inhibitor	Regorafenib5156
+Imatinib	antagonist	5156	PDGFRA	Inhibitor	Imatinib5156
+Pazopanib	inhibitor	5156	PDGFRA	Inhibitor	Pazopanib5156
+Olaratumab	antagonist	5156	PDGFRA	Inhibitor	Olaratumab5156
+Nintedanib	inhibitor	5156	PDGFRA	Inhibitor	Nintedanib5156
+Sunitinib	inhibitor	5156	PDGFRA	Inhibitor	Sunitinib5156
+Ripretinib	inhibitor	5156	PDGFRA	Inhibitor	Ripretinib5156
+Lenvatinib	inhibitor	5156	PDGFRA	Inhibitor	Lenvatinib5156
+Sorafenib	antagonist	5159	PDGFRB	Inhibitor	Sorafenib5159
+Midostaurin	antagonist|inhibitor	5159	PDGFRB	Inhibitor	Midostaurin5159
+Pazopanib	inhibitor	5159	PDGFRB	Inhibitor	Pazopanib5159
+Becaplermin	other	5159	PDGFRB	Other	Becaplermin5159
+Nintedanib	inhibitor	5159	PDGFRB	Inhibitor	Nintedanib5159
+Imatinib	antagonist	5159	PDGFRB	Inhibitor	Imatinib5159
+Ripretinib	inhibitor	5159	PDGFRB	Inhibitor	Ripretinib5159
+Regorafenib	inhibitor	5159	PDGFRB	Inhibitor	Regorafenib5159
+Sunitinib	inhibitor	5159	PDGFRB	Inhibitor	Sunitinib5159
+Tivozanib	inhibitor	5159	PDGFRB	Inhibitor	Tivozanib5159
+Dichloroacetic acid	inhibitor	5163	PDK1	Inhibitor	Dichloroacetic acid5163
+Sucralfate	inhibitor	5222	PGA5	Inhibitor	Sucralfate5222
+Aflibercept	binder	5228	PGF	Ligand	Aflibercept5228
+Ulipristal	modulator	5241	PGR	Modulator	Ulipristal5241
+Ethynodiol diacetate	agonist	5241	PGR	Activator	Ethynodiol diacetate5241
+Norelgestromin	agonist	5241	PGR	Activator	Norelgestromin5241
+Danazol	agonist	5241	PGR	Activator	Danazol5241
+Mifepristone	antagonist	5241	PGR	Inhibitor	Mifepristone5241
+Norgestimate	agonist	5241	PGR	Activator	Norgestimate5241
+Norethisterone	agonist	5241	PGR	Activator	Norethisterone5241
+Medroxyprogesterone acetate	agonist	5241	PGR	Activator	Medroxyprogesterone acetate5241
+Levonorgestrel	modulator	5241	PGR	Modulator	Levonorgestrel5241
+Segesterone acetate	agonist|activator	5241	PGR	Activator	Segesterone acetate5241
+Drospirenone	agonist	5241	PGR	Activator	Drospirenone5241
+Desogestrel	agonist	5241	PGR	Activator	Desogestrel5241
+Norgestrel	binder	5241	PGR	Ligand	Norgestrel5241
+Dienogest	agonist	5241	PGR	Activator	Dienogest5241
+Etonogestrel	agonist	5241	PGR	Activator	Etonogestrel5241
+Megestrol acetate	agonist	5241	PGR	Activator	Megestrol acetate5241
+Progesterone	agonist	5241	PGR	Activator	Progesterone5241
+Alpelisib	inhibitor	5290	PIK3CA	Inhibitor	Alpelisib5290
+Copanlisib	inhibitor	5290	PIK3CA	Inhibitor	Copanlisib5290
+Copanlisib	inhibitor	5293	PIK3CD	Inhibitor	Copanlisib5293
+Duvelisib	inhibitor	5293	PIK3CD	Inhibitor	Duvelisib5293
+Idelalisib	inhibitor	5293	PIK3CD	Inhibitor	Idelalisib5293
+Duvelisib	inhibitor	5294	PIK3CG	Inhibitor	Duvelisib5294
+Mitapivat	activator	5313	PKLR	Activator	Mitapivat5313
+Sulfasalazine	antagonist	5319	PLA2G1B	Inhibitor	Sulfasalazine5319
+Indomethacin	inhibitor	5320	PLA2G2A	Inhibitor	Indomethacin5320
+Aminocaproic acid	antagonist	5327	PLAT	Inhibitor	Aminocaproic acid5327
+Conestat alfa	inhibitor	5327	PLAT	Inhibitor	Conestat alfa5327
+Human C1-esterase inhibitor	inhibitor	5327	PLAT	Inhibitor	Human C1-esterase inhibitor5327
+Alteplase	activator	5340	PLG	Activator	Alteplase5340
+Tranexamic acid	inhibitor	5340	PLG	Inhibitor	Tranexamic acid5340
+Anistreplase	activator	5340	PLG	Activator	Anistreplase5340
+Reteplase	activator	5340	PLG	Activator	Reteplase5340
+Aminocaproic acid	inhibitor	5340	PLG	Inhibitor	Aminocaproic acid5340
+Tenecteplase	activator	5340	PLG	Activator	Tenecteplase5340
+Streptokinase	activator	5340	PLG	Activator	Streptokinase5340
+Orlistat	inhibitor	5406	PNLIP	Inhibitor	Orlistat5406
+Fludarabine	inhibitor	5422	POLA1	Inhibitor	Fludarabine5422
+Cladribine	inhibitor	5422	POLA1	Inhibitor	Cladribine5422
+Clofarabine	inhibitor	5422	POLA1	Inhibitor	Clofarabine5422
+Cytarabine	inhibitor	5423	POLB	Inhibitor	Cytarabine5423
+Cladribine	inhibitor	5426	POLE	Inhibitor	Cladribine5426
+Cladribine	inhibitor	5427	POLE2	Inhibitor	Cladribine5427
+Gemfibrozil	agonist	5465	PPARA	Activator	Gemfibrozil5465
+Clofibrate	agonist	5465	PPARA	Activator	Clofibrate5465
+Fenofibric acid	agonist	5465	PPARA	Activator	Fenofibric acid5465
+Doconexent	activator	5465	PPARA	Activator	Doconexent5465
+Fenofibrate	agonist	5465	PPARA	Activator	Fenofibrate5465
+Bezafibrate	agonist	5465	PPARA	Activator	Bezafibrate5465
+Soybean oil	activator	5465	PPARA	Activator	Soybean oil5465
+Treprostinil	agonist	5467	PPARD	Activator	Treprostinil5467
+Bezafibrate	agonist	5467	PPARD	Activator	Bezafibrate5467
+Icosapent	agonist	5467	PPARD	Activator	Icosapent5467
+Glycerin	agonist	5467	PPARD	Activator	Glycerin5467
+Icosapent	agonist|regulator	5468	PPARG	Activator	Icosapent5468
+Balsalazide	agonist	5468	PPARG	Activator	Balsalazide5468
+Omega-3 fatty acids	ligand	5468	PPARG	Ligand	Omega-3 fatty acids5468
+Rosiglitazone	agonist	5468	PPARG	Activator	Rosiglitazone5468
+Bezafibrate	agonist	5468	PPARG	Activator	Bezafibrate5468
+Telmisartan	partial agonist	5468	PPARG	Activator	Telmisartan5468
+Mesalazine	agonist	5468	PPARG	Activator	Mesalazine5468
+Pioglitazone	agonist	5468	PPARG	Activator	Pioglitazone5468
+Doconexent	activator	5468	PPARG	Activator	Doconexent5468
+Cyclosporine	inhibitor|binder	5478	PPIA	Inhibitor	Cyclosporine5478
+Voclosporin	inhibitor	5534	PPP3R1	Inhibitor	Voclosporin5534
+Cyclosporine	inhibitor	5535	PPP3R2	Inhibitor	Cyclosporine5535
+Voclosporin	inhibitor	5535	PPP3R2	Inhibitor	Voclosporin5535
+Metformin	inducer|activator	5564	PRKAB1	Activator	Metformin5564
+Midostaurin	antagonist|inhibitor	5578	PRKCA	Inhibitor	Midostaurin5578
+Arsenic trioxide	inducer	5594	MAPK1	Activator	Arsenic trioxide5594
+Arsenic trioxide	inducer	5595	MAPK3	Activator	Arsenic trioxide5595
+Regorafenib	inhibitor	5600	MAPK11	Inhibitor	Regorafenib5600
+Cobimetinib	inhibitor	5604	MAP2K1	Inhibitor	Cobimetinib5604
+Trametinib	antagonist|inhibitor	5604	MAP2K1	Inhibitor	Trametinib5604
+Selumetinib	inhibitor	5604	MAP2K1	Inhibitor	Selumetinib5604
+Trametinib	antagonist|inhibitor	5605	MAP2K2	Inhibitor	Trametinib5605
+Selumetinib	inhibitor	5605	MAP2K2	Inhibitor	Selumetinib5605
+Binimetinib	inhibitor	5605	MAP2K2	Inhibitor	Binimetinib5605
+Lonapegsomatropin	ligand	5618	PRLR	Ligand	Lonapegsomatropin5618
+Somatotropin	ligand	5618	PRLR	Ligand	Somatotropin5618
+Protein S human	cofactor	5624	PROC	Other	Protein S human5624
+Sodium tetradecyl sulfate	inhibitor	5624	PROC	Inhibitor	Sodium tetradecyl sulfate5624
+Sodium tetradecyl sulfate	inhibitor	5627	PROS1	Inhibitor	Sodium tetradecyl sulfate5627
+Bortezomib	inhibitor	5689	PSMB1	Inhibitor	Bortezomib5689
+Carfilzomib	inhibitor	5689	PSMB1	Inhibitor	Carfilzomib5689
+Carfilzomib	inhibitor	5690	PSMB2	Inhibitor	Carfilzomib5690
+Bortezomib	inhibitor	5693	PSMB5	Inhibitor	Bortezomib5693
+Carfilzomib	inhibitor	5693	PSMB5	Inhibitor	Carfilzomib5693
+Carfilzomib	inhibitor	5696	PSMB8	Inhibitor	Carfilzomib5696
+Carfilzomib	inhibitor	5698	PSMB9	Inhibitor	Carfilzomib5698
+Carfilzomib	inhibitor	5699	PSMB10	Inhibitor	Carfilzomib5699
+Rupatadine	antagonist	5724	PTAFR	Inhibitor	Rupatadine5724
+Treprostinil	agonist	5729	PTGDR	Activator	Treprostinil5729
+Misoprostol	agonist	5731	PTGER1	Activator	Misoprostol5731
+Iloprost	agonist	5731	PTGER1	Activator	Iloprost5731
+Dinoprostone	agonist	5731	PTGER1	Activator	Dinoprostone5731
+Alprostadil	agonist	5731	PTGER1	Activator	Alprostadil5731
+Carboprost tromethamine	agonist	5731	PTGER1	Activator	Carboprost tromethamine5731
+Bimatoprost	agonist	5731	PTGER1	Activator	Bimatoprost5731
+Omidenepag isopropyl	agonist	5732	PTGER2	Activator	Omidenepag isopropyl5732
+Misoprostol	agonist	5732	PTGER2	Activator	Misoprostol5732
+Dinoprostone	agonist	5732	PTGER2	Activator	Dinoprostone5732
+Alprostadil	agonist	5732	PTGER2	Activator	Alprostadil5732
+Treprostinil	agonist	5732	PTGER2	Activator	Treprostinil5732
+Dinoprostone	agonist	5733	PTGER3	Activator	Dinoprostone5733
+Misoprostol	agonist	5733	PTGER3	Activator	Misoprostol5733
+Castor oil	agonist|activator	5733	PTGER3	Activator	Castor oil5733
+Bimatoprost	agonist	5733	PTGER3	Activator	Bimatoprost5733
+Dinoprostone	agonist	5734	PTGER4	Activator	Dinoprostone5734
+Latanoprost	agonist	5737	PTGFR	Activator	Latanoprost5737
+Latanoprostene bunod	agonist	5737	PTGFR	Activator	Latanoprostene bunod5737
+Travoprost	agonist	5737	PTGFR	Activator	Travoprost5737
+Tafluprost	agonist	5737	PTGFR	Activator	Tafluprost5737
+Bimatoprost	agonist	5737	PTGFR	Activator	Bimatoprost5737
+Dinoprost tromethamine	agonist	5737	PTGFR	Activator	Dinoprost tromethamine5737
+Iloprost	agonist	5739	PTGIR	Activator	Iloprost5739
+Treprostinil	agonist	5739	PTGIR	Activator	Treprostinil5739
+Epoprostenol	agonist	5739	PTGIR	Activator	Epoprostenol5739
+Selexipag	agonist	5739	PTGIR	Activator	Selexipag5739
+Phenylbutazone	inhibitor	5740	PTGIS	Inhibitor	Phenylbutazone5740
+Epoprostenol	inducer	5740	PTGIS	Activator	Epoprostenol5740
+Menthyl salicylate	antagonist	5742	PTGS1	Inhibitor	Menthyl salicylate5742
+Oxaprozin	inhibitor	5742	PTGS1	Inhibitor	Oxaprozin5742
+Sulfasalazine	inhibitor	5742	PTGS1	Inhibitor	Sulfasalazine5742
+Trolamine salicylate	inhibitor	5742	PTGS1	Inhibitor	Trolamine salicylate5742
+Salsalate	inhibitor	5742	PTGS1	Inhibitor	Salsalate5742
+Triflusal	antagonist	5742	PTGS1	Inhibitor	Triflusal5742
+Tiaprofenic acid	inhibitor	5742	PTGS1	Inhibitor	Tiaprofenic acid5742
+Phenylbutazone	inhibitor	5742	PTGS1	Inhibitor	Phenylbutazone5742
+Meclofenamic acid	inhibitor	5742	PTGS1	Inhibitor	Meclofenamic acid5742
+Glycol salicylate	antagonist	5742	PTGS1	Inhibitor	Glycol salicylate5742
+Salicylic acid	inhibitor	5742	PTGS1	Inhibitor	Salicylic acid5742
+Diclofenac	inhibitor	5742	PTGS1	Inhibitor	Diclofenac5742
+Lumiracoxib	inhibitor	5742	PTGS1	Inhibitor	Lumiracoxib5742
+Ibuprofen	inhibitor	5742	PTGS1	Inhibitor	Ibuprofen5742
+Balsalazide	inhibitor	5742	PTGS1	Inhibitor	Balsalazide5742
+Acetaminophen	inhibitor	5742	PTGS1	Inhibitor	Acetaminophen5742
+Mesalazine	inhibitor	5742	PTGS1	Inhibitor	Mesalazine5742
+Lornoxicam	inhibitor	5742	PTGS1	Inhibitor	Lornoxicam5742
+Naproxen	inhibitor	5742	PTGS1	Inhibitor	Naproxen5742
+Acemetacin	antagonist	5742	PTGS1	Inhibitor	Acemetacin5742
+Loxoprofen	antagonist	5742	PTGS1	Inhibitor	Loxoprofen5742
+Tolfenamic acid	antagonist	5742	PTGS1	Inhibitor	Tolfenamic acid5742
+Aceclofenac	inhibitor	5742	PTGS1	Inhibitor	Aceclofenac5742
+Acetylsalicylic acid	inhibitor	5742	PTGS1	Inhibitor	Acetylsalicylic acid5742
+Icosapent	inhibitor	5742	PTGS1	Inhibitor	Icosapent5742
+Salsalate	inhibitor	5743	PTGS2	Inhibitor	Salsalate5743
+Oxaprozin	inhibitor	5743	PTGS2	Inhibitor	Oxaprozin5743
+Tolmetin	inhibitor	5743	PTGS2	Inhibitor	Tolmetin5743
+Mesalazine	inhibitor	5743	PTGS2	Inhibitor	Mesalazine5743
+Flurbiprofen	inhibitor	5743	PTGS2	Inhibitor	Flurbiprofen5743
+Pomalidomide	inhibitor	5743	PTGS2	Inhibitor	Pomalidomide5743
+Menthyl salicylate	antagonist	5743	PTGS2	Inhibitor	Menthyl salicylate5743
+Glycol salicylate	antagonist	5743	PTGS2	Inhibitor	Glycol salicylate5743
+Tenoxicam	inhibitor	5743	PTGS2	Inhibitor	Tenoxicam5743
+Tiaprofenic acid	inhibitor	5743	PTGS2	Inhibitor	Tiaprofenic acid5743
+Sulfasalazine	inhibitor	5743	PTGS2	Inhibitor	Sulfasalazine5743
+Ibuprofen	inhibitor	5743	PTGS2	Inhibitor	Ibuprofen5743
+Mefenamic acid	inhibitor	5743	PTGS2	Inhibitor	Mefenamic acid5743
+Salicylic acid	inhibitor	5743	PTGS2	Inhibitor	Salicylic acid5743
+Fish oil	inhibitor	5743	PTGS2	Inhibitor	Fish oil5743
+Ketoprofen	inhibitor	5743	PTGS2	Inhibitor	Ketoprofen5743
+Naproxen	inhibitor	5743	PTGS2	Inhibitor	Naproxen5743
+Phenylbutazone	inhibitor	5743	PTGS2	Inhibitor	Phenylbutazone5743
+Sulindac	inhibitor	5743	PTGS2	Inhibitor	Sulindac5743
+Parecoxib	inhibitor	5743	PTGS2	Inhibitor	Parecoxib5743
+Balsalazide	inhibitor	5743	PTGS2	Inhibitor	Balsalazide5743
+Diflunisal	inhibitor	5743	PTGS2	Inhibitor	Diflunisal5743
+Acetylsalicylic acid	inhibitor	5743	PTGS2	Inhibitor	Acetylsalicylic acid5743
+Ketorolac	inhibitor	5743	PTGS2	Inhibitor	Ketorolac5743
+Acemetacin	antagonist	5743	PTGS2	Inhibitor	Acemetacin5743
+Lumiracoxib	inhibitor	5743	PTGS2	Inhibitor	Lumiracoxib5743
+Fenoprofen	inhibitor	5743	PTGS2	Inhibitor	Fenoprofen5743
+Icosapent	inhibitor	5743	PTGS2	Inhibitor	Icosapent5743
+Meclofenamic acid	inhibitor	5743	PTGS2	Inhibitor	Meclofenamic acid5743
+Dexibuprofen	inhibitor	5743	PTGS2	Inhibitor	Dexibuprofen5743
+Meloxicam	inhibitor	5743	PTGS2	Inhibitor	Meloxicam5743
+Indomethacin	inhibitor	5743	PTGS2	Inhibitor	Indomethacin5743
+Etoricoxib	inhibitor	5743	PTGS2	Inhibitor	Etoricoxib5743
+Aceclofenac	inhibitor	5743	PTGS2	Inhibitor	Aceclofenac5743
+Nabumetone	inhibitor	5743	PTGS2	Inhibitor	Nabumetone5743
+Tolfenamic acid	antagonist	5743	PTGS2	Inhibitor	Tolfenamic acid5743
+Lornoxicam	inhibitor	5743	PTGS2	Inhibitor	Lornoxicam5743
+Loxoprofen	antagonist	5743	PTGS2	Inhibitor	Loxoprofen5743
+Celecoxib	inhibitor	5743	PTGS2	Inhibitor	Celecoxib5743
+Diclofenac	inhibitor	5743	PTGS2	Inhibitor	Diclofenac5743
+Trolamine salicylate	inhibitor	5743	PTGS2	Inhibitor	Trolamine salicylate5743
+Etodolac	inhibitor	5743	PTGS2	Inhibitor	Etodolac5743
+Acetaminophen	inhibitor	5743	PTGS2	Inhibitor	Acetaminophen5743
+Piroxicam	inhibitor	5743	PTGS2	Inhibitor	Piroxicam5743
+Abaloparatide	ligand	5745	PTH1R	Ligand	Abaloparatide5745
+Parathyroid hormone	activator	5746	PTH2R	Activator	Parathyroid hormone5746
+Regorafenib	inhibitor	5894	RAF1	Inhibitor	Regorafenib5894
+Sorafenib	inhibitor	5894	RAF1	Inhibitor	Sorafenib5894
+Dabrafenib	inhibitor	5894	RAF1	Inhibitor	Dabrafenib5894
+Acitretin	agonist	5914	RARA	Activator	Acitretin5914
+Alitretinoin	agonist	5914	RARA	Activator	Alitretinoin5914
+Tazarotene	agonist	5914	RARA	Activator	Tazarotene5914
+Acitretin	agonist	5915	RARB	Activator	Acitretin5915
+Adapalene	agonist	5915	RARB	Activator	Adapalene5915
+Alitretinoin	agonist	5915	RARB	Activator	Alitretinoin5915
+Tazarotene	agonist	5915	RARB	Activator	Tazarotene5915
+Tazarotene	agonist	5916	RARG	Activator	Tazarotene5916
+Acitretin	agonist	5916	RARG	Activator	Acitretin5916
+Palovarotene	agonist	5916	RARG	Activator	Palovarotene5916
+Adapalene	agonist	5916	RARG	Activator	Adapalene5916
+Alitretinoin	agonist	5916	RARG	Activator	Alitretinoin5916
+Trifarotene	agonist	5916	RARG	Activator	Trifarotene5916
+Tretinoin	agonist	5916	RARG	Activator	Tretinoin5916
+Aliskiren	inhibitor	5972	REN	Inhibitor	Aliskiren5972
+Lenvatinib	inhibitor	5979	RET	Inhibitor	Lenvatinib5979
+Pralsetinib	inhibitor	5979	RET	Inhibitor	Pralsetinib5979
+Cabozantinib	antagonist	5979	RET	Inhibitor	Cabozantinib5979
+Sorafenib	inhibitor	5979	RET	Inhibitor	Sorafenib5979
+Selpercatinib	inhibitor	5979	RET	Inhibitor	Selpercatinib5979
+Regorafenib	inhibitor	5979	RET	Inhibitor	Regorafenib5979
+Belumosudil	inhibitor	6093	ROCK1	Inhibitor	Belumosudil6093
+Netarsudil	inhibitor	6093	ROCK1	Inhibitor	Netarsudil6093
+Entrectinib	inhibitor	6098	ROS1	Inhibitor	Entrectinib6098
+Crizotinib	inhibitor	6098	ROS1	Inhibitor	Crizotinib6098
+Voretigene neparvovec	gene replacement	6121	RPE65	Other	Voretigene neparvovec6121
+Omacetaxine mepesuccinate	antagonist	6122	RPL3	Inhibitor	Omacetaxine mepesuccinate6122
+Fludarabine	inhibitor	6240	RRM1	Inhibitor	Fludarabine6240
+Hydroxyurea	inhibitor	6240	RRM1	Inhibitor	Hydroxyurea6240
+Gemcitabine	inhibitor	6240	RRM1	Inhibitor	Gemcitabine6240
+Clofarabine	inhibitor	6240	RRM1	Inhibitor	Clofarabine6240
+Cladribine	inhibitor	6240	RRM1	Inhibitor	Cladribine6240
+Gallium nitrate	inhibitor	6241	RRM2	Inhibitor	Gallium nitrate6241
+Cladribine	inhibitor	6241	RRM2	Inhibitor	Cladribine6241
+Adapalene	agonist	6256	RXRA	Activator	Adapalene6256
+Bexarotene	agonist	6256	RXRA	Activator	Bexarotene6256
+Alitretinoin	agonist	6256	RXRA	Activator	Alitretinoin6256
+Acitretin	agonist	6256	RXRA	Activator	Acitretin6256
+Doconexent	activator	6256	RXRA	Activator	Doconexent6256
+Adapalene	agonist	6257	RXRB	Activator	Adapalene6257
+Tretinoin	agonist	6257	RXRB	Activator	Tretinoin6257
+Doconexent	activator	6257	RXRB	Activator	Doconexent6257
+Acitretin	agonist	6257	RXRB	Activator	Acitretin6257
+Tazarotene	agonist	6257	RXRB	Activator	Tazarotene6257
+Bexarotene	agonist	6257	RXRB	Activator	Bexarotene6257
+Alitretinoin	agonist	6257	RXRB	Activator	Alitretinoin6257
+Doconexent	activator	6258	RXRG	Activator	Doconexent6258
+Adapalene	agonist	6258	RXRG	Activator	Adapalene6258
+Acitretin	agonist	6258	RXRG	Activator	Acitretin6258
+Alitretinoin	agonist	6258	RXRG	Activator	Alitretinoin6258
+Bexarotene	agonist	6258	RXRG	Activator	Bexarotene6258
+Tretinoin	agonist	6258	RXRG	Activator	Tretinoin6258
+Tetracaine	modulator	6261	RYR1	Modulator	Tetracaine6261
+Dantrolene	antagonist	6261	RYR1	Inhibitor	Dantrolene6261
+Tetracaine	modulator	6262	RYR2	Modulator	Tetracaine6262
+Permethrin	inhibitor	6323	SCN1A	Inhibitor	Permethrin6323
+Phenazopyridine	inhibitor	6323	SCN1A	Inhibitor	Phenazopyridine6323
+Phenacemide	inhibitor	6323	SCN1A	Inhibitor	Phenacemide6323
+Phenytoin	inhibitor	6323	SCN1A	Inhibitor	Phenytoin6323
+Zonisamide	inhibitor	6323	SCN1A	Inhibitor	Zonisamide6323
+Zonisamide	inhibitor	6324	SCN1B	Inhibitor	Zonisamide6324
+Phenytoin	inhibitor	6326	SCN2A	Inhibitor	Phenytoin6326
+Tramadol	inhibitor	6326	SCN2A	Inhibitor	Tramadol6326
+Zonisamide	inhibitor	6326	SCN2A	Inhibitor	Zonisamide6326
+Zonisamide	inhibitor	6327	SCN2B	Inhibitor	Zonisamide6327
+Zonisamide	inhibitor	6328	SCN3A	Inhibitor	Zonisamide6328
+Zonisamide	inhibitor	6329	SCN4A	Inhibitor	Zonisamide6329
+Zonisamide	inhibitor	6330	SCN4B	Inhibitor	Zonisamide6330
+Quinidine	inhibitor	6331	SCN5A	Inhibitor	Quinidine6331
+Quinidine barbiturate	inhibitor	6331	SCN5A	Inhibitor	Quinidine barbiturate6331
+Phenytoin	inhibitor	6331	SCN5A	Inhibitor	Phenytoin6331
+Propafenone	inhibitor	6331	SCN5A	Inhibitor	Propafenone6331
+Ajmaline	inhibitor	6331	SCN5A	Inhibitor	Ajmaline6331
+Dronedarone	inhibitor	6331	SCN5A	Inhibitor	Dronedarone6331
+Riluzole	inhibitor	6331	SCN5A	Inhibitor	Riluzole6331
+Vernakalant	blocker	6331	SCN5A	Inhibitor	Vernakalant6331
+Disopyramide	inhibitor	6331	SCN5A	Inhibitor	Disopyramide6331
+Tocainide	inhibitor	6331	SCN5A	Inhibitor	Tocainide6331
+Zonisamide	inhibitor	6331	SCN5A	Inhibitor	Zonisamide6331
+Cinchocaine	inhibitor	6331	SCN5A	Inhibitor	Cinchocaine6331
+Mexiletine	inhibitor	6331	SCN5A	Inhibitor	Mexiletine6331
+Ethotoin	inhibitor	6331	SCN5A	Inhibitor	Ethotoin6331
+Prilocaine	inhibitor	6331	SCN5A	Inhibitor	Prilocaine6331
+Fosphenytoin	inhibitor	6331	SCN5A	Inhibitor	Fosphenytoin6331
+Lidocaine	inhibitor	6331	SCN5A	Inhibitor	Lidocaine6331
+Indecainide	inhibitor	6331	SCN5A	Inhibitor	Indecainide6331
+Phenytoin	inhibitor	6334	SCN8A	Inhibitor	Phenytoin6334
+Lidocaine	inhibitor	6335	SCN9A	Inhibitor	Lidocaine6335
+Zonisamide	inhibitor	6335	SCN9A	Inhibitor	Zonisamide6335
+Mepivacaine	inhibitor	6336	SCN10A	Inhibitor	Mepivacaine6336
+Dyclonine	inhibitor	6336	SCN10A	Inhibitor	Dyclonine6336
+Benzocaine	inhibitor	6336	SCN10A	Inhibitor	Benzocaine6336
+Cinchocaine	inhibitor	6336	SCN10A	Inhibitor	Cinchocaine6336
+Proparacaine	inhibitor	6336	SCN10A	Inhibitor	Proparacaine6336
+Procaine	inhibitor	6336	SCN10A	Inhibitor	Procaine6336
+Lidocaine	inhibitor	6336	SCN10A	Inhibitor	Lidocaine6336
+Bupivacaine	inhibitor	6336	SCN10A	Inhibitor	Bupivacaine6336
+Ropivacaine	inhibitor	6336	SCN10A	Inhibitor	Ropivacaine6336
+Oxybuprocaine	inhibitor	6336	SCN10A	Inhibitor	Oxybuprocaine6336
+Levobupivacaine	inhibitor	6336	SCN10A	Inhibitor	Levobupivacaine6336
+Triamterene	inhibitor	6337	SCNN1A	Inhibitor	Triamterene6337
+Amiloride	inhibitor	6337	SCNN1A	Inhibitor	Amiloride6337
+Amiloride	inhibitor	6338	SCNN1B	Inhibitor	Amiloride6338
+Triamterene	inhibitor	6338	SCNN1B	Inhibitor	Triamterene6338
+Amiloride	inhibitor	6339	SCNN1D	Inhibitor	Amiloride6339
+Triamterene	inhibitor	6340	SCNN1G	Inhibitor	Triamterene6340
+Amiloride	inhibitor	6340	SCNN1G	Inhibitor	Amiloride6340
+Secretin human	ligand	6344	SCTR	Ligand	Secretin human6344
+Ubidecarenone	cofactor	6389	SDHA	Other	Ubidecarenone6389
+Crizanlizumab	inhibitor	6403	SELP	Inhibitor	Crizanlizumab6403
+Tamoxifen	inducer	6462	SHBG	Activator	Tamoxifen6462
+Acarbose	inhibitor	6476	SI	Inhibitor	Acarbose6476
+Tebentafusp	binder	6490	PMEL	Ligand	Tebentafusp6490
+Fluciclovine (18F)	binder	6510	SLC1A5	Ligand	Fluciclovine (18F)6510
+Sotagliflozin	inhibitor	6523	SLC5A1	Inhibitor	Sotagliflozin6523
+Ertugliflozin	antagonist	6524	SLC5A2	Inhibitor	Ertugliflozin6524
+Sotagliflozin	inhibitor	6524	SLC5A2	Inhibitor	Sotagliflozin6524
+Empagliflozin	inhibitor	6524	SLC5A2	Inhibitor	Empagliflozin6524
+Dapagliflozin	antagonist|inhibitor	6524	SLC5A2	Inhibitor	Dapagliflozin6524
+Canagliflozin	inhibitor	6524	SLC5A2	Inhibitor	Canagliflozin6524
+Potassium perchlorate	inhibitor	6528	SLC5A5	Inhibitor	Potassium perchlorate6528
+Iodine	substrate	6528	SLC5A5	Ligand	Iodine6528
+Tiagabine	inhibitor	6529	SLC6A1	Inhibitor	Tiagabine6529
+Phentermine	inhibitor	6530	SLC6A2	Inhibitor	Phentermine6530
+Desipramine	inhibitor	6530	SLC6A2	Inhibitor	Desipramine6530
+Duloxetine	inhibitor	6530	SLC6A2	Inhibitor	Duloxetine6530
+Dosulepin	inhibitor	6530	SLC6A2	Inhibitor	Dosulepin6530
+Netarsudil	inhibitor	6530	SLC6A2	Inhibitor	Netarsudil6530
+Dexmethylphenidate	inhibitor	6530	SLC6A2	Inhibitor	Dexmethylphenidate6530
+Nortriptyline	inhibitor	6530	SLC6A2	Inhibitor	Nortriptyline6530
+Debrisoquine	inducer	6530	SLC6A2	Activator	Debrisoquine6530
+Bupropion	inhibitor	6530	SLC6A2	Inhibitor	Bupropion6530
+Pseudoephedrine	inhibitor	6530	SLC6A2	Inhibitor	Pseudoephedrine6530
+Serdexmethylphenidate	inhibitor	6530	SLC6A2	Inhibitor	Serdexmethylphenidate6530
+Protriptyline	inhibitor	6530	SLC6A2	Inhibitor	Protriptyline6530
+Venlafaxine	inhibitor	6530	SLC6A2	Inhibitor	Venlafaxine6530
+Tapentadol	inhibitor	6530	SLC6A2	Inhibitor	Tapentadol6530
+Trimipramine	inhibitor	6530	SLC6A2	Inhibitor	Trimipramine6530
+Maprotiline	inhibitor	6530	SLC6A2	Inhibitor	Maprotiline6530
+Levomilnacipran	inhibitor	6530	SLC6A2	Inhibitor	Levomilnacipran6530
+Phendimetrazine	negative modulator	6530	SLC6A2	Inhibitor	Phendimetrazine6530
+Imipramine	inhibitor	6530	SLC6A2	Inhibitor	Imipramine6530
+Dextroamphetamine	negative modulator	6530	SLC6A2	Inhibitor	Dextroamphetamine6530
+Amitriptyline	inhibitor	6530	SLC6A2	Inhibitor	Amitriptyline6530
+Desvenlafaxine	inhibitor	6530	SLC6A2	Inhibitor	Desvenlafaxine6530
+Orphenadrine	inhibitor	6530	SLC6A2	Inhibitor	Orphenadrine6530
+Atomoxetine	inhibitor	6530	SLC6A2	Inhibitor	Atomoxetine6530
+Diethylpropion	inhibitor	6530	SLC6A2	Inhibitor	Diethylpropion6530
+Guanadrel	partial agonist	6530	SLC6A2	Activator	Guanadrel6530
+Milnacipran	inhibitor	6530	SLC6A2	Inhibitor	Milnacipran6530
+Reboxetine	inhibitor	6530	SLC6A2	Inhibitor	Reboxetine6530
+Cocaine	inhibitor	6530	SLC6A2	Inhibitor	Cocaine6530
+Mazindol	inhibitor	6530	SLC6A2	Inhibitor	Mazindol6530
+Phenmetrazine	inhibitor	6530	SLC6A2	Inhibitor	Phenmetrazine6530
+Doxepin	inhibitor	6530	SLC6A2	Inhibitor	Doxepin6530
+Guanethidine	inducer	6530	SLC6A2	Activator	Guanethidine6530
+Tramadol	inhibitor	6530	SLC6A2	Inhibitor	Tramadol6530
+Dextroamphetamine	negative modulator	6531	SLC6A3	Inhibitor	Dextroamphetamine6531
+Bupropion	inhibitor	6531	SLC6A3	Inhibitor	Bupropion6531
+Serdexmethylphenidate	inhibitor	6531	SLC6A3	Inhibitor	Serdexmethylphenidate6531
+Cocaine	inhibitor	6531	SLC6A3	Inhibitor	Cocaine6531
+Procaine	inhibitor	6531	SLC6A3	Inhibitor	Procaine6531
+Pseudoephedrine	inhibitor	6531	SLC6A3	Inhibitor	Pseudoephedrine6531
+Amphetamine	negative modulator	6531	SLC6A3	Inhibitor	Amphetamine6531
+Armodafinil	antagonist|inhibitor	6531	SLC6A3	Inhibitor	Armodafinil6531
+Dexmethylphenidate	inhibitor	6531	SLC6A3	Inhibitor	Dexmethylphenidate6531
+Phenmetrazine	inhibitor	6531	SLC6A3	Inhibitor	Phenmetrazine6531
+Dopamine	inducer	6531	SLC6A3	Activator	Dopamine6531
+Phentermine	inhibitor	6531	SLC6A3	Inhibitor	Phentermine6531
+Methylphenidate	inhibitor	6531	SLC6A3	Inhibitor	Methylphenidate6531
+Mazindol	inhibitor	6531	SLC6A3	Inhibitor	Mazindol6531
+Diethylpropion	inhibitor	6531	SLC6A3	Inhibitor	Diethylpropion6531
+Benzatropine	inhibitor	6531	SLC6A3	Inhibitor	Benzatropine6531
+Modafinil	inhibitor	6531	SLC6A3	Inhibitor	Modafinil6531
+Vilazodone	inhibitor	6532	SLC6A4	Inhibitor	Vilazodone6532
+Levomilnacipran	inhibitor	6532	SLC6A4	Inhibitor	Levomilnacipran6532
+Fluvoxamine	inhibitor	6532	SLC6A4	Inhibitor	Fluvoxamine6532
+Amoxapine	inhibitor	6532	SLC6A4	Inhibitor	Amoxapine6532
+Amitriptyline	inhibitor	6532	SLC6A4	Inhibitor	Amitriptyline6532
+Escitalopram	inhibitor	6532	SLC6A4	Inhibitor	Escitalopram6532
+Venlafaxine	inhibitor	6532	SLC6A4	Inhibitor	Venlafaxine6532
+Vortioxetine	inhibitor	6532	SLC6A4	Inhibitor	Vortioxetine6532
+Dosulepin	inhibitor	6532	SLC6A4	Inhibitor	Dosulepin6532
+Desipramine	inhibitor	6532	SLC6A4	Inhibitor	Desipramine6532
+Tramadol	inhibitor	6532	SLC6A4	Inhibitor	Tramadol6532
+Mazindol	inhibitor	6532	SLC6A4	Inhibitor	Mazindol6532
+Imipramine	inhibitor	6532	SLC6A4	Inhibitor	Imipramine6532
+Desvenlafaxine	inhibitor	6532	SLC6A4	Inhibitor	Desvenlafaxine6532
+Clomipramine	inhibitor	6532	SLC6A4	Inhibitor	Clomipramine6532
+Milnacipran	inhibitor	6532	SLC6A4	Inhibitor	Milnacipran6532
+Protriptyline	inhibitor	6532	SLC6A4	Inhibitor	Protriptyline6532
+Cocaine	inhibitor	6532	SLC6A4	Inhibitor	Cocaine6532
+Sertraline	inhibitor|binder|downregulator	6532	SLC6A4	Inhibitor	Sertraline6532
+Lorpiprazole	antagonist	6532	SLC6A4	Inhibitor	Lorpiprazole6532
+Citalopram	inhibitor	6532	SLC6A4	Inhibitor	Citalopram6532
+Trimipramine	inhibitor	6532	SLC6A4	Inhibitor	Trimipramine6532
+Pseudoephedrine	inhibitor	6532	SLC6A4	Inhibitor	Pseudoephedrine6532
+Phentermine	inhibitor	6532	SLC6A4	Inhibitor	Phentermine6532
+Doxepin	inhibitor	6532	SLC6A4	Inhibitor	Doxepin6532
+Lumateperone	inhibitor	6532	SLC6A4	Inhibitor	Lumateperone6532
+Paroxetine	inhibitor	6532	SLC6A4	Inhibitor	Paroxetine6532
+Duloxetine	inhibitor	6532	SLC6A4	Inhibitor	Duloxetine6532
+Trazodone	inhibitor	6532	SLC6A4	Inhibitor	Trazodone6532
+Fluoxetine	inhibitor	6532	SLC6A4	Inhibitor	Fluoxetine6532
+Nortriptyline	inhibitor	6532	SLC6A4	Inhibitor	Nortriptyline6532
+Creatine	other	6535	SLC6A8	Other	Creatine6535
+Icosapent	inhibitor	6546	SLC8A1	Inhibitor	Icosapent6546
+Dronedarone	inhibitor	6546	SLC8A1	Inhibitor	Dronedarone6546
+Tenapanor	inhibitor	6550	SLC9A3	Inhibitor	Tenapanor6550
+Bulevirtide	inhibitor	6554	SLC10A1	Inhibitor	Bulevirtide6554
+Maralixibat	inhibitor	6555	SLC10A2	Inhibitor	Maralixibat6555
+Odevixibat	inhibitor	6555	SLC10A2	Inhibitor	Odevixibat6555
+Torasemide	inhibitor	6557	SLC12A1	Inhibitor	Torasemide6557
+Furosemide	inhibitor	6557	SLC12A1	Inhibitor	Furosemide6557
+Bumetanide	inhibitor	6557	SLC12A1	Inhibitor	Bumetanide6557
+Chlorthalidone	inhibitor	6557	SLC12A1	Inhibitor	Chlorthalidone6557
+Quinethazone	inhibitor	6557	SLC12A1	Inhibitor	Quinethazone6557
+Etacrynic acid	inhibitor	6557	SLC12A1	Inhibitor	Etacrynic acid6557
+Torasemide	inhibitor	6558	SLC12A2	Inhibitor	Torasemide6558
+Bumetanide	inhibitor	6558	SLC12A2	Inhibitor	Bumetanide6558
+Quinethazone	inhibitor	6558	SLC12A2	Inhibitor	Quinethazone6558
+Benzthiazide	inhibitor	6559	SLC12A3	Inhibitor	Benzthiazide6559
+Hydrochlorothiazide	inhibitor	6559	SLC12A3	Inhibitor	Hydrochlorothiazide6559
+Quinethazone	inhibitor	6559	SLC12A3	Inhibitor	Quinethazone6559
+Metolazone	inhibitor	6559	SLC12A3	Inhibitor	Metolazone6559
+Bendroflumethiazide	inhibitor	6559	SLC12A3	Inhibitor	Bendroflumethiazide6559
+Indapamide	inhibitor	6559	SLC12A3	Inhibitor	Indapamide6559
+Polythiazide	inhibitor	6559	SLC12A3	Inhibitor	Polythiazide6559
+Trichlormethiazide	inhibitor	6559	SLC12A3	Inhibitor	Trichlormethiazide6559
+Chlorothiazide	inhibitor	6559	SLC12A3	Inhibitor	Chlorothiazide6559
+Bumetanide	inhibitor	6560	SLC12A4	Inhibitor	Bumetanide6560
+Isometheptene	inhibitor	6571	SLC18A2	Inhibitor	Isometheptene6571
+Amphetamine	inhibitor	6571	SLC18A2	Inhibitor	Amphetamine6571
+Deutetrabenazine	inhibitor	6571	SLC18A2	Inhibitor	Deutetrabenazine6571
+Propylhexedrine	other	6571	SLC18A2	Other	Propylhexedrine6571
+Benzphetamine	inducer	6571	SLC18A2	Activator	Benzphetamine6571
+Dextroamphetamine	inducer	6571	SLC18A2	Activator	Dextroamphetamine6571
+Deserpidine	inhibitor	6571	SLC18A2	Inhibitor	Deserpidine6571
+Tetrabenazine	inhibitor	6571	SLC18A2	Inhibitor	Tetrabenazine6571
+Nusinersen	antisense oligonucleotide	6606	SMN1	Activator	Nusinersen6606
+Vismodegib	antagonist	6608	SMO	Inhibitor	Vismodegib6608
+Glasdegib	inhibitor	6608	SMO	Inhibitor	Glasdegib6608
+Letibotulinumtoxina	cleavage	6616	SNAP25	Other	Letibotulinumtoxina6616
+Botulinum toxin type A	inhibitor	6616	SNAP25	Inhibitor	Botulinum toxin type A6616
+Ezetimibe	inhibitor	6646	SOAT1	Inhibitor	Ezetimibe6646
+Butenafine	inhibitor	6713	SQLE	Inhibitor	Butenafine6713
+Naftifine	inhibitor	6713	SQLE	Inhibitor	Naftifine6713
+Dasatinib	multitarget	6714	SRC	Other	Dasatinib6714
+Tirbanibulin	inhibitor	6714	SRC	Inhibitor	Tirbanibulin6714
+Norgestrel	inhibitor	6715	SRD5A1	Inhibitor	Norgestrel6715
+Dutasteride	inhibitor	6715	SRD5A1	Inhibitor	Dutasteride6715
+Levonorgestrel	inhibitor	6715	SRD5A1	Inhibitor	Levonorgestrel6715
+Finasteride	inhibitor	6716	SRD5A2	Inhibitor	Finasteride6716
+Dutasteride	inhibitor	6716	SRD5A2	Inhibitor	Dutasteride6716
+Azelaic acid	inhibitor	6716	SRD5A2	Inhibitor	Azelaic acid6716
+Azelaic acid	inhibitor	6718	AKR1D1	Inhibitor	Azelaic acid6718
+Lutetium Lu 177 dotatate	agonist	6751	SSTR1	Activator	Lutetium Lu 177 dotatate6751
+Edotreotide gallium Ga-68	ligand	6751	SSTR1	Ligand	Edotreotide gallium Ga-686751
+Somatostatin	agonist	6751	SSTR1	Activator	Somatostatin6751
+Lutetium Lu 177 dotatate	agonist	6752	SSTR2	Activator	Lutetium Lu 177 dotatate6752
+Edotreotide gallium Ga-68	ligand	6752	SSTR2	Ligand	Edotreotide gallium Ga-686752
+Copper oxodotreotide Cu-64	binder	6752	SSTR2	Ligand	Copper oxodotreotide Cu-646752
+Somatostatin	agonist	6752	SSTR2	Activator	Somatostatin6752
+Dotatate gallium Ga-68	binder	6752	SSTR2	Ligand	Dotatate gallium Ga-686752
+Somatostatin	agonist	6753	SSTR3	Activator	Somatostatin6753
+Edotreotide gallium Ga-68	ligand	6753	SSTR3	Ligand	Edotreotide gallium Ga-686753
+Lutetium Lu 177 dotatate	agonist	6753	SSTR3	Activator	Lutetium Lu 177 dotatate6753
+Lutetium Lu 177 dotatate	agonist	6754	SSTR4	Activator	Lutetium Lu 177 dotatate6754
+Somatostatin	agonist	6754	SSTR4	Activator	Somatostatin6754
+Somatostatin	agonist	6755	SSTR5	Activator	Somatostatin6755
+Edotreotide gallium Ga-68	ligand	6755	SSTR5	Ligand	Edotreotide gallium Ga-686755
+Lutetium Lu 177 dotatate	agonist	6755	SSTR5	Activator	Lutetium Lu 177 dotatate6755
+Omega-3-carboxylic acids	potentiator	6785	ELOVL4	Activator	Omega-3-carboxylic acids6785
+Glipizide	inhibitor	6833	ABCC8	Inhibitor	Glipizide6833
+Glimepiride	inducer	6833	ABCC8	Activator	Glimepiride6833
+Gliquidone	inhibitor	6833	ABCC8	Inhibitor	Gliquidone6833
+Gliclazide	binder	6833	ABCC8	Ligand	Gliclazide6833
+Chlorpropamide	inhibitor	6833	ABCC8	Inhibitor	Chlorpropamide6833
+Repaglinide	inhibitor	6833	ABCC8	Inhibitor	Repaglinide6833
+Tolbutamide	inhibitor	6833	ABCC8	Inhibitor	Tolbutamide6833
+Nateglinide	inhibitor	6833	ABCC8	Inhibitor	Nateglinide6833
+Botulinum toxin type B	binder	6843	VAMP1	Ligand	Botulinum toxin type B6843
+Botulinum toxin type B	binder	6844	VAMP2	Ligand	Botulinum toxin type B6844
+Fostamatinib	inhibitor	6850	SYK	Inhibitor	Fostamatinib6850
+Fosnetupitant	antagonist	6869	TACR1	Inhibitor	Fosnetupitant6869
+Aprepitant	antagonist	6869	TACR1	Inhibitor	Aprepitant6869
+Rolapitant	antagonist	6869	TACR1	Inhibitor	Rolapitant6869
+Netupitant	antagonist	6869	TACR1	Inhibitor	Netupitant6869
+Ripretinib	inhibitor	7010	TEK	Inhibitor	Ripretinib7010
+Regorafenib	inhibitor	7010	TEK	Inhibitor	Regorafenib7010
+Dalteparin	inhibitor	7035	TFPI	Inhibitor	Dalteparin7035
+Andexanet alfa	inhibitor	7035	TFPI	Inhibitor	Andexanet alfa7035
+Ferric cation	agonist	7037	TFRC	Activator	Ferric cation7037
+Tetraferric tricitrate decahydrate	ligand	7037	TFRC	Ligand	Tetraferric tricitrate decahydrate7037
+Terazosin	inducer	7040	TGFB1	Activator	Terazosin7040
+Foreskin keratinocyte (neonatal)	agonist	7040	TGFB1	Activator	Foreskin keratinocyte (neonatal)7040
+Foreskin keratinocyte (neonatal)	agonist	7048	TGFBR2	Activator	Foreskin keratinocyte (neonatal)7048
+Metyrosine	binder	7054	TH	Ligand	Metyrosine7054
+Sapropterin	cofactor	7054	TH	Other	Sapropterin7054
+Liotrix	agonist	7067	THRA	Activator	Liotrix7067
+Liothyronine	agonist	7067	THRA	Activator	Liothyronine7067
+Dextrothyroxine	agonist	7067	THRA	Activator	Dextrothyroxine7067
+Levothyroxine	agonist	7067	THRA	Activator	Levothyroxine7067
+Levothyroxine	agonist	7068	THRB	Activator	Levothyroxine7068
+Liotrix	agonist	7068	THRB	Activator	Liotrix7068
+Dextrothyroxine	agonist	7068	THRB	Activator	Dextrothyroxine7068
+Liothyronine	agonist	7068	THRB	Activator	Liothyronine7068
+Brivudine	substrate	7084	TK2	Ligand	Brivudine7084
+Adapalene	antagonist	7097	TLR2	Inhibitor	Adapalene7097
+Tuberculin purified protein derivative	ligand	7097	TLR2	Ligand	Tuberculin purified protein derivative7097
+Mifamurtide	ligand	7099	TLR4	Ligand	Mifamurtide7099
+Pomalidomide	inhibitor	7124	TNF	Inhibitor	Pomalidomide7124
+Glycyrrhizic acid	antagonist	7124	TNF	Inhibitor	Glycyrrhizic acid7124
+Golimumab	antibody	7124	TNF	Ligand	Golimumab7124
+Foreskin keratinocyte (neonatal)	agonist	7124	TNF	Activator	Foreskin keratinocyte (neonatal)7124
+Adalimumab	inhibitor|antibody	7124	TNF	Inhibitor	Adalimumab7124
+Infliximab	inhibitor	7124	TNF	Inhibitor	Infliximab7124
+Etanercept	inhibitor|antibody	7124	TNF	Inhibitor	Etanercept7124
+Certolizumab pegol	neutralizer	7124	TNF	Other	Certolizumab pegol7124
+Tasonermin	agonist	7132	TNFRSF1A	Activator	Tasonermin7132
+Levosimendan	potentiator	7134	TNNC1	Activator	Levosimendan7134
+Sacituzumab govitecan	inhibitor	7150	TOP1	Inhibitor	Sacituzumab govitecan7150
+Trastuzumab deruxtecan	inhibitor	7150	TOP1	Inhibitor	Trastuzumab deruxtecan7150
+Topotecan	inhibitor	7150	TOP1	Inhibitor	Topotecan7150
+Doxorubicin	inhibitor	7150	TOP1	Inhibitor	Doxorubicin7150
+Sodium stibogluconate	inhibitor	7150	TOP1	Inhibitor	Sodium stibogluconate7150
+Irinotecan	inhibitor	7150	TOP1	Inhibitor	Irinotecan7150
+Amsacrine	inhibitor	7153	TOP2A	Inhibitor	Amsacrine7153
+Idarubicin	inhibitor	7153	TOP2A	Inhibitor	Idarubicin7153
+Finafloxacin	inhibitor	7153	TOP2A	Inhibitor	Finafloxacin7153
+Mitoxantrone	inhibitor	7153	TOP2A	Inhibitor	Mitoxantrone7153
+Teniposide	inhibitor	7153	TOP2A	Inhibitor	Teniposide7153
+Etoposide	inhibitor	7153	TOP2A	Inhibitor	Etoposide7153
+Doxorubicin	inhibitor	7153	TOP2A	Inhibitor	Doxorubicin7153
+Podofilox	inhibitor	7153	TOP2A	Inhibitor	Podofilox7153
+Daunorubicin	inhibitor	7153	TOP2A	Inhibitor	Daunorubicin7153
+Valrubicin	inhibitor	7153	TOP2A	Inhibitor	Valrubicin7153
+Doxorubicin	inhibitor	7155	TOP2B	Inhibitor	Doxorubicin7155
+Daunorubicin	inhibitor	7155	TOP2B	Inhibitor	Daunorubicin7155
+Telotristat ethyl	antagonist	7166	TPH1	Inhibitor	Telotristat ethyl7166
+Sapropterin	cofactor	7166	TPH1	Other	Sapropterin7166
+Olsalazine	inhibitor	7172	TPMT	Inhibitor	Olsalazine7172
+Carbimazole	inhibitor	7173	TPO	Inhibitor	Carbimazole7173
+Propylthiouracil	inhibitor	7173	TPO	Inhibitor	Propylthiouracil7173
+Methimazole	substrate|inhibitor	7173	TPO	Inhibitor	Methimazole7173
+Protirelin	ligand	7201	TRHR	Ligand	Protirelin7201
+Thyrotropin alfa	agonist	7253	TSHR	Activator	Thyrotropin alfa7253
+Tafamidis	chaperone	7276	TTR	Other	Tafamidis7276
+Cabazitaxel	binder	7277	TUBA4A	Ligand	Cabazitaxel7277
+Podofilox	inhibitor	7277	TUBA4A	Inhibitor	Podofilox7277
+Vinblastine	binder	7283	TUBG1	Ligand	Vinblastine7283
+Arsenic trioxide	inhibitor	7296	TXNRD1	Inhibitor	Arsenic trioxide7296
+Ruxolitinib	inhibitor	7297	TYK2	Inhibitor	Ruxolitinib7297
+Deucravacitinib	inhibitor	7297	TYK2	Inhibitor	Deucravacitinib7297
+Tegafur-uracil	antagonist	7298	TYMS	Inhibitor	Tegafur-uracil7298
+Capecitabine	inhibitor	7298	TYMS	Inhibitor	Capecitabine7298
+Methotrexate	inhibitor	7298	TYMS	Inhibitor	Methotrexate7298
+Tegafur	inhibitor	7298	TYMS	Inhibitor	Tegafur7298
+Trifluridine	inhibitor	7298	TYMS	Inhibitor	Trifluridine7298
+Pemetrexed	inhibitor	7298	TYMS	Inhibitor	Pemetrexed7298
+Fluorouracil	other	7298	TYMS	Other	Fluorouracil7298
+Floxuridine	other	7298	TYMS	Other	Floxuridine7298
+Raltitrexed	inhibitor	7298	TYMS	Inhibitor	Raltitrexed7298
+Hydroquinone	inhibitor	7299	TYR	Inhibitor	Hydroquinone7299
+Azelaic acid	inhibitor	7299	TYR	Inhibitor	Azelaic acid7299
+Arbutin	inhibitor	7299	TYR	Inhibitor	Arbutin7299
+Miglustat	inhibitor	7357	UGCG	Inhibitor	Miglustat7357
+Eliglustat	inhibitor	7357	UGCG	Inhibitor	Eliglustat7357
+Alfacalcidol	agonist	7421	VDR	Activator	Alfacalcidol7421
+Ergocalciferol	agonist	7421	VDR	Activator	Ergocalciferol7421
+Calcitriol	antagonist	7421	VDR	Inhibitor	Calcitriol7421
+Cholecalciferol	agonist	7421	VDR	Activator	Cholecalciferol7421
+Dihydrotachysterol	agonist	7421	VDR	Activator	Dihydrotachysterol7421
+Paricalcitol	agonist	7421	VDR	Activator	Paricalcitol7421
+Calcifediol	agonist	7421	VDR	Activator	Calcifediol7421
+Pegaptanib	antagonist	7422	VEGFA	Inhibitor	Pegaptanib7422
+Ranibizumab	antibody	7422	VEGFA	Ligand	Ranibizumab7422
+Aflibercept	binder	7422	VEGFA	Ligand	Aflibercept7422
+Brolucizumab	inhibitor	7422	VEGFA	Inhibitor	Brolucizumab7422
+Faricimab	antagonist	7422	VEGFA	Inhibitor	Faricimab7422
+Bevacizumab	other	7422	VEGFA	Other	Bevacizumab7422
+Foreskin keratinocyte (neonatal)	agonist	7422	VEGFA	Activator	Foreskin keratinocyte (neonatal)7422
+Dalteparin	inhibitor	7422	VEGFA	Inhibitor	Dalteparin7422
+Aflibercept	binder	7423	VEGFB	Ligand	Aflibercept7423
+Capsaicin	agonist|regulator	7442	TRPV1	Activator	Capsaicin7442
+alpha-Linolenic acid	inhibitor	7442	TRPV1	Inhibitor	alpha-Linolenic acid7442
+Capsicum oleoresin	agonist|activator	7442	TRPV1	Activator	Capsicum oleoresin7442
+Zucapsaicin	agonist|activator	7442	TRPV1	Activator	Zucapsaicin7442
+Antihemophilic factor, human recombinant	binder	7450	VWF	Ligand	Antihemophilic factor, human recombinant7450
+Efmoroctocog alfa	binding	7450	VWF	Ligand	Efmoroctocog alfa7450
+Moroctocog alfa	binder	7450	VWF	Ligand	Moroctocog alfa7450
+Simoctocog alfa	binding	7450	VWF	Ligand	Simoctocog alfa7450
+Rurioctocog alfa pegol	binder	7450	VWF	Ligand	Rurioctocog alfa pegol7450
+Turoctocog alfa pegol	binder	7450	VWF	Ligand	Turoctocog alfa pegol7450
+Antihemophilic factor (recombinant), PEGylated	binder	7450	VWF	Ligand	Antihemophilic factor (recombinant), PEGylated7450
+Lonoctocog alfa	binder	7450	VWF	Ligand	Lonoctocog alfa7450
+Susoctocog alfa	binding	7450	VWF	Ligand	Susoctocog alfa7450
+Allopurinol	inhibitor	7498	XDH	Inhibitor	Allopurinol7498
+Febuxostat	inhibitor	7498	XDH	Inhibitor	Febuxostat7498
+Selinexor	inhibitor	7514	XPO1	Inhibitor	Selinexor7514
+Dasatinib	inhibitor	7525	YES1	Inhibitor	Dasatinib7525
+Vinblastine	binder	7846	TUBA1A	Ligand	Vinblastine7846
+Mebendazole	inhibitor	7846	TUBA1A	Inhibitor	Mebendazole7846
+Plerixafor	antagonist|inhibitor	7852	CXCR4	Inhibitor	Plerixafor7852
+Taurine	agonist	8001	GLRA3	Activator	Taurine8001
+Agkistrodon piscivorus antivenin	antagonist	8399	PLA2G10	Inhibitor	Agkistrodon piscivorus antivenin8399
+Crotalus adamanteus antivenin	antagonist	8399	PLA2G10	Inhibitor	Crotalus adamanteus antivenin8399
+Orlistat	inhibitor	8513	LIPF	Inhibitor	Orlistat8513
+Pyridoxine	ligand	8566	PDXK	Ligand	Pyridoxine8566
+Lenalidomide	inhibitor	8600	TNFSF11	Inhibitor	Lenalidomide8600
+Denosumab	antibody	8600	TNFSF11	Ligand	Denosumab8600
+Hydralazine	inhibitor	8639	AOC3	Inhibitor	Hydralazine8639
+Theophylline	inhibitor	8654	PDE5A	Inhibitor	Theophylline8654
+Tadalafil	inhibitor	8654	PDE5A	Inhibitor	Tadalafil8654
+Avanafil	inhibitor	8654	PDE5A	Inhibitor	Avanafil8654
+Vardenafil	inhibitor	8654	PDE5A	Inhibitor	Vardenafil8654
+Sildenafil	inhibitor	8654	PDE5A	Inhibitor	Sildenafil8654
+Dipyridamole	inhibitor	8654	PDE5A	Inhibitor	Dipyridamole8654
+Udenafil	inhibitor	8654	PDE5A	Inhibitor	Udenafil8654
+Spesolimab	antagonist	8808	IL1RL2	Inhibitor	Spesolimab8808
+Vorinostat	inhibitor	8841	HDAC3	Inhibitor	Vorinostat8841
+Niacin	agonist	8843	HCAR3	Activator	Niacin8843
+Erlotinib	agonist	8856	NR1I2	Activator	Erlotinib8856
+Amlodipine	inhibitor	8911	CACNA1I	Inhibitor	Amlodipine8911
+Paramethadione	inhibitor	8911	CACNA1I	Inhibitor	Paramethadione8911
+Cinnarizine	inhibitor	8911	CACNA1I	Inhibitor	Cinnarizine8911
+Zonisamide	inhibitor	8911	CACNA1I	Inhibitor	Zonisamide8911
+Flunarizine	inhibitor	8911	CACNA1I	Inhibitor	Flunarizine8911
+Isradipine	inhibitor	8912	CACNA1H	Inhibitor	Isradipine8912
+Zonisamide	inhibitor	8912	CACNA1H	Inhibitor	Zonisamide8912
+Cinnarizine	inhibitor	8912	CACNA1H	Inhibitor	Cinnarizine8912
+Flunarizine	inhibitor	8912	CACNA1H	Inhibitor	Flunarizine8912
+Methsuximide	inhibitor	8913	CACNA1G	Inhibitor	Methsuximide8913
+Ethosuximide	inhibitor	8913	CACNA1G	Inhibitor	Ethosuximide8913
+Flunarizine	inhibitor	8913	CACNA1G	Inhibitor	Flunarizine8913
+Cinnarizine	inhibitor	8913	CACNA1G	Inhibitor	Cinnarizine8913
+Trimethadione	inhibitor	8913	CACNA1G	Inhibitor	Trimethadione8913
+Zonisamide	inhibitor	8913	CACNA1G	Inhibitor	Zonisamide8913
+Acarbose	inhibitor	8972	MGAM	Inhibitor	Acarbose8972
+Miglitol	antagonist|inhibitor	8972	MGAM	Inhibitor	Miglitol8972
+Levomenthol	inducer	8989	TRPA1	Activator	Levomenthol8989
+Fluciclovine (18F)	binder	9056	SLC7A7	Ligand	Fluciclovine (18F)9056
+Isradipine	inhibitor	9254	CACNA2D2	Inhibitor	Isradipine9254
+Dalfampridine	antagonist	9312	KCNB2	Inhibitor	Dalfampridine9312
+Teduglutide	agonist	9340	GLP2R	Activator	Teduglutide9340
+Probenecid	inhibitor	9356	SLC22A6	Inhibitor	Probenecid9356
+Probenecid	inhibitor	9376	SLC22A8	Inhibitor	Probenecid9376
+alpha-Linolenic acid	ligand	9415	FADS2	Ligand	alpha-Linolenic acid9415
+Zoledronic acid	inhibitor	9453	GGPS1	Inhibitor	Zoledronic acid9453
+Ibandronate	inhibitor	9453	GGPS1	Inhibitor	Ibandronate9453
+Netarsudil	inhibitor	9475	ROCK2	Inhibitor	Netarsudil9475
+Belumosudil	inhibitor	9475	ROCK2	Inhibitor	Belumosudil9475
+Baclofen	agonist	9568	GABBR2	Activator	Baclofen9568
+Amphetamine	agonist	9607	CARTPT	Activator	Amphetamine9607
+Valproic acid	inhibitor	9734	HDAC9	Inhibitor	Valproic acid9734
+Dimethyl fumarate	binder	9817	KEAP1	Ligand	Dimethyl fumarate9817
+Brivaracetam	unknown	9900	SV2A	Other	Brivaracetam9900
+Levetiracetam	agonist	9900	SV2A	Activator	Levetiracetam9900
+Obeticholic acid	agonist	9971	NR1H4	Activator	Obeticholic acid9971
+Vorinostat	inhibitor	10013	HDAC6	Inhibitor	Vorinostat10013
+Talazoparib	inhibitor	10038	PARP2	Inhibitor	Talazoparib10038
+Rucaparib	inhibitor	10038	PARP2	Inhibitor	Rucaparib10038
+Olaparib	inhibitor	10038	PARP2	Inhibitor	Olaparib10038
+Niraparib	inhibitor	10038	PARP2	Inhibitor	Niraparib10038
+Olaparib	inhibitor	10039	PARP3	Inhibitor	Olaparib10039
+Rucaparib	inhibitor	10039	PARP3	Inhibitor	Rucaparib10039
+Nicorandil	activator	10060	ABCC9	Activator	Nicorandil10060
+Cyclosporine	binder	10105	PPIF	Ligand	Cyclosporine10105
+Rimegepant	antagonist	10203	CALCRL	Inhibitor	Rimegepant10203
+Ubrogepant	antagonist	10203	CALCRL	Inhibitor	Ubrogepant10203
+Atogepant	antagonist	10203	CALCRL	Inhibitor	Atogepant10203
+Galsulfase	other	10226	PLIN3	Other	Galsulfase10226
+Pramlintide	agonist	10266	RAMP2	Activator	Pramlintide10266
+Pramlintide	agonist	10267	RAMP1	Activator	Pramlintide10267
+Pramlintide	agonist	10268	RAMP3	Activator	Pramlintide10268
+Dextromethorphan	agonist	10280	SIGMAR1	Activator	Dextromethorphan10280
+Pentazocine	agonist	10280	SIGMAR1	Activator	Pentazocine10280
+Ixabepilone	inhibitor	10381	TUBB3	Inhibitor	Ixabepilone10381
+Mebendazole	inhibitor	10383	TUBB4B	Inhibitor	Mebendazole10383
+Tetradecyl hydrogen sulfate (ester)	antagonist	10544	PROCR	Inhibitor	Tetradecyl hydrogen sulfate (ester)10544
+Belimumab	antibody	10673	TNFSF13B	Ligand	Belimumab10673
+Zafirlukast	antagonist	10800	CYSLTR1	Inhibitor	Zafirlukast10800
+Montelukast	antagonist	10800	CYSLTR1	Inhibitor	Montelukast10800
+Nedocromil	antagonist	10800	CYSLTR1	Inhibitor	Nedocromil10800
+Triflusal	antagonist	10846	PDE10A	Inhibitor	Triflusal10846
+Dipyridamole	inhibitor	10846	PDE10A	Inhibitor	Dipyridamole10846
+Moxonidine	agonist	11188	NISCH	Activator	Moxonidine11188
+Betahistine	antagonist	11255	HRH3	Inhibitor	Betahistine11255
+Histamine	agonist	11255	HRH3	Activator	Histamine11255
+Pitolisant	antagonist|inverse agonist	11255	HRH3	Inhibitor	Pitolisant11255
+Zonisamide	inhibitor	11280	SCN11A	Inhibitor	Zonisamide11280
+Miglitol	antagonist	23193	GANAB	Inhibitor	Miglitol23193
+Niacin	binder	23475	QPRT	Ligand	Niacin23475
+Levocabastine	partial antagonist	23620	NTSR2	Inhibitor	Levocabastine23620
+Acetazolamide	inhibitor	23632	CA14	Inhibitor	Acetazolamide23632
+Acetylcysteine	activator	23657	SLC7A11	Activator	Acetylcysteine23657
+Riluzole	inducer	23657	SLC7A11	Activator	Riluzole23657
+Auranofin	inhibitor	25824	PRDX5	Inhibitor	Auranofin25824
+Thiamine	substrate	27010	TPK1	Ligand	Thiamine27010
+Isoflurane	inhibitor	27032	ATP2C1	Inhibitor	Isoflurane27032
+Evinacumab	inhibitor|binder|antibody	27329	ANGPTL3	Inhibitor	Evinacumab27329
+Durvalumab	inhibitor|antibody	29126	CD274	Inhibitor	Durvalumab29126
+Atezolizumab	inhibitor|antibody	29126	CD274	Inhibitor	Atezolizumab29126
+Avelumab	inhibitor|antibody	29126	CD274	Inhibitor	Avelumab29126
+Ezetimibe	inhibitor	29881	NPC1L1	Inhibitor	Ezetimibe29881
+Cladribine	inhibitor	50484	RRM2B	Inhibitor	Cladribine50484
+Trifluoperazine	antagonist	50632	CALY	Inhibitor	Trifluoperazine50632
+Romosozumab	inhibitor	50964	SOST	Inhibitor	Romosozumab50964
+Vinblastine	binder	51174	TUBD1	Ligand	Vinblastine51174
+Vinblastine	binder	51175	TUBE1	Ligand	Vinblastine51175
+Lenalidomide	inhibitor	51185	CRBN	Inhibitor	Lenalidomide51185
+Pomalidomide	inhibitor	51185	CRBN	Inhibitor	Pomalidomide51185
+Imiquimod	agonist	51284	TLR7	Activator	Imiquimod51284
+Hydroxychloroquine	antagonist	51284	TLR7	Inhibitor	Hydroxychloroquine51284
+Halothane	binder	51305	KCNK9	Ligand	Halothane51305
+Doxapram	inhibitor	51305	KCNK9	Inhibitor	Doxapram51305
+Guselkumab	blocker	51561	IL23A	Inhibitor	Guselkumab51561
+Ozanimod	agonist	53637	S1PR5	Activator	Ozanimod53637
+Fingolimod	modulator	53637	S1PR5	Modulator	Fingolimod53637
+Hydroxychloroquine	antagonist	54106	TLR9	Inhibitor	Hydroxychloroquine54106
+Cladribine	inhibitor	54107	POLE3	Inhibitor	Cladribine54107
+Lumasiran	antisense oligonucleotide	54363	HAO1	Inhibitor	Lumasiran54363
+Roxadustat	inhibitor	54583	EGLN1	Inhibitor	Roxadustat54583
+Masoprocol	inhibitor	54822	TRPM7	Inhibitor	Masoprocol54822
+Crofelemer	antagonist	55107	ANO1	Inhibitor	Crofelemer55107
+Riboflavin	ligand	55312	RFK	Ligand	Riboflavin55312
+Zonisamide	inhibitor	55800	SCN3B	Inhibitor	Zonisamide55800
+Lesinurad	inhibitor	55867	SLC22A11	Inhibitor	Lesinurad55867
+Probenecid	inhibitor	55867	SLC22A11	Inhibitor	Probenecid55867
+Cladribine	inhibitor	56655	POLE4	Inhibitor	Cladribine56655
+Trimethaphan	antagonist	57053	CHRNA10	Inhibitor	Trimethaphan57053
+Pentolinium	antagonist	57053	CHRNA10	Inhibitor	Pentolinium57053
+Nedocromil	antagonist	57105	CYSLTR2	Inhibitor	Nedocromil57105
+Bumetanide	inhibitor	57468	SLC12A5	Inhibitor	Bumetanide57468
+Elotuzumab	modulator	57823	SLAMF7	Modulator	Elotuzumab57823
+Pheniramine	inverse agonist	59340	HRH4	Inhibitor	Pheniramine59340
+Mifamurtide	ligand	64127	NOD2	Ligand	Mifamurtide64127
+Ticagrelor	inhibitor	64805	P2RY12	Inhibitor	Ticagrelor64805
+Cangrelor	inhibitor	64805	P2RY12	Inhibitor	Cangrelor64805
+Ticlopidine	antagonist	64805	P2RY12	Inhibitor	Ticlopidine64805
+Epoprostenol	agonist	64805	P2RY12	Activator	Epoprostenol64805
+Clopidogrel	antagonist	64805	P2RY12	Inhibitor	Clopidogrel64805
+Prasugrel	antagonist	64805	P2RY12	Inhibitor	Prasugrel64805
+Phenindione	inhibitor	79001	VKORC1	Inhibitor	Phenindione79001
+Dicoumarol	inhibitor	79001	VKORC1	Inhibitor	Dicoumarol79001
+Acenocoumarol	inhibitor	79001	VKORC1	Inhibitor	Acenocoumarol79001
+Warfarin	inhibitor	79001	VKORC1	Inhibitor	Warfarin79001
+Menadione	cofactor	79001	VKORC1	Other	Menadione79001
+Phenprocoumon	inhibitor	79001	VKORC1	Inhibitor	Phenprocoumon79001
+Levomenthol	inducer	79054	TRPM8	Activator	Levomenthol79054
+gamma-Hydroxybutyric acid	agonist	79581	SLC52A2	Activator	gamma-Hydroxybutyric acid79581
+Sevoflurane	activator	79714	CCDC51	Activator	Sevoflurane79714
+Docetaxel	other	81027	TUBB1	Other	Docetaxel81027
+Cabazitaxel	binder	81027	TUBB1	Ligand	Cabazitaxel81027
+Vindesine	inhibitor	81027	TUBB1	Inhibitor	Vindesine81027
+Paclitaxel	inhibitor	81027	TUBB1	Inhibitor	Paclitaxel81027
+Omega-3-carboxylic acids	antagonist	84649	DGAT2	Inhibitor	Omega-3-carboxylic acids84649
+Fish oil	agonist	84649	DGAT2	Activator	Fish oil84649
+Fluciclovine (18F)	binder	84889	SLC7A3	Ligand	Fluciclovine (18F)84889
+Tezepelumab	binder|antibody	85480	TSLP	Ligand	Tezepelumab85480
+Methadone	agonist	89832	CHRFAM7A	Activator	Methadone89832
+Galantamine	allosteric modulator	89832	CHRFAM7A	Modulator	Galantamine89832
+Nicotine	agonist	89832	CHRFAM7A	Activator	Nicotine89832
+Roxadustat	inhibitor	112398	EGLN2	Inhibitor	Roxadustat112398
+Roxadustat	inhibitor	112399	EGLN3	Inhibitor	Roxadustat112399
+Bimekizumab	antibody	112744	IL17F	Ligand	Bimekizumab112744
+Lesinurad	inhibitor	116085	SLC22A12	Inhibitor	Lesinurad116085
+Sulfinpyrazone	inhibitor	116085	SLC22A12	Inhibitor	Sulfinpyrazone116085
+Ethanol	antagonist	116443	GRIN3A	Inhibitor	Ethanol116443
+Profenamine	antagonist	116443	GRIN3A	Inhibitor	Profenamine116443
+Ketamine	antagonist	116443	GRIN3A	Inhibitor	Ketamine116443
+Procaine	antagonist	116443	GRIN3A	Inhibitor	Procaine116443
+Dextromethorphan	antagonist	116443	GRIN3A	Inhibitor	Dextromethorphan116443
+Orphenadrine	antagonist	116443	GRIN3A	Inhibitor	Orphenadrine116443
+Amantadine	antagonist	116443	GRIN3A	Inhibitor	Amantadine116443
+Orphenadrine	antagonist	116444	GRIN3B	Inhibitor	Orphenadrine116444
+Irinotecan	inhibitor	116447	TOP1MT	Inhibitor	Irinotecan116447
+Telotristat ethyl	antagonist	121278	TPH2	Inhibitor	Telotristat ethyl121278
+Botulinum toxin type B	other	127833	SYT2	Other	Botulinum toxin type B127833
+Amphetamine	agonist	134864	TAAR1	Activator	Amphetamine134864
+Menadione	cofactor	154807	VKORC1L1	Other	Menadione154807
+Levomenthol	inducer	162514	TRPV3	Activator	Levomenthol162514
+Vincristine	inhibitor	203068	TUBB	Inhibitor	Vincristine203068
+Podofilox	inhibitor	203068	TUBB	Inhibitor	Podofilox203068
+Vinblastine	binder	203068	TUBB	Ligand	Vinblastine203068
+Tirbanibulin	inhibitor	203068	TUBB	Inhibitor	Tirbanibulin203068
+Vinflunine	inhibitor	203068	TUBB	Inhibitor	Vinflunine203068
+Colchicine	inhibitor|binder	203068	TUBB	Inhibitor	Colchicine203068
+Vinorelbine	antagonist|inhibitor	203068	TUBB	Inhibitor	Vinorelbine203068
+Inclisiran	antisense oligonucleotide	255738	PCSK9	Inhibitor	Inclisiran255738
+Alirocumab	inhibitor	255738	PCSK9	Inhibitor	Alirocumab255738
+Evolocumab	inhibitor	255738	PCSK9	Inhibitor	Evolocumab255738
+Niacin	agonist	338442	HCAR2	Activator	Niacin338442
+Fish oil	agonist|inhibits downstream inflammation cascades	338557	FFAR4	Activator	Fish oil338557
+Creatine	ligand	548596	CKMT1A	Ligand	Creatine548596
